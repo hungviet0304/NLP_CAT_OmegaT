@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131330Z" creationid="hungv" creationdate="20181009T131330Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20-30 watts của quyền lực, trong khi đó AI ngày hôm nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the brain, synapses are both computing and storing information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131447Z" creationid="hungv" creationdate="20181009T131447Z">
+        <seg>"Trong não, các khớp thần kinh vừa là điện toán vừa lưu trữ thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always expected these systems to be much better than conventional computing systems in some tasks, but we were surprised how much more efficient some of these approaches were."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132242Z" creationid="hungv" creationdate="20181010T132242Z">
+        <seg>"Chúng tôi luôn luôn mong đợi các hệ thống này là tốt hơn nhiều so với hệ thống máy tính thông thường trong một số nhiệm vụ, nhưng chúng tôi đã rất ngạc nhiên làm thế nào nhiều hiệu quả hơn một số trong những cách tiếp cận."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always knew they would be efficient, but we didn't expect them to outperform by this much." The team continues to build prototype chips and systems based on brain-inspired concepts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132048Z" creationid="hungv" creationdate="20181010T132048Z">
+        <seg>"Chúng tôi luôn luôn biết họ sẽ có hiệu quả, nhưng chúng tôi đã không mong đợi họ tốt hơn bằng cách này nhiều." Đội tuyển tiếp tục xây dựng nguyên mẫu chip và các hệ thống dựa trên các khái niệm truyền cảm hứng cho não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We could achieve 200 times faster performance in the phase change memory computing systems as opposed to conventional computing systems." Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132259Z" creationid="hungv" creationdate="20181010T132259Z">
+        <seg>"Chúng tôi có thể đạt được 200 lần hiệu quả nhanh hơn trong giai đoạn thay đổi bộ nhớ máy tính hệ thống như trái ngược với hệ thống máy tính thông thường." Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132051Z" creationid="hungv" creationdate="20181010T132051Z">
+        <seg>&lt;f0&gt;Các nhà nghiên cứu của IBM đang phát triển một kiến trúc máy tính mới, trang bị tốt hơn để xử lý tải dữ liệu tăng lên từ trí tuệ nhân tạo.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abu Sebastian, an author on the paper, explained that executing certain computational tasks in the computer's memory would increase the system's efficiency and save energy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T130944Z" creationid="hungv" creationdate="20181009T130944Z">
+        <seg>Abu Sebastian, một tác giả trên giấy, giải thích rằng thực hiện các công việc tính toán nhất định trong bộ nhớ của máy tính sẽ tăng hiệu quả của hệ thống và tiết kiệm năng lượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By applying electrical pulses, the researchers modulated the ratio of material in the crystalline and the amorphous phases so the phase change memory devices could support a continuum of electrical resistance or conductance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132234Z" creationid="hungv" creationdate="20181010T132234Z">
+        <seg>Bằng cách áp dụng xung điện, các nhà nghiên cứu truyến tỷ lệ vật liệu trong các tinh thể và các giai đoạn vô định hình, vì vậy giai đoạn thay đổi bộ nhớ thiết bị có thể hỗ trợ một liên tục của điện trở hoặc dẫn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in a disordered phase, these materials exhibit high resistivity, whereas in a crystalline phase they show low resistivity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132229Z" creationid="hungv" creationdate="20181010T132229Z">
+        <seg>Ví dụ, trong một pha rối loạn, các vật liệu này thể hiện điện trở suất cao, trong khi trong pha tinh thể chúng cho thấy điện trở suất thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a new architecture, going beyond von Neumann, memory has to play a more active role in computing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131533Z" creationid="hungv" creationdate="20181009T131533Z">
+        <seg>Một kiến trúc mới, vượt von Neumann, bộ nhớ đã đóng một vai trò tích cực hơn trong tính toán."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last year, they ran an unsupervised machine learning algorithm on a conventional computer and a prototype computational memory platform based on phase change memory devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132253Z" creationid="hungv" creationdate="20181010T132253Z">
+        <seg>Năm ngoái, họ chạy một máy không có giám sát học thuật toán trên một máy tính thông thường và một nền tảng thử nghiệm tính toán bộ nhớ dựa trên các giai đoạn thay đổi bộ nhớ thiết bị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lastly, the dynamic and stochastic nature of neurons and synapses inspired the team to create a powerful computational substrate for spiking neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132217Z" creationid="hungv" creationdate="20181010T132217Z">
+        <seg>Cuối cùng, năng động và ngẫu nhiên bản chất của các tế bào thần kinh và synapse lấy cảm hứng từ các đội để tạo ra một bề mặt toán mạnh mẽ cho spiking mạng nơ-ron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase change memory is a nanoscale memory device built from compounds of Ge, Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132221Z" creationid="hungv" creationdate="20181010T132221Z">
+        <seg>Bộ nhớ thay đổi pha là một thiết bị bộ nhớ cỡ nano được chế tạo từ các hợp chất Ge, Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sebastian and his IBM colleagues have encountered surprising results in their comparative studies on the efficiency of these proposed systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132248Z" creationid="hungv" creationdate="20181010T132248Z">
+        <seg>Sebastian và IBM đồng nghiệp của ông đã gặp kết quả đáng ngạc nhiên trong các nghiên cứu so sánh về hiệu quả của các hệ thống này được đề xuất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IBM team drew on three different levels of inspiration from the brain.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132201Z" creationid="hungv" creationdate="20181010T132201Z">
+        <seg>Nhóm nghiên cứu của IBM đã thu hút ba mức độ cảm hứng khác nhau từ não bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first level exploits a memory device's state dynamics to perform computational tasks in the memory itself, similar to how the brain's memory and processing are co-located.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132207Z" creationid="hungv" creationdate="20181010T132207Z">
+        <seg>Mức độ đầu tiên khai thác một thiết bị bộ nhớ trạng thái động lực để thực hiện các công việc tính toán trong bộ nhớ chính nó, tương tự như thế nào bộ não bộ nhớ và xử lý là đồng vị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second level draws on the brain's synaptic network structures as inspiration for arrays of phase change memory (PCM) devices to accelerate training for deep neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132213Z" creationid="hungv" creationdate="20181010T132213Z">
+        <seg>Cấp 2 dựa trên bộ não synaptic mạng cấu trúc như nguồn cảm hứng cho mảng thiết bị bộ nhớ (PCM) giai đoạn thay đổi để tăng tốc đào tạo cho các mạng nơ-ron sâu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their designs draw on concepts from the human brain and significantly outperform conventional computers in comparative studies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132053Z" creationid="hungv" creationdate="20181010T132053Z">
+        <seg>Thiết kế của họ thu hút trên các khái niệm từ bộ não con người và đáng kể tốt hơn các máy tính thông thường trong các nghiên cứu so sánh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These compounds exhibit different electrical properties depending on their atomic arrangement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132226Z" creationid="hungv" creationdate="20181010T132226Z">
+        <seg>Các hợp chất này thể hiện các tính chất điện khác nhau tùy thuộc vào sự bố trí nguyên tử của chúng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They report on their recent findings in the &lt;/f0&gt;&lt;f1&gt;Journal of Applied Physics&lt;/f1&gt;&lt;f2&gt;, from AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132113Z" creationid="hungv" creationdate="20181010T132113Z">
+        <seg>Họ báo cáo về những phát hiện tại của họ trong&lt;f1&gt;Tạp chí áp dụng vật lý&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This analog storage better resembles nonbinary, biological synapses and enables more information to be stored in a single nanoscale device.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132237Z" creationid="hungv" creationdate="20181010T132237Z">
+        <seg>Lưu trữ tương tự này tốt hơn giống với các khớp thần kinh sinh học, không đồng nhất và cho phép nhiều thông tin hơn được lưu trữ trong một thiết bị nano đơn lẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today's computers are built on the von Neumann architecture, developed in the 1940s.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132127Z" creationid="hungv" creationdate="20181010T132127Z">
+        <seg>Ngày hôm nay của máy tính được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the stovepipe components in conventional computers, the authors propose that brain-inspired computers could have coexisting processing and memory units.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132137Z" creationid="hungv" creationdate="20181010T132137Z">
+        <seg>Không giống như các thành phần stovepipe trong thông thường các máy tính, các tác giả đề nghị lấy cảm hứng từ bộ não máy tính có thể có coexisting xử lý và các đơn vị bộ nhớ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Von Neumann computing systems feature a central processer that executes logic and arithmetic, a memory unit, storage, and input and output devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132133Z" creationid="hungv" creationdate="20181010T132133Z">
+        <seg>Hệ thống máy tính của von Neumann đặc trưng với một trung tâm processer thực hiện logic và số học, một đơn vị bộ nhớ, lưu trữ và các thiết bị đầu vào và đầu ra.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

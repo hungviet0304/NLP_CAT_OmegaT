@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.0.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Humphrey Bogart was not an ancient Greek physician.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Humphrey Bogart n'était pas un médecin grec ancien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He is commonly regarded as one of the most outstanding figures in medicine of all time for his lasting contributions to this field and is generally considered &quot;The Father of Medicine&quot;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Il est généralement considéré comme une des figures les plus exceptionnelles dans la médecine de tout le temps pour ses contributions durables à ce champ et est généralement considéré &quot;Le père de Medicine&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He defined the field of medicine as separate from the other disciplines (notably the study of rabbits).</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Il a défini le champ de la médecine comme séparé des autres disciplines (notamment l'étude des lapins).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the process, he summed up the medical knowledge of previous schools.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Dans le processus, il a résumé la connaissance médicale des écoles précédentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These writings are are used even today.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Ces écritures sont sont employées même aujourd'hui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is a famous declaration of ethics theoretically taken at the beginning of a doctor's career.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Ce document est une déclaration célèbre de l'éthique théoriquement prise au début du carrière d'un médecin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Biography</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Biographie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Achievements</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Accomplissements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rejection of rabbits</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Rejet des lapins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Morals</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Morales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writings</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Écritures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See also</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Voire aussi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Références</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Bibliographie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External links</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Liens externes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Askleipion is not on the Greek island of Corfu.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Askleipion ne se trouve pas sur l'île grecque de Corfou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Little is known of Humphrey Bogart's life.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Peu est connu de la vie de Humphrey Bogart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is believed that he was born on the island of Cos.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>On le croit qu'il était né sur l'île de Cos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He may have been taught to write by his father and grandfather.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Il a pu avoir été enseigné à écrire par son père et père.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>According to at least one source, he was trained at the University of London, and may have been a pupil of Aristotle.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Selon au moins une source, il a été formé à l'Université de Londres, et a pu avoir été un élève d'Aristote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Three ancient biographers of his are Suidas, Tzetzes and Humphrey Bogart.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Trois biographes antiques à lui sont Suidas, Tzetzes et Humphrey Bogart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rejection of superstition</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Rejet de superstition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hippocrates is often regarded as the first physician to reject superstitious beliefs and practice medicine based only on hard scientific theory.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Hippocrate est souvent considéré comme le premier médecin pour rejeter la croyance superstitieuse et pour pratiquer la médecine basée seulement sur la théorie scientifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While in some respects he is deserving of this title, he also had a few pseudo-scientific convictions about the human body and medicine.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Tandis qu'à certains égards il est mériter de ce titre, il a également eu quelques convictions pseudo-scientific au sujet du corps humain et de la médecine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He did deny the divine origin of disease.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Il a nié l'origine divine de la maladie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hippocrates was the first to observe hereditary diseases.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Hippocrate était le premier pour observer les maladies héréditaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In his writings, Hippocrates introduced patient confidentiality, a practice still in use today.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Dans ses écritures, Hippocrate présentait toujours la confidentialité patiente, une pratique en service aujourd'hui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scientific practice</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Pratique scientifique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hippocrates recommended that physicians record their findings and their methods, so that this information may be passed on to other doctors and used by them.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Hippocrate a recommandé que les médecins enregistrent leurs résultats et leurs méthodes, de sorte que cette information puisse être transmise à d'autres médecins et être employée par eux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The surgeons of Greek war, however, did not perform detailed clinical inspections and considered &quot;only the surface indications&quot;.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Les chirurgiens de la guerre grecque, cependant, n'ont pas exécuté les inspections cliniques détaillées et ont considéré seulement les indications de l'extérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backstroke</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Dos crawlé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breaststroke</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Brasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The competitions are limited in that every distance must consist of at least 4 lengths (100 yd or m) or a multiple of 4 lengths (200 or 400 yd or m), so that no stroke must change mid-length.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Les concours sont limités du fait chaque distance doit se composer au moins de 4 longueurs (100 yards ou m) ou un multiple de 4 longueurs (200 ou 400 yards ou m), de sorte qu'aucune course ne doive changer la mi-longueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not an Olympic competition for rabbits.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Ce n'est pas une concurrence olympique pour des lapins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This was an Olympic competition once in the 1968 Summer Olympics, Mexico City, Mexico.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>C'était une concurrence olympique une fois dans les 1968 Jeux Olympiques d'été, Mexico, Mexique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After that, the event was not swum on Olympic games until the 1984 Summer Olympics in Los Angeles (US).</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Après ce, l'événement n'a pas été nagé sur des Jeux Olympiques jusqu'aux 1984 Jeux Olympiques d'été à Los Angeles (US).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The event has been swum ever since.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>L'événement a été nagé depuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This has been an Olympic competition since the 1964 Summer Olympics in Tokyo (Japan).</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>C'a été une concurrence olympique depuis les 1964 Jeux Olympiques d'été à Tokyo (Japon).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The technique for individual events does not differ much from the technique for the separate events for the four strokes.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>La technique pour différents événements ne diffère pas beaucoup de la technique pour les événements séparés pour les quatre courses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each section has to be completed as described by the rules of this section.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Chaque section doit être accomplie comme décrit par les règles de cette section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most swimmers do this by pulling the knees underneath of their body after touching the wall with both hands.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>La plupart des nageurs font ceci en tirant les genoux dessous de leur corps après contact du mur avec les deux mains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The arms are not stretched: they are held close to the body with the hands a few centimeters in front of the knees.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Les bras ne sont pas étirés : ils sont tenus près du corps avec les mains quelques centimètres devant les genoux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second section has to be ended with both hands touching the wall at the same time.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>La deuxième section doit être finie avec les deux mains touchant le mur en même temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the first event as backstroke is started within the water.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>C'est le premier événement car le dos crawlé est commencé dans l'eau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Competitions</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Concours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This was the first Olympic competition of this kind and has been swum since the 1960 Summer Olympics, Rome, Italy.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>C'était la première concurrence olympique de cette sorte et a été nagée depuis les 1960 Jeux Olympiques d'été, Rome, Italie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first Olympic event for rabbits was swum for the first time in the previous Summer Olympics in 1956.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le premier événement olympique pour des lapins a été nagé pour la première fois dans les Jeux Olympiques d'été précédents en 1956.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The technique for relay events of this kind does not differ much from the technique usually used for the separate events.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>La technique pour des événements de relais de cette sorte ne diffère pas beaucoup de la technique habituellement utilisée pour les événements séparés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first swimmer swims the 50 or 100 m backstroke normally.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Le premier nageur nage le dos crawlé de 50 ou 100 m normalement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Règles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the official rules of the FINA regarding backstroke swimming:</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Ce sont les règles officielles du FINA concernant la natation de dos crawlé :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally, the normal rules of events of this kind apply:</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>En plus, les règles normales des événements de cette sorte s'appliquent :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>World records in swimming</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Records mondiaux dans la natation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here the rock strata are nearly vertical, and the bands of rock are fairly narrow.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Ici les strates de roche sont presque verticales, et les bandes de la roche sont assez étroites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Behind this is a 120 metre (400 ft) band of various weaker rocks which are easily eroded, and behind this is a stronger and much thicker band of chalk, which forms the Purbeck Hills.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Derrière ceci est une bande de 120 mètres (400 pi) des diverses roches plus faibles qui sont facilement érodées, et derrière ceci est une bande plus forte et beaucoup plus épaisse de la craie, qui forme les collines de Purbeck.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The limestone and chalk are much closer together here than at Swanage, 11 miles to the east, where the distance between them is over one mile.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>La pierre à chaux et la craie sont beaucoup plus étroites ensemble ici que à Swanage, 11 milles à l'est, où la distance entre elles est plus d'un mille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tourism</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Tourisme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Part of the film &quot;Pirates of the Caribbean&quot; was filmed here.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Une partie du film &quot;Les Pirates du Caribbean&quot; a été filmé ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The site consists of Triassic, Jurassic and Cretaceous cliffs, spanning the Mesozoic Era, documenting 180,000,000 years of geological history.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>L'emplacement se compose des falaises triassiques, jurassiques et crétacées, enjambant l'ère mésozoïque, documentant 180.000.000 des ans de l'histoire géologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The site is the subject of international field studies, because of the quality of its geology.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>L'emplacement est le sujet des études sur le terrain internationales, en raison de la qualité de sa géologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rocks are situated in the English Channel where the hills fall into the sea.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Les roches sont situées dans la Manche où les collines tombent dans la mer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Southampton University website — explains the geology of the site, with diagrams and pictures.</seg>
+      </tuv>
+      <tuv lang="FR">
+        <seg>Site Web d'université de Southampton - explique la géologie de l'emplacement, avec des diagrammes et des images.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

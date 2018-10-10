@@ -1,0 +1,10 @@
+biotope	biotop
+animal	živočich
+plant	rostlin
+phytocoenosis	fytocenóza
+association	společenstvo
+concepts	koncepty
+community	komunita
+ecological	ekologicky
+floral	květní
+biotic	biotický

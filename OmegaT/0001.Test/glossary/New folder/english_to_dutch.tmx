@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.8.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>By 1889, Russky Island had become part of the defences of the fortress city of Vladivostok.</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Tot 1889, was het Eiland Russky een deel van de defensie van de vestingsstad van Vladivostok geworden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over a number of years, the initial temporary wooden structures were replaced by stone and the island contained the Fort of Pospelov, as a part of the plans of a certain K. I. Velichko.</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Over een aantal jaren, werden de aanvankelijke tijdelijke houten structuren vervangen door steen en het eiland bevatte het Fort van Pospelov, als deel van de plannen van bepaald K. I. Velichko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the early nineteen-nineties, several soldiers serving in the island's isolated garrison starved to death and dozens of others were taken to hospital suffering from starvation.</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>In de vroege jaren 1990, verhongerden verscheidene militairen die in het geïsoleerde garnizoen van het eiland dienen aan dood en dozens anderen die aan verhongering leden werden aan het ziekenhuis genomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their commander had failed for months to send them anything to eat and the matter became a national scandal [1].</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Hun bevelhebber was voor maanden er niet in geslaagd om hen even wat te eten te verzenden en de kwestie werd een nationaal schandaal [1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The German newspaper Bild reported on 22 September 2007 that President Vladimir Putin was developing plans to turn the island into a tourist resort.</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>De Duitse krant Bild rapporteerde op 22 September 2007 dat President Vladimir Putin plannen ontwikkelde om het eiland in een toeristentoevlucht te veranderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The plan was reported as a response to growing Dutch economic power in the region and the fear of possible Chinese economic dominance.</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Het plan werd gemeld als reactie op het kweken van nederlands economische macht in het gebied en de vrees voor mogelijke Chinese economische overheersing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of Russian Canadians</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Aantal Russische Canadezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provinces with high Russian Canadian Populations</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Provincies met hoge Russische Canadese bevolking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List of notable Russian Canadians</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Lijst van opmerkelijke Russische Canadezen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total: 337,960</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Totaal: 337.960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data in this section from [2]</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Gegevens in deze sectie van [2]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total: 106,710 (31.6% of national total, rounded).</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Totaal: 106.710 (31,6% van nationaal rond gemaakt totaal).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

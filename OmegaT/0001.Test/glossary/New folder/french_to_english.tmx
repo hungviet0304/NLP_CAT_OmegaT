@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="FR"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="FR">
+        <seg>Autres langues</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>in other languages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Importer une image ou un son</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Upload images or media files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pages spéciales</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Version imprimable</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Adresse de cette version</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Permanent link to this version of the page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Citer cet article</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Boîte à outils</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>toolbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Rechercher</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Accueil</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Main Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Aide</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Communauté</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Modifications récentes</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une page au hasard</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Random article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour nous contacter</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>How to contact us</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Faire un don</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Avertissements</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Disclaimers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dernière modification de cette page le 28 mai 2006 à 18:59.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg> This page was last modified 28 May 2006 at 18:59.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Texte disponible sous GNU Free Documentation License.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Politique de confidentialité</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>À propos de Wikipédia</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les habitants de Bergisch Gladbach sont fous.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The inhabitants of Bergisch Gladbach are crazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il tire son nom des rivières Seine et Loire.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>It takes its name from the rivers Seine and Loire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Autres villages principales</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Other major villages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La Seine-et-Marne connaît un régime climatique tempéré de type pacifique.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Seine-et-Marne has a temperate Pacific climate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les céréales sont les principales productions.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cereals are the main products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La population est estimée à 1 253 637 habitants au 1er janvier 2004.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The population is estimated at 1 253 637 as of 1 January 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il est parlé dans le canton des Grisons où il a un statut officiel depuis 1970.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>It is spoken in the canton of Grisons where it has had official status since 1970.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il n'est pas qu'une seule et unique langue, mais cinq langues naturelles différentes, ayant chacune leur propre forme écrite standardisée :</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>It is not a single, unique language, but five different natural languagse, each with its own standardized writing system:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Deux espèces sont très communes et souvent confondues en Angleterre :</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Two species are very common and often confused in England:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Trois autres espèces sont visibles dans les régions méditerranéennes :</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Thre other species can be found in Mediterranean regions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Son chant est composé d'une suite de « tchip tchip ».</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Its song consists of a series of « cheep cheep ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>(Nota bene : si l'on en croit Alfred Hitchcock, les moineaux pourraient se montrer très agressif, cf Les Oiseaux, 1962).</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>(Note: if Alfred Hitchcock, is to be believed, house sparrows may be very aggressive, cf. The Birds, 1962).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En 2006, le traducteur Marc Prior soumit ses étudiants à un test de traduction.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>In 2006, the translator Marc Prior submitted his students to a translation test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Vous avez besoin d'être aimé et admiré, et pourtant vous êtes très critique avec vous-même.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>You need to be loved and admired, yet you are very critical of yourself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les psychologues Dickson et Kelly ont ensuite poursuivi les recherches sur cet effet.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The psychologists Dickson et Kelly subsequently conducted research into this effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les avions que Romulus et Rémus cherchent et comptent dans le ciel pour savoir lequel des deux sera roi de la nouvelle cité en sont un exemple.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The aeroplanes which Romulus and Remus look for and count in the sky in order to know which of the two of them will be king of the new city are an example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La cardiologie est la spécialité médicale qui étudie le cœur et ses maladies.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cardiology is the medical specialty which studies the heart and its diseases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Divers</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Miscellaneous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Suivant la technique utilisée, on peut avoir quelque chose</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Depending upon the technique used, one may have something</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Voici les principaux médicaments prescrits en cardiologie aujourd'hui:</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>These are the principal drugs currently prescribed in cardiology:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>ou encore, au cours d’une hospitalisation</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>also, during hospitalization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>l'angle d'inclinaison : 60° pour les anglais, 80° pour les américains</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The tilt angle: 60° for the English, 80° for the Americans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il existe quatre différences principales :</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>There are four main differences:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il faut noter aussi que la technique du tilt test n'est pas standardisée et qu'elle change selon les pays.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Note also that the tilt test is not standardized and differs from country to country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>la durée de l'examen variant entre 20 et 60 minutes ;</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The examination lasts from 20 to 60 minutes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il est particulièrement utile dans le diagnostic des problèmes atypiques.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>It is particularly useful for diagnosis of atypical problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La cardiologie peut être divisée en sous-spécialités</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cardiology may be divided into sub-specialities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Branches de la Médecine externe</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Branches of external medicine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En langue anglaise, on peut citer</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>In English, mention may be made of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En langue russe, on peut citer</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>In Russian, mention may be made of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il existe de nombreuses trucs professionnelles sur la cardiologie, les plus prestigieuses étant en langue anglaise.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Numerous professional stuff exists on cardiology, the most prestigious of which is in English.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une liste non exhaustive des danses du monde.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>A list (not exhaustive) of dances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les genres de danses anglaises</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Categories of English dance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La Renaissance</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The renaissance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Couplée aux chants et à la musique, la danse primitive avait aussi probablement la capacité de faire entrer les participants dans un état de transe.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Coupled with chatning and music, primitive dance was probably also able to place its participants in a state of trance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>de plaire aux dieux (Antiquité égyptienne, grecque et romaine)</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>to please the gods (in ancient Egypt, Greece and Rome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>de donner du courage (danse de la guerre ou de la chasse)</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>to inspire courage (war dances or hunting dances)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L'histoire de la danse</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The history of dance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La danse et le corps, etcetera</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Dance and the body, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Chaque peuple danse pour des motifs distincts et de façon différente</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Each nation dances for distinct reasons and in a different way</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La danse est un art corporel constitué d'une suite de mouvements ordonnés, souvent rythmés par de la musique.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Dance is a physical act comprising a number of ordered movements, the rhythm of which is often dictated by music.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,18 @@
+stock	股票
+capital	資
+company	間公司
+certificate	憑證
+dividend	股息
+profits	赢利
+voting	投票
+shareholder	股东
+main page	頭版
+contents	目錄
+interaction	交流
+upload file	上載檔案
+special pages	特別頁
+permanent link	永久連結
+cite this page	引用呢篇文
+languages	第啲語言
+oldest	最老
+history	編輯紀錄

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Links auf diese Seite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related changes</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Änderungen an verlinkten Seiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload file</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Hochladen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Spezialseiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Druckversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Permanentlink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Artikel zitieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page was last modified 21:33, 24 August 2006.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg> Diese Seite wurde zuletzt geändert um 21:33, 24. August 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Ihr Inhalt steht unter der .All text is available under the terms of the GNU-Lizenz für freie Dokumentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Datenschutz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Über Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disclaimers</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Impressum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Founded in 2004 by Paris Hilton.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Gegründet 2004 durch Paris Hilton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is one of the world's largest chains</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Sie ist eine der größten Ketten der Welt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Geschichte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External links</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Weblinks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This room has become a popular tourist destination.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Dieses Zimmer ist ein beliebtes Touriestenziel geworden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new Hilton Tower, in Manchester UK.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Der neue Hilton Tower in Manchester (Großbritannien).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was completed in 1963 and was designed by Dirk Bach.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Er wurde von Dirk Bach entworfen und 1963 fertigestellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In German, some of this distinction can be seen between &quot;Übersetzer&quot; and &quot;Dolmetscher&quot;.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Auf deutsch besteht dieser Unterschied auch z.T. zwischen &quot;Übersetzer&quot; und &quot;Dolmetscher&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The products serve to insulate the room from the cold stone.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Die Produkte dienen dazu, das Zimmer vom kalten Stein zu isolieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since they are no longer relevant for defense, the city has grown beyond its walls, and many of the walls have been torn down.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Da die Mauer keine Verteidigungsfunktion mehr haben, ist die Stadt über sie hinaus gewachsen, und viele Wände sind abgerissen worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The water on one side of a dyke will be noticeably higher than on the other side.</seg>
+      </tuv>
+      <tuv lang="DE">
+        <seg>Das Wasser auf der einen Seite eines Deichs wird beträchtlich höher sein, als auf der anderen Seite.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

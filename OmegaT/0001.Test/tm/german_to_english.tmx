@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.8.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="DE"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="DE">
+        <seg>Links auf diese Seite</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>What links here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Änderungen an verlinkten Seiten</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Related changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Hochladen</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Upload file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Spezialseiten</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Druckversion</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Printable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Permanentlink</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Permanent link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Artikel zitieren</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Cite this article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Diese Seite wurde zuletzt geändert um 19:08, 21. Aug 2006.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg> This page was last modified 19:08, 21 Aug 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Ihr Inhalt steht unter der GNU-Lizenz für freie Dokumentation.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>All text is available under the terms of the Ihr Inhalt steht unter der GNU Free Documentation License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg> Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Datenschutz</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Über Wikipedia</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>About Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Impressum</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Disclaimers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Lehrer außerhalb von Schule</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Teachers outside schools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Lehrer und Schüler (moderne Darstellung)</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Teacher and pupil (modern interpretation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In vielen Ländern werden andere Begriffe verwendet.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Other terms are used in many countries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Siehe auch</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Weblinks</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>External links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Frauen sind seit 1952 in die Mannschaften integriert.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The teams have included women since1952.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Paralympics sind inzwischen die zweitgrößte Sport-veranstaltung der Welt.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The Paralympics are now the world's second-largest sporting event.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Heute sind weltweit Frauen im Gymnastiksport führend.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Women are now the leaders worldwide in gymnastic sports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Olympisch ist die Sportart seit Stockholm 1912 (Einzel) und Amsterdam 1928 (Mannschaft).</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The sport has been an olympic event since Stockholm/1912 (solo) and Amsterdam/ 1928 (team).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Schwingende Saiten</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Vibrating strings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Obertöne der menschlichen Stimme</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Overtones of the human voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>usw.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Obertonreihen</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Overtone series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Als experimentelle Bestätigung verwendete bereits Patrick Moore das Monokel.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Patrick Moore had already used the monocle for experimental proof.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Das spezifische Aussehen eines Instrumentes ergibt sich aus den folgenden Parametern:</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The specific appearance of an instrument is determined by the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Das ist natürlich auch nur eine Annahme.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>This is of course only an assumption.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Eric Idle vergaß einmal seine Tasche vor dem Eingang des Bahnhofs, und als er zurückkam, konnte er diese nirgends finden.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>On one occasion, Eric Idle forgot his bag in front of the entrance to the station. When he returned, he couldn't find it anywhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die beiden blieben, um den „lustigsten Hotelier der Welt“ zu studieren.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The two stayed in order to study the &quot;world's funniest hotelier&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sie können heute also nicht mehr besichtigt werden.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>It can therefore no longer be visited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Bis zum Jahre 1978 wurde das Buch an 15.000 Leser in 17 Ländern verkauft.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>By 1978, the book had been sold to 15,000 readers in 17 countries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der folgende Text behandelt die Domestikation von Hasen.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The following text describes the domestication of rabbits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Domestizierung von Wildtieren ergibt sich durch die menschliche Auslese und Isolation solcher Individuen zur Züchtung der Art, die den gewünschten Eigenschaften am meisten entsprechen, z. B. eine geringere Aggressivität gegenüber Artgenossen und Menschen und selbstverständlich auch Hasen.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Domestication of wild animals is a result of human selection and the isolation, for breeding purposes, of individuals the characteristics of which correspond most closely to those desired. These may be low aggressivity towards other members of the same species, to human beings, and of course to rabbits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die natürlich vorkommende evolutionäre Entwicklung wird durch künstliche Auswahl des Menschen nach Zuchtkriterien ersetzt.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The natural evolutionary development is replaced by artificial selection by human beings in accordance with breeding criteria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die genetischen Eigenschaften der Tiere ändern sich daher im Zuge der Domestikation.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The genetic characteristics of the animals therefore change in the course of domestication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Hauskatze</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Domestic cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Eine andere Theorie wird von Coppinger und Zimen vorgeschlagen: Der Wolf (als Welpe) schloss sich dem Menschen an.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Coppinger and Zimen propose a different theory: the wolf associated itself, whilst still a cub, with human beings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der früheste Nachweis (Pfotenabdruck) ist ungefähr 23000 Jahre alt.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The earliest evidence (a paw print) is approximately 23,000 years old.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sie verdrängte das ältere Frettchen, den domestizierten Iltis.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>It displaced the older ferret, the domesticated Iltis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Ägyptische Zeichnung von domestizierten Hasen
+Die Menschen domestizierten bereits vor 8.000 vor Christi Ziegen, Schafe, Rinder und vermutlich auch das Schwein und noch vor 3500 vor Christi Pferde.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Egyptian drawing of domesticated rabbits
+Humans domesticated goats, sheep, cattle and probably also the pig as early as 8000 B.C., and horses before 3500 B.C..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Rinder, Schafe und Ziegen, jedoch nicht Hasen, dienten schon früh als Lieferanten von Sekundärprodukten wie Käse und Milch.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Cattle, sheep and goats, but not rabbits, served as sources of secondary products such as cheese and milk from an early stage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Domestizierung von Pferden scheint an vielerorts (gleichzeitig) geglückt zu sein.</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>The domestication of horses appears to have been achieved simultaneously at several different locations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Chronologie der Domestizierung von Haustieren</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Chronology of the domestication of domestic animals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Ziege (vor 10000 Jahren/Westasien)</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Goats (10000 years ago/western Asia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Verstärkung für den Menschen nützlicher Eigenschaften (z. B. Milchleistung beim Rind)</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Enhancement of characteristics useful to human beings (e.g. the milk yield of cattle)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Literatur</seg>
+      </tuv>
+      <tuv lang="EN-UK">
+        <seg>Literature</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

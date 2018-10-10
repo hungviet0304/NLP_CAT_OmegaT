@@ -1,0 +1,35 @@
+language	lingua
+population	popolazione
+spoken language	lingua parlata
+fifty	cinquanta
+concentrations	concentrazioni
+island	isola
+city	città
+soldiers	soldati
+garrison	guarnigione
+years	anni
+temporary	provissorio
+Chinese	cinese
+economic	economico 
+knowledge	sapienza
+family	familia
+orthodox	ortodosso
+definition	definizione
+seal	sigillo
+discovered	scoperto
+human	umano
+modern	moderno
+prototipo	prototype
+bull	toro
+concept	concetto
+commentator	commentatore
+philosophy	filosofia
+six	sei
+discipline	disciplina
+intimate	intimo
+system	sistema
+author	autore
+fragments	frammenti
+century	secolo
+enlightenment	chiaramento, illuminismo
+contemplation	contemplazione

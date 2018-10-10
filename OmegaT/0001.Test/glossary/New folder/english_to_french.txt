@@ -1,0 +1,27 @@
+physician	médecin
+commonly	généralement
+medicine	médecine
+lasting	durable
+father	père
+field	champ
+lapin	rabbit
+lapins	rabbits
+notably	notamment
+biography	biographie
+achievements	accomplissements
+writings	écritures
+links	liens
+bibliography	bibliographie
+superstition	superstition
+origin	origine
+disease	maladie
+article	article
+discussion	discussion
+edit this page	modifier
+history	historique
+navigation	navigation
+toolbox	bôite à utils
+languages	autres langues
+donate to Wikipedia	faire un don
+random article	un article au hasard
+

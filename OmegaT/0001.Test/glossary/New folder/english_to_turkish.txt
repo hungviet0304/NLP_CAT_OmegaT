@@ -1,0 +1,22 @@
+navigation	gezinti
+Main page	Ana sayfa
+Contents	İçindekiler
+Featured content	Seçkin içerik
+Random article	Rastgele madde
+search	ara
+interaction	katılım
+About Wikipedia	Wikipedia hakkında
+Community portal	Topluluk partalı
+Recent changes	Son değişikikler
+Donate to Wikipedia	Wikipediaya bağış yapmak
+Help	Yardım
+toolbox
+What links here	Sayfaya bağlantılar
+Related changes	İlgili değişikikler
+Special pages	Özel sayfalar
+languages	diğer diller
+article	madde
+discussion	tartışma
+view source	kaynağı gör
+history	geçmiş
+

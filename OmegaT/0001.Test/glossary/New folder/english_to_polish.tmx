@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Linkujące</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related changes</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Zmiany w dolinkowanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload file</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Prześlij plik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Strony specjalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Wersja do druku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Link do tej wersji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Cytowanie tego artykułu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page was last modified 18:10, 24.08.2006.</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg> Tę stronę ostatnio zmodyfikowano o 18:10, 24.08.2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License.</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Tekst udostępniany na licencji GNU Free Documentation License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Wikipedia® jest zarejestrowanym znakiem towarowym Wikimedia Foundation. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Zasady ochrony prywatności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>O serwisie Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disclaimers</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Informacje prawne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lubusz Voivodeship</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Wojewodztwo lubuskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Medley</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Styl zmienny</seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg>Backstroke</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Styl grzbietowy</seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg>Butterfly</seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg>Styl motylkowy</seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="PL">
+        <seg></seg>
+      </tuv>
+    </tu>
+
+
+
+
+  </body>
+</tmx>

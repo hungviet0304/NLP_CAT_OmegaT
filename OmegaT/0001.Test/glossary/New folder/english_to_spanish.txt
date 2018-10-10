@@ -1,0 +1,45 @@
+children	niños
+article	articulo
+systematic	sistemática
+edit	editar
+Main Page	Portada
+Community Portal	Portal de la comunidad
+Current events	Actualidad
+Recent changes	Cambios recientes
+Help	Ayuda
+Donations	Donativos
+search	buscar
+Categories	Categorías
+religion	religión
+activities	actividades
+History	Historia
+etymological origin	Origen etimológico
+Cultura	Cultura
+Transport	Transporte
+Tourism	Turismo
+Architecture	Arquitectura
+External links	Enlaces externos
+regions	regiones
+species	especie
+rye	secale cereale
+member	miembro
+is used for	se utilaza para
+highly tolerant	altamente tolerante
+soil acidity	acidez del suelo
+island	isla
+principal	principales
+industries	industrias
+turism	turismo
+agriculture	agricultura
+scenery	escenarios
+culture	cultura
+geography	geografía
+history	historia
+cooking hervir
+cleaning	limpia
+water	acuatico, agua, fundir
+large	anchuroso, gran, grande
+move	mpulsar, mudar, conmover, editar, mudanza, mover
+characteristic	 signo, calificatido, atributo, característica
+
+

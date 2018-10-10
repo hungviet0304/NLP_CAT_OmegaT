@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.0.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>In financial markets, a share is a unit of account for various financial instruments including stocks, mutual funds, limited partnerships.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在金融市场上，份额是会计单位各种各样的金融证券的包括股票，共同基金，有限合伙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In British English, use of the word shares in the plural to refer to stock is so widespread that it almost replaces the word stock itself.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在英国英语，对在复数的词份额的用途提到股票很普遍它几乎替换词股票。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In American English, the plural stocks is often used instead of shares, in other words to refer to the stock (or perhaps originally stock certificates) of even just one company.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在美国英语，复数股票是常用的而不是份额，换句话说提到股票(或许或最初股票簿)甚而一家公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The traditional insistence that the plural stocks be used only when referring to stock of more than one company is not common nowadays.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>复数股票使用，只有当提到股票时的传统坚持超过一家公司现今不是共同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The income received from shares is called a dividend, and someone owning shares is called a shareholder.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>从份额领取的报酬称股息，并且拥有份额的某人称股东。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A share is one of a finite number of equal portions in the capital of a company, entitling the owner to a proportion of distributed, non-reinvested profits known as dividends, and to a portion of the value of the company in case of liquidation.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>份额是一个相等的部分的一个有限数字在公司的首都的，给权所有者对叫作股息的分布的，非被再投资的赢利的比例和对公司的价值的部分在清盘的情况下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shares can be voting or non-voting, meaning they either do or do not carry the right to vote on the board of directors and corporate policy.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>份额可以是投票或弃权的，意味他们做或不运载权利对理事和公司政策投票。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether this right exists often affects the value of the share.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这权利是否经常存在影响份额的价值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Voting and non-voting shares are also known as Class A and B shares respectively.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>亦称投票和弃权部份分别为类A和B份额。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

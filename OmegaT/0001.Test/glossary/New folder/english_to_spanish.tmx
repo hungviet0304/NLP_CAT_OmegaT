@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Lo que enlaza aquí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related changes</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Cambios en enlazadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upload file</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Subir archivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Páginas especiales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Versión para imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Enlace permanente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Citar este artículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page was last modified 09:39, 29 August 2006.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Esta página fue modificada por última vez a las 09:39 29 ago 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>El contenido está disponible bajo los términos de la Licencia de documentación libre de GNU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(See Copyrights for details.) </seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>(véase Copyrights para más detalles.) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Wikipedia® es una marca registrada de Wikimedia Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Política de privacidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Acerca de Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disclaimers</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Aviso lega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A hotel is an establishment that provides paid lodging, usually on a short-term basis.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Un hotel es un edificio planificado y acondicionado para albergar a las personas temporalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hotels often provide a number of additional guest services such as a restaurant, a swimming pool or childcare.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Los hoteles proveen a los huéspedes de servicios adicionales como restaurantes, piscinas y guarderías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some hotels have conference services and meeting rooms and encourage groups to hold conventions and meetings at their location.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Algunos hoteles tienen servicios de conferencias y animan a grupos a organizar convenciones y reuniones en su establecimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word hotel derives from the French hôtel, which referred to a French version of a townhouse, not a place offering accommodation (in contemporary usage, hôtel has the meaning of &quot;hotel&quot;, and hôtel particulier is used for the old meaning).</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>La palabra hotel deriva del francés hôtel, que originalmente se refería a una versión francesa de una casa adosada, no a un lugar que ofreciera alojamiento. En el uso actual, hôtel también tiene el significado de &quot;hotel&quot; y hôtel particulier es usado para referirse al viejo significado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kingdom:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Reino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Order:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Orden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Class:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Clase:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Division:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>División:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg></seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Family:</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Familia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tropical and sub-tropical regions of eastern Africa</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Las regiones tropicales y subtropicales de África oriental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>La destilería de Talisker, que produce una bebida alcohólica a base de whisky, se encuentra a un costado del lago Harport, en la costa oeste de la isla.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>The Talisker Distillery, which produces a whiskey-based alcoholic beverage, is beside Loch Harport on the west coast of the island.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of all the Inner Hebrides, Skye has the most in common with the Outer Hebrides, with half the population speaking Gaelic.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>De todas las Hébridas Interiores, Skye es la que tiene más en común con las Hébridas Exteriores, con casi la mitad de la población hablando Gaélico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The coastline of Skye is a series of peninsulas, including Trotternish to the north, Strathaird, Minginish and Duirinish, and Waternish in the west, and Sleat in the south.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>La línea costera de Skye es una serie de penínsulas, incluyendo Trotternish al norte, Strathaird, Minginish, Minginish y Waternish al este, y Sleat en el sur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The island has some of the most dramatic and challenging mountain terrain in Scotland, including the Cuillin, as well as a rich heritage of ancient translators.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Esta isla tiene uno de los más dramáticos y desafiantes terrenos montañosos de Escocia, incluyendo Cuillin, y también un gran patrimonio de antiguos traductores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At 1656 km², Skye is the second largest island in Scotland after Lewis with Harris.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Con 1656 km², Skye es la segunda isla más grande de Escocia, después de Lewis y Harris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skye is renowned for its scenery, culture and heritage, as well as its abundant wildlife including the Golden Eagle, Red Deer, Sea Eagle and the Otter.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Skye es renombrado por sus escenarios, cultura y patrimonio, así también como por la abundante vida silvestre, incluyendo águilas reales, ciervos rojos, águilas marinas y nutrias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Isle of Skye, commonly known as Skye, is the largest island in the Inner Hebrides of Scotland.</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Skye, también llamada "Isla de Skye", es la isla más grande de las Hébridas Interiores, en Escocia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Lo que enlaza aquí</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Cambios en enlazadas</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Related changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Subir archivo</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Upload file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Páginas especiales</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Versión para imprimir</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Enlace permanente</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Citar este artículo</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta página fue modificada por última vez a las 04:40 28 jul 2006.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>This page was last modified 04:40 28 Jul 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El contenido está disponible bajo los términos de la Licencia de documentación libre de GNU (véase Copyrights para más detalles).</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Wikipedia® es una marca registrada de Wikimedia Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Política de privacidad</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Acerca de Wikipedia</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>aire acondicionado</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>air conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>lavadora</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>washing machine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>congelador y</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>freezer and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>refrigador</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>refrigerator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pequeñas aplicaciones</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Small appliances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>clothes dryer</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>secador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ayuda</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Cambios recientes</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Portal de la comunidad</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Community portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Navegación</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+
+
+    <tu>
+      <tuv lang="EN">
+        <seg>The sub-tropical regions of eastern Africa</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Las regiones subtropicales de África oriental</seg>
+      </tuv>
+    </tu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</tmx>

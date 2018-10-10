@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.8.0"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="RU"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="RU">
+        <seg>теории права и государства, философии, истории правовых учений и др.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>theories of law and the state, philosophy, histories of legal doctrines, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Конкретное определение права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Specific definition of law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Фактически, каждый исследователь права даёт свое определение</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>In fact, each researcher of law provides his own definition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В истории юриспруденции не раз указывалось, что универсальное определение права не может быть дано и всегда зависит от конкретной правовой системы.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Over the history of jurisprudence not time it was specified that a universal definition of law is not possible, and always depends upon the legal system in question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Содержание</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>maintenance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Понятие права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Concept of law</seg>
+      </tuv>
+    </tu>    <tu>
+      <tuv lang="RU">
+        <seg>нормативной школы права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>normative school of law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Правопонимание социологической школы права и кроликов</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>sociological school of law and of rabbits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>нравственной школы права и кроликов</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>moral school of law and of rabbits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Классификация понятий</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Classification of concepts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Юридическое</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>философской школы права (и кроликов)</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>philosophical school of law (and of rabbits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>позитивистской школы права (и кроликов)</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>positivistic school of law (and of rabbits)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Концепции происхождения русского права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Concepts of the origin of Russian law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Признаки права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>legal attributes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отрасли права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Branches of law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>русская Литература</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Russian literature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Смотрите также</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ссылки</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>References</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Понятие и понимание</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Concept and understanding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Этот кролик не завершён.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>This rabbit is not completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Вы можете помочь кролику, исправив его.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>You can help the rabbit, by correcting him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для нравственных школ права характерно его выведение из правой культуры общества.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>The moral school of law is characterized by the correct culture of a society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Право рассматривается как форма общественного сознания.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>The right is considered as a form of public consciousness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Классификация понятий и пониманий права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Classification of concepts and understandings of law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Согласно кролику право представляет собой продукт деятельности государства, устанавливаемый государственной властью и охраняемый силой государственного принуждения.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>According to the rabbit, law is a product of activity of the state, established by the government and protected by the power of state organs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По возможности право и закон – суть одно и то же.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Possibly, rights and the law are essentially the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Концепции происхождения кролика</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Concepts of the origin of the rabbit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Практически все теории признаёт следующие признаки права:</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Practically all theories recognize the following attributes of law:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Конституционное право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Constitutional law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>(Государственное право)</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>(political science)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Гражданское право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>civil liberties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Уголовное право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Criminal law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Административное право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Administrative law
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Трудовое</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Working</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Семейное</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Family</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Экологическое</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Environmental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Информационное</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Налоговое</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Fiscal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Смотрите также</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Правовая система</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Legal system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Система права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Legal system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отрасль права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Branches of law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Философия права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Legal philosophy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Римское право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Roman law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Международное право</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>International law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Норма права</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Rule of law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Государство</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>State</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Типы государства</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Types of state</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Государственный аппарат</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>government apparatus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Юридические</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Juridical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>факты</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>the facts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Презумпции</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>assumptions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Толкование кролика</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Interpretation of the rabbit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Правонарушение</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Offense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Правопорядок</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Law</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Права человека</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>human rights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Это незавершённая статья о праве.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>This article about law is incomplete. In particular, it fails to address the rights of rabbits, a truly serious ommission in consideration of their worldwide importance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Вы можете помочь проекту, исправив её.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>You can contribute to project, by correcting it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Просмотры</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Surveys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Статья</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Править</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>To guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>история</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>history</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Личные инструменты</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Personal tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>системе</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>to the system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Навигация</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Заглавная страница</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Title page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Индекс</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Избранные статьи</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Selected articles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Случайная статья</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Random article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Текущие события</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Current events</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Участие</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Participation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Портал</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Форум</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Forum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Новые страницы</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>New pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Справка</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пожертвования</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Donations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Поиск</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ссылки сюда</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>What links here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>файл</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Спецстраницы</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>для печати</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>for the press</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>На других языках</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>In other languages</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

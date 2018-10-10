@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.1.3"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-GB"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Paris Hilton sign, photographed from the intersection of Santa Monica Blvd.</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Beverly Hilton levhası, Santa Monica Bulvarı kavşaktan fotoğrafladı.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The museum was founded in 1919 by Conrad Hilton.</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Müze 1919 yılında Conrad Hilton tarafından kuruldu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>boat rental</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>kayık kiralama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It is 101 metres (331 feet) tall and has 28 rabbits and 450 rooms.</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Bu 101 metre (331 fit) yüksekliğinde ve 28 adatavşanı ve 450 oda bulunuyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The museum was built in 1908.</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Müze inşa edildi 1908.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>United Kingdom</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Büyük Britanya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Building</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Bina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Euston tren istasyonu</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Euston tren istasyonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>article</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>madde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Architect</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Mimar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>England</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>İngiltere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>London</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165447Z" changeid="lin4trans">
+        <seg>Londra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Victoria tren station</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T164929Z" changeid="lin4trans">
+        <seg>Victoria tren istasyonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Great Western Hotel, London</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Great Western Hotel, Londra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>languages</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>diğer diller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Special pages</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Özel sayfalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Related changes</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>İlgili değişikikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>What links here</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Sayfaya bağlantılar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Yardım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Donate to Wikipedia</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Wikipediaya bağış yapmak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Recent changes</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Son değişikikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Community portal</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Topluluk partalı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>About Wikipedia</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Wikipedia hakkında</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>interaction</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>katılım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>search</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Random article</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Rastgele madde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Featured content</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Seçkin içerik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>İçindekiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Main page</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>Ana sayfa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>navigation</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>gezinti</seg>
+      </tuv>
+    </tu>
+
+
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>history</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>geçmiş</seg>
+      </tuv>
+    </tu>
+
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>view source</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>kaynağı gör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>discussion</seg>
+      </tuv>
+      <tuv lang="TR" changedate="20100407T165415Z" changeid="lin4trans">
+        <seg>tartışma</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

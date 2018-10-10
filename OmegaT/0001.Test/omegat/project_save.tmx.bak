@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"By comparing the number of 'orphaned' afterglows to those with GRBs preceding them," says Law, "we can measure that fraction much more precisely than before."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133203Z" creationid="hungv" creationdate="20181010T133203Z">
+        <seg>"Bằng cách so sánh số lượng afterglows 'mồ côi' với những người có GRBs ngay trước đó," nói pháp luật, "chúng ta có thể đo đó phần nhiều hơn chính xác hơn trước."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T134106Z" creationid="hungv" creationdate="20181009T131330Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với nguồn 20-30 watts, trong khi đó AI ngày nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you&lt;s0/&gt;look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T130753Z" creationid="hungv" creationdate="20181010T130753Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20-30 watts của quyền lực, trong khi đó AI ngày hôm nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the brain, synapses are both computing and storing information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131447Z" creationid="hungv" creationdate="20181009T131447Z">
+        <seg>"Trong não, các khớp thần kinh vừa là điện toán vừa lưu trữ thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the past, people have either seen the explosion and then seen the boom, or on one or two occasions have seen the boom and then looked back and recovered the explosion after the fact.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132933Z" creationid="hungv" creationdate="20181010T132933Z">
+        <seg>"Trong quá khứ, người đã hoặc là nhìn thấy sự bùng nổ và sau đó nhìn thấy sự bùng nổ, hoặc trên một hoặc hai lần đã nhìn thấy sự bùng nổ và sau đó nhìn lại và phục hồi sự bùng nổ sau khi thực tế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Looking at the radio source in other old data shows that it lived in a relatively nearby galaxy, and back in the 1990s, it was as luminous as the biggest explosions known, gamma-ray bursts."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133130Z" creationid="hungv" creationdate="20181010T133130Z">
+        <seg>"Nhìn vào nguồn radio trong dữ liệu cổ khác cho thấy rằng nó sống trong một Thiên Hà tương đối gần đó, và trở lại trong thập niên 1990, nó sáng như vụ nổ lớn nhất được biết đến, gamma-ray bursts."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"This is the first time anyone has been able to capture the sonic boom from an unseen GRB explosion," says Bryan Gaensler, a co-author on the paper describing the observation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132929Z" creationid="hungv" creationdate="20181010T132929Z">
+        <seg>"Đây là lần đầu tiên ai đã có thể nắm bắt âm bùng nổ từ một vụ nổ GRB unseen," ông Bryan Gaensler, đồng tác giả trên giấy mô tả các quan sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always expected these systems to be much better than conventional computing systems in some tasks, but we were surprised how much more efficient some of these approaches were."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135318Z" creationid="hungv" creationdate="20181010T132242Z">
+        <seg>"Chúng tôi luôn mong đợi các hệ thống này tốt hơn nhiều so với hệ thống máy tính thông thường trong một số tác vụ, nhưng chúng tôi đã rất ngạc nhiên làm thế nào nhiều hiệu quả hơn một số trong những cách tiếp cận."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always knew they would be efficient, but we didn't expect them to outperform by this much." The team continues to build prototype chips and systems based on brain-inspired concepts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135459Z" creationid="hungv" creationdate="20181010T132048Z">
+        <seg>"Chúng tôi luôn biết chúng sẽ có hiệu quả, nhưng chúng tôi đã không mong đợi chúng tốt hơn bằng cách này." Nhóm nghiên cứu tiếp tục xây dựng nguyên mẫu chip và các hệ thống dựa trên các khái niệm truyền cảm hứng cho não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We compared images from old maps of the sky and found one radio source that was no longer visible today in VLASS," says Law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133126Z" creationid="hungv" creationdate="20181010T133126Z">
+        <seg>"Chúng tôi so sánh các hình ảnh từ các bản đồ cũ của bầu trời và tìm thấy một nguồn radio đã không còn được nhìn thấy ngày hôm nay trong VLASS," nói rằng luật pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We could achieve 200 times faster performance in the phase change memory computing systems as opposed to conventional computing systems." Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132259Z" creationid="hungv" creationdate="20181010T132259Z">
+        <seg>"Chúng tôi có thể đạt được 200 lần hiệu quả nhanh hơn trong giai đoạn thay đổi bộ nhớ máy tính hệ thống như trái ngược với hệ thống máy tính thông thường." Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140305Z" creationid="hungv" creationdate="20181010T140305Z">
+        <seg>(Nếu chọn &gt; View &gt; "Bao gồm các phân đoạn đầu tiên không duy nhất khi đánh dấu phân đoạn không duy nhất" được chọn, tất cả các phân đoạn không duy nhất bao gồm các đầu tiên được đánh dấu bằng cách này.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182438Z" creationid="hungv" creationdate="20181008T182438Z">
+        <seg>u&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133522Z" creationid="hungv" creationdate="20181010T132051Z">
+        <seg>&lt;f0&gt;Các nhà nghiên cứu của IBM đang phát triển một kiến trúc máy tính mới, tốt hơn để xử lý tải dữ liệu tăng lên từ trí tuệ nhân tạo.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;meta property="og:title" content="Two Britons believed dead in Majorca flood" /&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142436Z" creationid="hungv" creationdate="20181010T142436Z">
+        <seg>&lt;meta property="og:title" content="Hai người Anh được cho là đã chết trong trận lũ Majorca - BBC News" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;title&gt;Two Britons believed dead in Majorca flood - BBC News&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142353Z" creationid="hungv" creationdate="20181010T142353Z">
+        <seg>&lt;title&gt; Hai người Anh được cho là đã chết trong trận lũ Majorca - BBC News &lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A car that steers well on corners</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182640Z" creationid="hungv" creationdate="20181008T182640Z">
+        <seg>+ Một chiếc ôtô rẽ tốt ở các góc đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A team of astronomers has detected the sonic boom from an immensely powerful cosmic explosion, even though the explosion itself was totally unseen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132735Z" creationid="hungv" creationdate="20181010T132735Z">
+        <seg>Một nhóm các nhà thiên văn học đã phát hiện âm bùng nổ từ một vụ nổ vũ trụ vô cùng mạnh mẽ, mặc dù vụ nổ chính nó là hoàn toàn không nhìn thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abu Sebastian, an author on the paper, explained that executing certain computational tasks in the computer's memory would increase the system's efficiency and save energy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T134029Z" creationid="hungv" creationdate="20181009T130944Z">
+        <seg>Abu Sebastian, một tác giả của các bài báo, giải thích rằng thực hiện các công việc tính toán nhất định trong bộ nhớ của máy tính sẽ tăng hiệu quả của hệ thống và tiết kiệm năng lượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another was that it was found where astronomers expected to find GRBs: in a relatively small galaxy, of a type known as "dwarf" galaxies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133144Z" creationid="hungv" creationdate="20181010T133144Z">
+        <seg>Một là rằng nó đã được tìm thấy nơi nhà thiên văn học dự kiến sẽ tìm thấy GRBs: trong một Thiên Hà tương đối nhỏ, trong một loại được biết đến như "lùn" Thiên Hà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But here we have seen the boom, and yet the preceding explosion seems to be completely missing as viewed from Earth."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133120Z" creationid="hungv" creationdate="20181010T133120Z">
+        <seg>Nhưng ở đây chúng tôi đã thấy sự bùng nổ, và được nêu ra trước vụ nổ dường như hoàn toàn mất tích khi nhìn từ trái đất."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But, GRB jets are very narrow, and because the jets from this particular collapsing star weren't pointed at us, the GRB itself was completely undetectable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132849Z" creationid="hungv" creationdate="20181010T132849Z">
+        <seg>Nhưng, máy bay phản lực GRB là rất hẹp, và vì máy bay phản lực từ ngôi sao sụp đổ đặc biệt không chỉ ở với chúng tôi, GRB chính nó là hoàn toàn không thể phát hiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By applying electrical pulses, the researchers modulated the ratio of material in the crystalline and the amorphous phases so the phase change memory devices could support a continuum of electrical resistance or conductance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132234Z" creationid="hungv" creationdate="20181010T132234Z">
+        <seg>Bằng cách áp dụng xung điện, các nhà nghiên cứu truyến tỷ lệ vật liệu trong các tinh thể và các giai đoạn vô định hình, vì vậy giai đoạn thay đổi bộ nhớ thiết bị có thể hỗ trợ một liên tục của điện trở hoặc dẫn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135704Z" creationid="hungv" creationdate="20181010T135704Z">
+        <seg>Theo mặc định, OmegaT sử dụng tuyên truyền tự động phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration Folder menu).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T141106Z" creationid="hungv" creationdate="20181010T141106Z">
+        <seg>ư`Configuration Folder menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in a disordered phase, these materials exhibit high resistivity, whereas in a crystalline phase they show low resistivity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132229Z" creationid="hungv" creationdate="20181010T132229Z">
+        <seg>Ví dụ, trong một pha rối loạn, các vật liệu này thể hiện điện trở suất cao, trong khi trong pha tinh thể chúng cho thấy điện trở suất thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, over the next 7 years, the VLASS will make three complete scans of 80 percent of the entire sky.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133212Z" creationid="hungv" creationdate="20181010T133212Z">
+        <seg>Ví dụ, trong 7 năm tiếp theo, các VLASS sẽ làm cho ba hoàn thành quét 80 phần trăm của toàn bộ bầu trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For years, astronomers have been hunting all over the sky for an example of this strange phenomenon, known as an "orphan afterglow." At last, now they've finally found one.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132740Z" creationid="hungv" creationdate="20181010T132740Z">
+        <seg>Trong nhiều năm qua, nhà thiên văn học có săn bắn trên bầu trời một ví dụ về hiện tượng kỳ lạ này, gọi là một "mồ côi afterglow." Cuối cùng, bây giờ họ đã cuối cùng đã tìm thấy một.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuck</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131817Z" creationid="hungv" creationdate="20181010T131817Z">
+        <seg>Error extracting MT result from MyMemory, response:null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaensler is Director of the Dunlap Institute for Astronomy &amp; Astrophysics, University of Toronto.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133103Z" creationid="hungv" creationdate="20181010T133103Z">
+        <seg>Gaensler là giám đốc Viện Dunlap Astronomy &amp; vật lý thiên văn, đại học Toronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaensler, Law and their colleagues made the discovery by comparing data from previous radio surveys of the sky with data from the Very Large Array Sky Survey (VLASS), being conducted with the Karl G. Jansky Very Large Array in New Mexico.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133123Z" creationid="hungv" creationdate="20181010T133123Z">
+        <seg>Gaensler, Pháp luật và đồng nghiệp của họ đã phát hiện ra bằng cách so sánh dữ liệu từ trước cuộc điều tra của đài phát thanh của bầu trời với dữ liệu từ các Very Large mảng Sky Survey (VLASS), được tiến hành với Karl G. Jansky Very Large mảng ở New Mexico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given that GRBs are pointed in random directions relative to us, the fraction we see from Earth depends on how narrow or wide the jets are.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133156Z" creationid="hungv" creationdate="20181010T133156Z">
+        <seg>Do các GRB được chỉ theo các hướng ngẫu nhiên liên quan đến chúng ta, phần chúng ta nhìn thấy từ Trái đất phụ thuộc vào độ hẹp hoặc rộng của các tia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However the GRB's jets crashed into the gas that surrounded the original star, producing a huge shock wave akin to a sonic boom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132900Z" creationid="hungv" creationdate="20181010T132900Z">
+        <seg>Tuy nhiên, máy bay phản lực của GRB đâm vào khí bao quanh sao ban đầu, sản xuất một làn sóng sốc lớn giống như một âm bùng nổ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can can a can.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131933Z" creationid="hungv" creationdate="20181010T131933Z">
+        <seg>Tôi có thể có thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140032Z" creationid="hungv" creationdate="20181010T140032Z">
+        <seg>Nếu một phân đoạn đã được dịch và có một phân đoạn giống hệt trong các văn bản khác, các phân đoạn trước đó sẽ được đưa vào dòng bằng các phân đoạn thay đổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a new architecture, going beyond von Neumann, memory has to play a more active role in computing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131533Z" creationid="hungv" creationdate="20181009T131533Z">
+        <seg>Một kiến trúc mới, vượt von Neumann, bộ nhớ đã đóng một vai trò tích cực hơn trong tính toán."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the process, the star collapsed into either a dense star called a magnetar, or more likely, a black hole.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132750Z" creationid="hungv" creationdate="20181010T132750Z">
+        <seg>Trong quá trình này, ngôi sao sụp đổ vào hoặc là một ngôi sao dày đặc gọi là một magnetar, hoặc nhiều khả năng, một lỗ đen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last year, they ran an unsupervised machine learning algorithm on a conventional computer and a prototype computational memory platform based on phase change memory devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132253Z" creationid="hungv" creationdate="20181010T132253Z">
+        <seg>Năm ngoái, họ chạy một máy không có giám sát học thuật toán trên một máy tính thông thường và một nền tảng thử nghiệm tính toán bộ nhớ dựa trên các giai đoạn thay đổi bộ nhớ thiết bị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lastly, the dynamic and stochastic nature of neurons and synapses inspired the team to create a powerful computational substrate for spiking neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132217Z" creationid="hungv" creationdate="20181010T132217Z">
+        <seg>Cuối cùng, năng động và ngẫu nhiên bản chất của các tế bào thần kinh và synapse lấy cảm hứng từ các đội để tạo ra một bề mặt toán mạnh mẽ cho spiking mạng nơ-ron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More recently, the researchers have been applying this work to robots with manipulators that face similarly daunting challenges when reaching for objects in ever-changing environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142118Z" creationid="hungv" creationdate="20181010T142118Z">
+        <seg>Gần đây, các nhà nghiên cứu đã áp dụng làm việc này với robot với thao tác đối mặt với những thách thức tương tự như vậy khó khăn khi tiếp cận các đối tượng trong bao giờ thay đổi môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: &lt;t0/&gt;it is possible to inhibit this Project Files window displaying, by setting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140519Z" creationid="hungv" creationdate="20181010T140519Z">
+        <seg>Chú thích: &lt;t0/&gt;có thể ngăn chặn cửa sổ Project Files này, bằng cách thiết lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase change memory is a nanoscale memory device built from compounds of Ge, Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132221Z" creationid="hungv" creationdate="20181010T132221Z">
+        <seg>Bộ nhớ thay đổi pha là một thiết bị bộ nhớ cỡ nano được chế tạo từ các hợp chất Ge, Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sebastian and his IBM colleagues have encountered surprising results in their comparative studies on the efficiency of these proposed systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135228Z" creationid="hungv" creationdate="20181010T132248Z">
+        <seg>Sebastian và IBM đồng nghiệp của ông đã gặp kết quả đáng ngạc nhiên trong các nghiên cứu so sánh về hiệu quả từ đề xuất của các hệ thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140122Z" creationid="hungv" creationdate="20181010T140112Z">
+        <seg>Phân đoạn xuất hiện nhiều hơn một lần được mô tả trong OmegaT như "phân đoạn không duy nhất".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140147Z" creationid="hungv" creationdate="20181010T140147Z">
+        <seg>Chọn View &gt; phòng không độc đáo đánh dấu phân đoạn gây ra chỉ có các trường hợp đầu tiên của một phân đoạn không duy nhất để được hiển thị trong màu đen, và thứ hai và các trường hợp tiếp theo sẽ được hiển thị bằng màu xám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IBM team drew on three different levels of inspiration from the brain.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132201Z" creationid="hungv" creationdate="20181010T132201Z">
+        <seg>Nhóm nghiên cứu của IBM đã thu hút ba mức độ cảm hứng khác nhau từ não bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files window lists the project files and displays &lt;t0/&gt;other&lt;t1/&gt; project information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140510Z" creationid="hungv" creationdate="20181010T140510Z">
+        <seg>Cửa sổ Project Files liệt kê các tệp dự án và hiển thị &lt;t0/&gt;khác&lt;t1/&gt; Thông tin dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The UK's highest court ruled that Ashers bakery's refusal to make a cake with a slogan supporting same-sex marriage was not discriminatory.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142716Z" creationid="hungv" creationdate="20181010T142716Z">
+        <seg>Tòa án cao của Anh Quốc tiếp quản Ashers bakery's từ chối để thực hiện một bánh với một khẩu hiệu ủng hộ hôn nhân đồng tính đã không được phân biệt đối xử.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The analysis also promises a far more accurate GRB census, made possible using today's modern astronomical radio surveys that scan large portions of the sky.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133207Z" creationid="hungv" creationdate="20181010T133207Z">
+        <seg>Việc phân tích cũng hứa hẹn một điều tra GRB chính xác hơn là có thể được thực hiện bằng cách sử dụng khảo sát đài phát thanh thiên văn học hiện đại ngày nay quét phần lớn của bầu trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The blast generates two jets of gamma rays which travel out from the collapsing star in opposite directions at nearly the speed of light.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132815Z" creationid="hungv" creationdate="20181010T132815Z">
+        <seg>Vụ nổ tạo ra hai máy bay phản lực của tia gamma, đi du lịch từ các ngôi sao bị sụp đổ ở hướng đối diện gần như với tốc độ ánh sáng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first level exploits a memory device's state dynamics to perform computational tasks in the memory itself, similar to how the brain's memory and processing are co-located.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132207Z" creationid="hungv" creationdate="20181010T132207Z">
+        <seg>Mức độ đầu tiên khai thác một thiết bị bộ nhớ trạng thái động lực để thực hiện các công việc tính toán trong bộ nhớ chính nó, tương tự như thế nào bộ não bộ nhớ và xử lý là đồng vị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The five justices on the Supreme Court were unanimous in their judgement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142754Z" creationid="hungv" creationdate="20181010T142754Z">
+        <seg>5 thẩm phán tòa án tối cao đã được thống nhất trong bản án của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The high-profile dispute began in 2014 when the bakery refused to make a cake with the slogan "Support Gay Marriage".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T143705Z" creationid="hungv" creationdate="20181010T143705Z">
+        <seg>Các tranh chấp cá nhân cao trào bắt đầu trong năm 2014 khi bánh đã từ chối để thực hiện một bánh với khẩu hiệu "Hỗ trợ hôn nhân đồng tính".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The paper, whose lead author is Casey Law, University of California at Berkeley, is being published in the &lt;t0/&gt;Astrophysical Journal Letters&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133109Z" creationid="hungv" creationdate="20181010T133109Z">
+        <seg>Giấy, mà tác giả là luật pháp Casey, đại học California tại Berkeley, đang được phát hành trong các&lt;t0&gt;&lt;/t0&gt;Astrophysical tạp chí thư&lt;t1&gt;&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second level draws on the brain's synaptic network structures as inspiration for arrays of phase change memory (PCM) devices to accelerate training for deep neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132213Z" creationid="hungv" creationdate="20181010T132213Z">
+        <seg>Cấp 2 dựa trên bộ não synaptic mạng cấu trúc như nguồn cảm hứng cho mảng thiết bị bộ nhớ (PCM) giai đoạn thay đổi để tăng tốc đào tạo cho các mạng nơ-ron sâu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source's brightness, as well as its evolution over the decades, were clues that it originated from a GRB.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133140Z" creationid="hungv" creationdate="20181010T133140Z">
+        <seg>Các nguồn sáng, cũng như sự tiến hóa của nó trong thập kỷ qua, đã là manh mối mà nó có nguồn gốc từ một GRB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The titanic eruption, known as a Gamma Ray Burst (GRB), was generated by the collapse of a massive star in a galaxy nearly 300 million light-years from Earth.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132745Z" creationid="hungv" creationdate="20181010T132745Z">
+        <seg>Vụ phun trào titanic, được biết đến như là một tia Gamma Burst (GRB), được tạo ra bởi sự sụp đổ của một ngôi sao lớn trong một thiên hà gần 300 triệu năm ánh sáng từ trái đất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140259Z" creationid="hungv" creationdate="20181010T140259Z">
+        <seg>Người dùng có thể xem ngay lập tức một phân đoạn có màu xám, không phải màu đen, đã được kiểm tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their designs draw on concepts from the human brain and significantly outperform conventional computers in comparative studies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132053Z" creationid="hungv" creationdate="20181010T132053Z">
+        <seg>Thiết kế của họ thu hút trên các khái niệm từ bộ não con người và đáng kể tốt hơn các máy tính thông thường trong các nghiên cứu so sánh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are dramatic and dynamic explosions and flares happening out there, but we can only find them if we can constantly patrol the sky to see what's changing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133350Z" creationid="hungv" creationdate="20181010T133350Z">
+        <seg>Không có vụ nổ mạnh mẽ và năng động, pháo sáng xảy ra trên mạng, nhưng chúng tôi chỉ có thể tìm thấy chúng nếu chúng tôi có thể liên tục tuần tra trên bầu trời để xem những gì đang thay đổi."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These compounds exhibit different electrical properties depending on their atomic arrangement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132226Z" creationid="hungv" creationdate="20181010T132226Z">
+        <seg>Các hợp chất này thể hiện các tính chất điện khác nhau tùy thuộc vào sự bố trí nguyên tử của chúng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They book that hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131501Z" creationid="hungv" creationdate="20181010T131501Z">
+        <seg>Một cuốn sách mới cần phải đọc .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They read that book.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131823Z" creationid="hungv" creationdate="20181010T131823Z">
+        <seg>Họ đọc cuốn sách đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They report on their recent findings in the &lt;/f0&gt;&lt;f1&gt;Journal of Applied Physics&lt;/f1&gt;&lt;f2&gt;, from AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132113Z" creationid="hungv" creationdate="20181010T132113Z">
+        <seg>Họ báo cáo về những phát hiện tại của họ trong&lt;f1&gt;Tạp chí áp dụng vật lý&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This analog storage better resembles nonbinary, biological synapses and enables more information to be stored in a single nanoscale device.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132237Z" creationid="hungv" creationdate="20181010T132237Z">
+        <seg>Lưu trữ tương tự này tốt hơn giống với các khớp thần kinh sinh học, không đồng nhất và cho phép nhiều thông tin hơn được lưu trữ trong một thiết bị nano đơn lẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140319Z" creationid="hungv" creationdate="20181010T140319Z">
+        <seg>Điều này có tác dụng làm cho tất cả các trường hợp của phân đoạn không duy nhất thay thế dịch (xem "One-to-nhiều kết hợp" dưới đây).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This heated up the gas, producing a glow that radiated radio energy in all directions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132904Z" creationid="hungv" creationdate="20181010T132904Z">
+        <seg>Điều này nóng lên khí, sản xuất một ánh sáng chiếu vô tuyến năng lượng ở mọi hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140213Z" creationid="hungv" creationdate="20181010T140213Z">
+        <seg>Điều này rất hữu ích khi bản dịch được đang được chọn, vì chỉ có phần đầu tiên của phân đoạn giống hệt nhau có thể cần phải được kiểm tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135755Z" creationid="hungv" creationdate="20181010T135755Z">
+        <seg>Điều này có nghĩa rằng ngay sau khi một phân đoạn được dịch, dịch tương tự được chèn tự động vào tất cả các phân đoạn hệt nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today's computers are built on the von Neumann architecture, developed in the 1940s.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132127Z" creationid="hungv" creationdate="20181010T132127Z">
+        <seg>Ngày hôm nay của máy tính được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, GRBs release a prodigious amount of energy, as much as the Sun would release over ten billion years.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132756Z" creationid="hungv" creationdate="20181010T132756Z">
+        <seg>Thông thường, GRBs phát hành một lượng năng lượng, phi thường càng nhiều càng tốt, mặt trời sẽ phát hành hơn mười tỷ năm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the stovepipe components in conventional computers, the authors propose that brain-inspired computers could have coexisting processing and memory units.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132137Z" creationid="hungv" creationdate="20181010T132137Z">
+        <seg>Không giống như các thành phần stovepipe trong thông thường các máy tính, các tác giả đề nghị lấy cảm hứng từ bộ não máy tính có thể có coexisting xử lý và các đơn vị bộ nhớ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Von Neumann computing systems feature a central processer that executes logic and arithmetic, a memory unit, storage, and input and output devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132133Z" creationid="hungv" creationdate="20181010T132133Z">
+        <seg>Hệ thống máy tính của von Neumann đặc trưng với một trung tâm processer thực hiện logic và số học, một đơn vị bộ nhớ, lưu trữ và các thiết bị đầu vào và đầu ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When these jets are pointed at Earth, astronomers see these focused outpourings of energy as intense flashes of gamma-rays.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132819Z" creationid="hungv" creationdate="20181010T132819Z">
+        <seg>Khi những máy bay phản lực phải chĩa vào trái đất, nhà thiên văn học thấy các outpourings tập trung năng lượng như các nhấp nháy dữ dội của tia gamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140313Z" creationid="hungv" creationdate="20181010T140313Z">
+        <seg>Bạn có thể tắt chức năng tự động tuyên truyền với dự án &gt; Properties &gt; bỏ đánh dấu hộp "Tự động tuyên truyền của tham khảo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>displayed automatically when &lt;t0/&gt;OmegaT&lt;t1/&gt; loads a project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140514Z" creationid="hungv" creationdate="20181010T140514Z">
+        <seg>hiển thị tự động khi &lt;t0/&gt;OmegaT&lt;t1/&gt; tải một dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase they show low resistivity.&lt;s8/&gt;forget&lt;s9/&gt;typing on the keyboard&lt;s10/&gt;forecast.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T120954Z" creationid="hungv" creationdate="20181009T120954Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>project_files_show_on_load&lt;t0/&gt; &lt;t1/&gt;to &lt;t2/&gt;false &lt;t3/&gt;in &lt;t4/&gt;omegat.prefs&lt;t5/&gt; file (accessible by Options / Access</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140532Z" creationid="hungv" creationdate="20181010T140532Z">
+        <seg>project_files_show_on_load&lt;t0/&gt;&lt;t1/&gt;đến &lt;t2/&gt;sai &lt;t3/&gt;trong &lt;t4/&gt;omegat.prefs&lt;t5/&gt; tệp (có thể truy cập bằng Tùy chọn / Truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>turning at the a nanoscale corner&lt;s0/&gt;Force&lt;s1/&gt;tying a scarf around one’s neckPhase change memory is memory device built from compounds of Ge,&lt;s2/&gt;foreign&lt;s3/&gt;Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T125136Z" creationid="hungv" creationdate="20181009T125136Z">
+        <seg>chuyển các góc Nano&lt;s0&gt;&lt;/s0&gt;lực&lt;s1&gt;&lt;/s1&gt;buộc một chiếc khăn quanh của một neckPhase thay đổi bộ nhớ là bộ nhớ thiết bị được chế tạo từ hợp chất Ge,&lt;s2&gt;&lt;/s2&gt;ngoại&lt;s3&gt;&lt;/s3&gt;Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

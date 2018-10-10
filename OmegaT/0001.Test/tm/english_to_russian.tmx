@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Навигация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main page</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Заглавная страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Индекс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random article</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Случайная статья</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>interaction</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Участие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>portal</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Портал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Свежие правки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Поиск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Инструменты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Ссылки сюда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Связанные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Спецстраницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Версия для печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Постоянная ссылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>Цитировать статью</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other languages</seg>
+      </tuv>
+      <tuv lang="RU">
+        <seg>На других языках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shareholders collectively own the company.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Акционеры собирательно имеют компанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Companies strive to enhance their assets.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Компании стремятся увеличить их имущества.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rights to the assets of a company are subordinate to the rights of the creditors.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Права к имуществам компании субординационны к правам заимодавцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stakeholder</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Держатель заклада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Business</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Дело</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-profit organization</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Бесприбыльная организачии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volunteer</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Волонтер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Voluntary association</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Добровольная организация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might be common to call volunteer contributors to an association stakeholders, even though they are not shareholders.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Оно могло быть обще к вкладчикам волонтера звонока к держателям заклада ассоциации, даже если они нет акционеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>California</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Калифорния</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In California, majority shareholders have a duty to not destroy the value of the shares held by minority shareholders.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>В Калифорния, акционеры большинства имеют обязанность для того чтобы не разрушить значение долей, котор держат акционеры несовершеннолетия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This claim needs references to reliable sources</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Этой заявке нужны справки к достоверным источникам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shareholders play an important role in raising finance of any organizations.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Акционеры играют важную роль в поднимать финансы всех организаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These figures therefore pose a great opportunity for all those who are looking for a lucrative option to invest money.</seg>
+      </tuv>
+      <tuv lang="RU-RU">
+        <seg>Эти диаграммы поэтому представляют огромную возможность для всех тех которые ищут вариант приносящий деьги для того чтобы проинвестировать деньги.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

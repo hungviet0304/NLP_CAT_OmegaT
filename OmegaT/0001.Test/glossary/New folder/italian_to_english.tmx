@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="IT"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="IT">
+        <seg>Da Wikipedia, l'enciclopedia libera.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>From Wikipedia, the free encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Laureato in &lt;a0&gt;chimica&lt;/a0&gt; industriale</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Degree in industrial &lt;a0&gt;chemistry&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>diventa segretario del &lt;a0&gt;Partito Socialista&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>He became secretary of the &lt;a0&gt;Socialist Party&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>La maggioranza del partito, assieme a Andreotti, non è d'accordo</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>The majority of the party, including Andreotti, were not in agreement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Cronologia</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Career</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Presidente dell’ITI;</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>President of the ITI;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Ministro del Lavoro;</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Minister of Labour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Curiosità</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Trivia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Collegamenti esterni</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>External links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Predecessore:</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Predecessor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Ministro degli Esteri</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Foreign Minister</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Successore:</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Successor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>&lt;a0&gt;Categorie&lt;/a0&gt;: &lt;a1&gt;Biografie&lt;/a1&gt; | &lt;a2&gt;Politici italiani&lt;/a2&gt; |</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>&lt;a0&gt;Categories&lt;/a0&gt;: &lt;a1&gt;Biografies&lt;/a1&gt; | &lt;a2&gt;Italian politicians&lt;/a2&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>if (window.isMSIE55) fixalpha();</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>if (window.isMSIE55) fixalpha();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Navigazione</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Pagina principale</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Main Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Ultime modifiche</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Recent changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Una voce a caso</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Random article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Vetrina</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Featured article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Aiuto</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>comunità</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Portale comunità</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Community portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Donazioni</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Donations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Contatti</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg> </seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>strumenti</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Toolbox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Puntano qui</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>What links here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Modifiche correlate</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Related changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Carica un file</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Upload a file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Pagine speciali</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Versione stampabile</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Printable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Link permanente</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Permanent link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Cita questa voce</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Cite this article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Altre lingue</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Other languages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Deutsch</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Deutsch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Français</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Français</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Nederlands</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Nederlands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Ultima modifica</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Last modified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Tutti i testi sono disponibili nel rispetto dei termini della &lt;a0&gt;GNU Free Documentation License&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>All text is available under the terms of the &lt;a0&gt;GNU Free Documentation License.&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Politica sulla privacy</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Informazioni su Wikipedia</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>About Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="IT">
+        <seg>Avvertenze</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Disclaimers</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

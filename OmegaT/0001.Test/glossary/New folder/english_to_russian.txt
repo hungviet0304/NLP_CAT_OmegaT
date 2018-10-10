@@ -1,0 +1,129 @@
+﻿phytosociology	Геоботаника
+edit	править
+biocoenosis	Биоценоз
+From Wikipedia	из Википедии
+free encyclopedia	свободной энциклопедии
+biotope	Биотоп
+ecosystem	Экосистема
+history	история
+article	Статья
+main page	Заглавная страница
+search	Поиск
+iteraction	Участие
+community portal	Портал сообщества
+Shareholder	Акционер
+Stock	1.Акционерный капитал 2.Акция
+Corporation	Корпорация
+Company		Компания, общество, акционерное общество
+Individual	Частное лицо
+Share		Акция
+Joint stock company	Акционерное общество
+Shareholder value	Величина пакета акций акционера
+Board of directors	Совет директоров
+Shareholder resolutions	Резолюции акционеров
+Liquidation		Ликвидация
+Bankruptsy	Банкротство
+Finance		Финансы; доходы; деньги
+Stockholder	Владелец акций
+Class of stock	Класс акций
+Right to vote	Право на участие в голосовании
+Right to share in distributions	Право участвовать в распределении
+Company's income	Доходы компании
+Company's assets	Имущественные ценности компании
+Creditors	Кредиторы 
+Debts of the company will be restructured	Реструктурировать долги компании 
+Subset	Группа
+Stakeholders	Пайщики
+Corporate governance	Управление компаниями
+Exchange-traded funds	Торгуемые на бирже индексные фонды
+Audit	1.Проверка, ревизия, аудит 
+Income statement	Отчет о доходах
+Balance sheet	Баланс, балансовый отчет
+Overall performance	Эффективность работы
+Shareholders' meeting	Собрание акционеров
+Stock trader	Биржевой брокер, торгующий акциями
+Investor relations	Отношения инвесторов
+California Supreme Court	Верховный суд Калифорнии
+Stock market	Фондовая биржа
+Background information	Исходная, справочная информация
+Current events	Текущие события
+Charitable organization	Благотворительная организация
+General disclaimer	Общий отказ
+Disclaimers	Отказы от права
+Agency securities	Ценные бумаги организации
+Asset-backed security	Ценные бумаги, обеспеченные активами
+Bond	Облигация
+Bond market	Рынок облигаций
+Closed-end fund	Инвестиционный фонд закрытого типа
+Collateralized mortgage obligation	Облигация,обеспеченная закладной; обязательство,обеспечиваемое закладной
+Collateralized debt obligation	Обязательство,обеспечиваемое долгом
+Stockholders	Владельцы акций, акционеры
+Verifiability	Проверяемость
+Securities	Ценные бумаги
+Equities	1.Акционерный капитал компании 2.Доля акционера в капитале предприятия
+Collective investment scheme	Коллективный инвестиционный план
+Derivative	(бирж)Дериватив (деривативный финансовый инструмент)
+Investment fund	Инвестиционный фонд
+Futures market	Фьючерский рынок, рынок по сделкам на срок
+Foreign exchange market	Валютный рынок
+Commodity market	Товарный рынок
+Spot market	Рынок наличного товара, наличный рынок; рынок немедленной поставки и платежа
+Over-the-counter	Внебиржевой, продаваемый вне биржи
+Fixed rate bond	Облигация с фиксированной ставкой
+Floating rate note	Банкнота с плавающей ставкой
+Zero coupon bond	Бескупонная облигация, облигация с нулевым купоном
+Inflation-indexed bond	Индексированная облигация
+Perpetual bond	Бессрочная облигация, облигация, не имеющая конечного срока погашения
+Commercial paper	Коммерческий вексель; (амер)простой вексель
+Corporate bond	Корпоративная облигация (выпущенная корпорацией)
+Government bond	Государственная облигация
+Municipal bond	Муниципальная облигация
+Sovereign bonds	Суверенные, независимые облигации
+Issuer	Эмитент
+Initial public offering	Первый выпуск ценных бумаг; первоначальное публичное предложение акций
+Stakeholder (corporate)	Пайщик (корпоративный)
+Short	"Короткий", продающийся без покрытия
+Short selling	Продажа без покрытия
+Mutual fund	Взаимный фонд
+Index fund	Индексированный фонд
+Segregated fund	Изолированный фонд
+Hedge fund	Хеджевый фонд, фонд хеджирования
+Contributors	Участники (стороны в соглашении)
+Voluntary contributors	Добровольно страхующиеся
+Officers	Должностные лица
+Largest shareholders	Самые крупные акционеры
+Mutual funds	Взаимные фонды; паевые инвестиционные фонды открытого типа
+Exchange-traded funds	Торгуемые на бирже фонды (индексные фонды)
+
+Business entity	Деловое предприятие
+Non-profit organization	Некоммерческая организация
+volunteer	Доброволец
+Voluntary association	Добровольное объединение
+Direct equity interest	Интерес к участию в акционерном капитале компании
+Non-pecuniary interest	Никаких финансовых интересов
+Fiduciary	Доверенное лицо
+Value of the shares	Величина пакета акций
+Majority shareholders	Мажоритарные акционеры, владеющие контрольным пакетом акций
+Minority shareholders	Миноритарные акционеры, не имеющие контрольного пакета акций
+Closely held corporations	Закрытые акционерные общества
+Exchange-traded fund	Торгуемый на бирже индексный фонд
+Securitization	Секьюритизация, процесс трансформации ссуд и других видов дебиторской задолженности в ценные бумаги
+Mortgage-backed security	Залог недвижимости
+Credit-linked note	Кредитовое авизо, кредит-нота
+Commercial mortgage-backed security	Коммерческий залог недвижимости
+Residential mortgage-backed security	Жилой залог недвижимости
+Unsecured debt	Необеспеченный долг
+Structured finance	Структурированные финансы
+Unsecured bond	Необеспеченная облигация
+Option	Опцион, сделка с премией; право на продажу или покупку биржевого товара, валюты или ценных бумаг за согласованную цену в оговоренный срок
+Warrant	1.Варрант, право купить или продать ценные бумаги в течение некоторого периода 2.Купон(облигации,акции)
+Forward contract	Форвардный контракт (контракт купли-продажи с поставкой и расчетом в будущем)
+Swap	1.Обмен обязательствами или активами, своп 2.Покупка или продажа валюты на условиях "спот" с одновременным заключением обратной форвардной сделки
+Hybrid security	Производные финансовые документы
+Futures	(бирж)Сделки на срок, фьючерсные сделки, фьючерсы
+Forwards	(бирж)Срочный, на определенный срок; будущий
+Unit of account	Расчетная единица
+Limited partnership	Ограниченное товарищество, товарищество с ограниченной ответственностью
+Real estate investment trust	Ипотечный инвестиционный траст
+Voting	1.Голосование 2.Участие в общем собрании акционеров
+Mutual organization	Совместная организация

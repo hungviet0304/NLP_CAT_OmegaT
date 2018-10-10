@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131330Z" creationid="hungv" creationdate="20181009T131330Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20-30 watts của quyền lực, trong khi đó AI ngày hôm nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you&lt;s0/&gt;look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T130753Z" creationid="hungv" creationdate="20181010T130753Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20-30 watts của quyền lực, trong khi đó AI ngày hôm nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the brain, synapses are both computing and storing information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131447Z" creationid="hungv" creationdate="20181009T131447Z">
+        <seg>"Trong não, các khớp thần kinh vừa là điện toán vừa lưu trữ thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182438Z" creationid="hungv" creationdate="20181008T182438Z">
+        <seg>u&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A car that steers well on corners</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182640Z" creationid="hungv" creationdate="20181008T182640Z">
+        <seg>+ Một chiếc ôtô rẽ tốt ở các góc đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abu Sebastian, an author on the paper, explained that executing certain computational tasks in the computer's memory would increase the system's efficiency and save energy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T130944Z" creationid="hungv" creationdate="20181009T130944Z">
+        <seg>Abu Sebastian, một tác giả trên giấy, giải thích rằng thực hiện các công việc tính toán nhất định trong bộ nhớ của máy tính sẽ tăng hiệu quả của hệ thống và tiết kiệm năng lượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a new architecture, going beyond von Neumann, memory has to play a more active role in computing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131533Z" creationid="hungv" creationdate="20181009T131533Z">
+        <seg>Một kiến trúc mới, vượt von Neumann, bộ nhớ đã đóng một vai trò tích cực hơn trong tính toán."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They book that hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131501Z" creationid="hungv" creationdate="20181010T131501Z">
+        <seg>Một cuốn sách mới cần phải đọc .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase they show low resistivity.&lt;s8/&gt;forget&lt;s9/&gt;typing on the keyboard&lt;s10/&gt;forecast.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T120954Z" creationid="hungv" creationdate="20181009T120954Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>turning at the a nanoscale corner&lt;s0/&gt;Force&lt;s1/&gt;tying a scarf around one’s neckPhase change memory is memory device built from compounds of Ge,&lt;s2/&gt;foreign&lt;s3/&gt;Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T125136Z" creationid="hungv" creationdate="20181009T125136Z">
+        <seg>chuyển các góc Nano&lt;s0&gt;&lt;/s0&gt;lực&lt;s1&gt;&lt;/s1&gt;buộc một chiếc khăn quanh của một neckPhase thay đổi bộ nhớ là bộ nhớ thiết bị được chế tạo từ hợp chất Ge,&lt;s2&gt;&lt;/s2&gt;ngoại&lt;s3&gt;&lt;/s3&gt;Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

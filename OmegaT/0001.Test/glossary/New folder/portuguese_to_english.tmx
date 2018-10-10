@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="PT"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="PT">
+        <seg>História</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Epidemiologia e distribuição geográfica</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Epidemiology and geographical distribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Transmissão</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Transmission</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Manifestações clínicas</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Clinical manifestations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Diagnóstico</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Diagnosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Tratamento</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Treatment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Prevenção</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Prevention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Fontes</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Sources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Leituras</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Bibliography</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Ligações</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Uma passagem do diário de Darwin levou à suposição de que ele sofresse da doença de Chagas, em conseqüência da picada de um inseto, e esta seria a causa do declínio de sua saúde depois da viagem no Beagle.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>A passage from the diary of Darwin gave rise to the supposition that he suffered from Chagas disease as a result of being bitten by an insect, and that this was the cause of the decline in his health after his voyage on the Beagle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Testes feitos com técnicas PCR (Polymerase chain reaction) em seus restos mortais foram improfícuos.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Tests performed by means of PCR (Polymerase Chain Reaction) on his mortal remains were inconclusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Epidemiologia, distribuição geográfica</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Epidemiology, geographical distribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Doença de Chagas (mapa da incidência)</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Chagas disease (map showing incidence)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>A doença afecta muitos outros vertebrados além do Homem: cães, gatos e gambás podem ser infectados e servir de reservatório do parasita.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The disease affects many other vertebrates beyond humans: dogs, cats and opossums can be infected and may serve as a host for the parasite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>O homem por sua vez, é afectado pelas fezes contaminadas do percevejo pois enquanto suga o sangue defeca nesse mesmo local.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Human beings are in turn infected by contaminated excrements of the chinch-bug, which defecates into the region whilst sucking the blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>A infestação pode ser por transfusão de sangue ou transplante de órgãos, ou por via placentária.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Infestation may occur by blood transfusion or organ transplants, or through the placenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Esta forma de transmissão é, quase certamente, rara.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>However this form of transmission is almost certainly rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT">
+        <seg>Os problemas são raros.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>These problems are rare.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

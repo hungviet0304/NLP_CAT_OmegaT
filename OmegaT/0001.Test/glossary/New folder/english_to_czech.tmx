@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>Biocoenosis</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Biocenóza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Navigace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main page</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Hlavní strana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current events</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Aktuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Náhodný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>article</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>článek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Poslední změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nápověda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>Související</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>changes</seg>
+      </tuv>
+      <tuv lang="CS">
+        <seg>změny</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

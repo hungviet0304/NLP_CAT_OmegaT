@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="ES"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="ES">
+        <seg>Lo que enlaza aquí</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>What links here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Cambios en enlazadas</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Related changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Subir archivo</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Upload file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Páginas especiales</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Special pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Versión para imprimir</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Enlace permanente</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Citar este artículo</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta página fue modificada por última vez a las 04:40 28 jul 2006.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>This page was last modified 04:40 28 Jul 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El contenido está disponible bajo los términos de la Licencia de documentación libre de GNU (véase Copyrights para más detalles).</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Wikipedia® es una marca registrada de Wikimedia Foundation, Inc.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Política de privacidad</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Acerca de Wikipedia</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>About Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>aire acondicionado</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>air conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>lavadora</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>washing machine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>congelador y</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>freezer and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>refrigador</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>refrigerator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pequeñas aplicaciones</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Small appliances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>clothes dryer</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>secador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ayuda</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Cambios recientes</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Portal de la comunidad</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Community portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Navegación</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Enlaces</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La mochila debe de ser permeable.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The knapsack must be permeable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Las ventiscas en la alta montaña son peligrosas, pues además del frío, el viento puede arrastrar a una persona.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Snow drifts in high mountains are dangerous, because in addition to the cold, a person can be dragged by the wind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Es recomendable conocer la previsiónn meterológica.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>It is advisable to check the weather forecast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El inconveniente es que se avanza lentamente.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The disadvantage is that progress is slow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los aludes o avalanchas suponen una gran amenaza para la práctica de este deporte, sobre todo en la alta montaña.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Avalanches present a major threat when this sport is undertaken, particularly in high mountains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Técnica de aseguramiento</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Safety techniques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Cuando la verticalidad o la dureza del hielo lo requieren, es más que recomendable asegurarse con los siguientes materiales.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>When required by the gradient or the hardness of the ice requires it, it is highly advisable to take safety measures by using the following materials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El equipamiento para asegurarse en la ascensión es parecido al de la escalda en hielo.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>The safety equipment used for the ascent is similar to that used for ice climbing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Se suele usar equipamiento para seguridad.</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Safety equipment is usually used.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

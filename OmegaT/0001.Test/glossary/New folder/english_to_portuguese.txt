@@ -1,0 +1,5 @@
+﻿interaction	colaboração
+Community portal	Portal comunitário
+Recent changes	Mudanças recentes
+Help	Ajuda
+Make a donation	Donativos

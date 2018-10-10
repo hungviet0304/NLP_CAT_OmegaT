@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="1.6.1"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Wikipedia, the free encyclopedia</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Da Wikipedia, l'enciclopedia libera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Citizen</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>CittadinoCitizen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>United States</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Stati Uniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main page</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Pagina principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Random article</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Un voce a caso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recent changes</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Ultime modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a donation</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Donazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printable version</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Versione stampabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permanent link</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Link permanente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite this article</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Cita questa voce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certain essential elements of Yoga are very important both for Buddhism in general, and for Zen in particular.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Certi elementi essenziali del Yoga sono molto importanti sia per il buddhismo in generale, sia per lo zen nel particolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the definition of jnana as "knowledge" see: Apte, p. 457.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Per la definizione di jana come "sapienza", vedi: Apte, p. 457.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word Jnana in Sanskrit means "knowledge".</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>La parola Jnana nella lingua Sanskrit significa "sapienza".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Bhagavad Gita gives a summary of this process.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Il Bhagavad Gita fa un riassunto di questo processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This action is not just work; it is karma yoga.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Questa azione non è semplicemente lavoro; è karma yoga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shankaracharya says by practicing Karma, the mind gets purified.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Shankaracharya dice che chi si esercita a Karma si purifica la mente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Slavic ethnic group</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Un gruppo etnico slavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many Russian-Americans do not speak Russian, having immigrated to the United States more than forty years ago.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Molti americani russi non parlano russo, perché sono immigrati negli stati uniti più di 40 anni fa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many Russian Americans are Jews.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Molti americani russi sono ebrei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian Empire, a European state that existed from 1721 until 1917</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>L'Impero Russo, uno stato europeo che esistava dal 1721 fino al 1917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russky Island, an island</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>L'isola Russky, un'isola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Action without attachment to the fruits of one's deeds.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Azione senza collegamento ai frutti dei propri fatti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Karma Yoga is an important part of many types of yoga, such as Natya Yoga.</seg>
+      </tuv>
+      <tuv lang="IT">
+        <seg>Karma yoga fa parte importante di molti tipi di yoga, per esempio natya yoga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In the period 1765 to 1792 he built about 300 km (180 miles) of turnpike road, mainly in Suffolk, Norfolk and Lincolnshire.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Nei periodi 1765 - 1792 ha sviluppato circa 300 chilometri (180 miglia) della strada del pedaggio, pricipalmente in Suffolk, in Norfolk e Lincolnshire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>At the age of nine, he lost his sight to a smallpox infection.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>All'età di nove, ha perso la sua vista per cause di un'infezione di vaiolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He became an accomplished pianist pianist and made this his livelihood in the early adult years.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>È diventato un pianista compiuto ed ha ha guadagnato la sua vita in questo modo durante gli anni primi della sua età adulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He knew his local area so well that he was paid to work as a guide to visitors.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Ha conosciuto la sua zona così bene che è stato pagato per lavorare come guida agli ospiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>When, at the age of 21 he made another woman pregnant, Dorothy begged him not to marry the woman and Marc fled.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Quando, all'età di 21 ha reso un'altra donna incinta, Dorothy lo ha supplicato di non sposare la donna, e Marc è fuggito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He then spent some time living along the North Sea coast between Hull and London, also lodging with his brother at Whitby.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Allora ha vissuto un tempo al litorale del Mare del Nord fra Hull e Londra, anche alloggiantesi con il suo fratello a Whitby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He continued to work as a pianist.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Ha continuato a lavorare come pianista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dorothy died in 1820.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Dorothy è morto nel 1820.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He reached Manchester first and then returned to Yorkshire before the general.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Ha raggiunto Manchester prima del generale, e poi si è tornato al Yorkshire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Jack went with the army to Wales.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Jack è andato con l'esercito nel Galles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He was later captured and then released.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Più tardi, lo si è fatto prigioniero, ed allora è stato liberato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Throughout his career he built 180 miles of road.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>Durante la sua carriera ha sviluppato 180 miglia della strada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>He is buried in Haslingden Churchyard.</seg>
+      </tuv>
+      <tuv lang="EN-GB">
+        <seg>È sepolto nel churchyard di Haslingden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
