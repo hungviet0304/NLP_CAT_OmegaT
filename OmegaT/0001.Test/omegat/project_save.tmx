@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By Debra Goldschmidt, CNN</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161058Z" creationid="hungv" creationdate="20181012T161058Z">
+        <seg>Bởi Debra Goldschmidt, CNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By applying electrical pulses, the researchers modulated the ratio of material in the crystalline and the amorphous phases so the phase change memory devices could support a continuum of electrical resistance or conductance.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132234Z" creationid="hungv" creationdate="20181010T132234Z">
