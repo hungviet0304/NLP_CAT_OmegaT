@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"All cases are among infants and children under age six who all reportedly had symptoms of a respiratory illness in the week prior to developing symptoms of AFM," the Washington State Department of Health &lt;t0/&gt;said in a statement&lt;t1/&gt; Wednesday.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164425Z" creationid="hungv" creationdate="20181012T164425Z">
+        <seg>"Mọi trường hợp trong số các trẻ sơ sinh và trẻ em dưới 6 tuổi đã báo cáo tất cả các triệu chứng của một căn bệnh đường hô hấp trong tuần trước khi phát triển các triệu chứng của AFM," sở y tế Washington&lt;t0&gt;&lt;/t0&gt;cho biết trong một tuyên bố&lt;t1&gt;&lt;/t1&gt;thứ tư.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"By comparing the number of 'orphaned' afterglows to those with GRBs preceding them," says Law, "we can measure that fraction much more precisely than before."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133203Z" creationid="hungv" creationdate="20181010T133203Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133156Z" creationid="hungv" creationdate="20181010T133156Z">
         <seg>Do các GRB được chỉ theo các hướng ngẫu nhiên liên quan đến chúng ta, phần chúng ta nhìn thấy từ Trái đất phụ thuộc vào độ hẹp hoặc rộng của các tia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health officials in Washington state are investigating five possible cases in patients from four different counties.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164343Z" creationid="hungv" creationdate="20181012T164343Z">
+        <seg>Các quan chức y tế ở tiểu bang Washington đang điều tra năm trường hợp có khả năng ở những bệnh nhân từ bốn quận khác nhau.</seg>
       </tuv>
     </tu>
     <tu>
