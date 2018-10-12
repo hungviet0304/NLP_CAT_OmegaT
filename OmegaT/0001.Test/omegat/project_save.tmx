@@ -294,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bye for now!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173650Z" creationid="hungv" creationdate="20181012T173650Z">
+        <seg>tạm biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bye!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173627Z" creationid="hungv" creationdate="20181012T173627Z">
+        <seg>tạm biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T141106Z" creationid="hungv" creationdate="20181010T141106Z">
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133156Z" creationid="hungv" creationdate="20181010T133156Z">
         <seg>Do các GRB được chỉ theo các hướng ngẫu nhiên liên quan đến chúng ta, phần chúng ta nhìn thấy từ Trái đất phụ thuộc vào độ hẹp hoặc rộng của các tia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goodbye!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173641Z" creationid="hungv" creationdate="20181012T173641Z">
+        <seg>tạm biệt</seg>
       </tuv>
     </tu>
     <tu>
