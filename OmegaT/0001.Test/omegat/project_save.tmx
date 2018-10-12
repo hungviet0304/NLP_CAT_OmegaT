@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rare condition can be caused by a virus, a genetic disorder and environmental toxins.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161745Z" creationid="hungv" creationdate="20181012T161745Z">
+        <seg>Với điều kiện hiếm có thể được gây ra bởi một loại virus, một rối loạn di truyền và môi trường độc tố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second level draws on the brain's synaptic network structures as inspiration for arrays of phase change memory (PCM) devices to accelerate training for deep neural networks.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132213Z" creationid="hungv" creationdate="20181010T132213Z">
