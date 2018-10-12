@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(CNN)&lt;t0/&gt;The Illinois Department of Public Health is investigating nine recent cases of acute flaccid myelitis, also called AFM, according to a &lt;t1/&gt;statement Wednesday&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161247Z" creationid="hungv" creationdate="20181012T161247Z">
+        <seg>(CNN)&lt;t0&gt;&lt;/t0&gt;Sở y tế công cộng Illinois đang điều tra 9 trường hợp gần đây của chứng tủy viêm cấp tính trạng thái bình thường, còn được gọi là AFM, theo một&lt;t1&gt;&lt;/t1&gt;tuyên bố thứ tư&lt;t2&gt;&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140305Z" creationid="hungv" creationdate="20181010T140305Z">
