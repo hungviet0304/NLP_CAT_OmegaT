@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051312Z" creationid="hungv" creationdate="20181013T051312Z">
+        <seg>Các nhà nghiên cứu của IBM đang phát triển một kiến ​​trúc máy tính mới, được trang bị tốt hơn để xử lý các tải dữ liệu tăng lên từ trí thông minh nhân tạo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140032Z" creationid="hungv" creationdate="20181010T140032Z">
@@ -1278,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They report on their recent findings in the &lt;t0/&gt;Journal of Applied Physics&lt;t1/&gt;, from AIP Publishing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051321Z" creationid="hungv" creationdate="20181013T051321Z">
+        <seg>Họ báo cáo về những phát hiện gần đây của họ trong&lt;/f0&gt;&lt;f1&gt;Tạp chí Vật lý ứng dụng&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They're always exploring, rarely observing, and never using what's happened in the past."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044839Z" creationid="hungv" creationdate="20181013T044839Z">
@@ -1368,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>Today's computers are built on the von Neumann architecture, developed in the 1940s.</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181010T132127Z" creationid="hungv" creationdate="20181010T132127Z">
-        <seg>Ngày hôm nay của máy tính được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051335Z" creationid="hungv" creationdate="20181010T132127Z">
+        <seg>Máy tính ngày nay được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
       </tuv>
     </tu>
     <tu>
