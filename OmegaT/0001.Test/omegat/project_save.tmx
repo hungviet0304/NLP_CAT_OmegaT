@@ -294,6 +294,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with caterpillar-like legs capable of carrying heavy loads and adaptable to adverse environment has just been developed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052114Z" creationid="hungv" creationdate="20181013T052114Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích nghi với môi trường bất lợi vừa được phát triển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with caterpillar-like legs capable of carrying heavy loads and adaptable to adverse environment was developed from a research led by City University of Hong Kong (&lt;t0/&gt;CityU&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052209Z" creationid="hungv" creationdate="20181013T052209Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích ứng với môi trường bất lợi được phát triển từ một nghiên cứu do Đại học Thành phố Hồng Kông đứng đầu (&lt;t0/&gt;CityU&lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with soft caterpillar-like legs which is adaptable to adverse environment and can carry heavy load was developed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052156Z" creationid="hungv" creationdate="20181013T052156Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích nghi với môi trường bất lợi vừa được phát triển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A paper describing the model was presented at this week's IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044629Z" creationid="hungv" creationdate="20181013T044629Z">
@@ -390,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Around the world, there has been research about developing soft milli-robots.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052229Z" creationid="hungv" creationdate="20181013T052229Z">
+        <seg>Trên thế giới, đã có nghiên cứu về phát triển robot mềm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As of September 30, &lt;t0/&gt;according to the CDC&lt;t1/&gt;, 38 cases of AFM have been confirmed in 16 states.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
@@ -418,6 +450,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133120Z" creationid="hungv" creationdate="20181010T133120Z">
         <seg>Nhưng ở đây chúng tôi đã thấy sự bùng nổ, và được nêu ra trước vụ nổ dường như hoàn toàn mất tích khi nhìn từ trái đất."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the &lt;t0/&gt;CityU's&lt;t1/&gt; new design with multi-legs helps reduce friction significantly, so that the robot can move efficiently inside surfaces within the body lined with, or entirely immersed in, body fluids such as blood or mucus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052303Z" creationid="hungv" creationdate="20181013T052303Z">
+        <seg>Nhưng thiết kế mới của &lt;t0/&gt;CityU's&lt;t1/&gt; với nhiều chân giúp giảm đáng kể ma sát, để robot có thể di chuyển hiệu quả bên trong các bề mặt bên trong cơ thể được lót bằng, hoặc hoàn toàn đắm mình trong, chất dịch cơ thể như máu hoặc chất nhầy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>City University of Hong Kong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052040Z" creationid="hungv" creationdate="20181013T052040Z">
+        <seg>Đại học Thành phố Hồng Kông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051526Z" creationid="hungv" creationdate="20181013T051526Z">
@@ -494,10 +542,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credit: City University of Hong Kong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052202Z" creationid="hungv" creationdate="20181013T052202Z">
+        <seg>Nhà cung cấp hình ảnh: Đại học Thành phố Hồng Kông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052023Z" creationid="hungv" creationdate="20181013T052023Z">
+        <seg>Ngày:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dr. Rachel Herlihy, the Colorado state epidemiologist, said the best prevention is frequent handwashing and keeping kids home when they are sick.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165026Z" creationid="hungv" creationdate="20181012T165026Z">
         <seg>Tiến sĩ Rachel Herlihy, nhà dịch tễ học bang Colorado, cho biết công tác phòng chống tốt nhất là rửa tay thường xuyên và giữ trẻ em gia đình khi họ đang bị bệnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULL STORY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052142Z" creationid="hungv" creationdate="20181013T052142Z">
+        <seg>Đầy đủ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1086,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>September 26, 2018</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052028Z" creationid="hungv" creationdate="20181013T052028Z">
+        <seg>Ngày 26 tháng 9 năm 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052131Z" creationid="hungv" creationdate="20181013T052131Z">
+        <seg>Chia sẻ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She referred to these 11 cases as an outbreak within an outbreak.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -1054,10 +1142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052035Z" creationid="hungv" creationdate="20181013T052035Z">
+        <seg>Nguồn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>State health officials are working with the care providers to obtain the samples and information to send to the US Centers for Disease and Prevention for testing and confirmation of the diagnoses.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161454Z" creationid="hungv" creationdate="20181012T161454Z">
         <seg>Các viên chức y tế của tiểu bang đang làm việc với các nhà cung cấp dịch vụ chăm sóc để lấy các mẫu và thông tin để gửi đến các Trung tâm Phòng bệnh và Phòng ngừa Hoa Kỳ để kiểm tra và xác nhận chẩn đoán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052056Z" creationid="hungv" creationdate="20181013T052056Z">
+        <seg>Bản tóm tắt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This mini delivery-robot could pave way for medical technology advancement such as drugs delivery in human body.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052120Z" creationid="hungv" creationdate="20181013T052120Z">
+        <seg>Robot phân phối nhỏ này có thể mở đường cho sự tiến bộ về công nghệ y tế như việc phân phối thuốc trong cơ thể con người.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This number is displayed in</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051517Z" creationid="hungv" creationdate="20181013T051517Z">
@@ -1536,9 +1648,8 @@
       <tuv lang="EN-US">
         <seg>Tiny soft robot with &lt;t0/&gt;multilegs&lt;t1/&gt; paves way for drugs delivery in human body</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T052002Z" creationid="hungv" creationdate="20181013T052002Z">
-        <seg>
-Robot mềm nhỏ với &lt;t0 /&gt; đa nhân &lt;t1 /&gt; mở đường cho việc phân phối thuốc trong cơ thể con người</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052010Z" creationid="hungv" creationdate="20181013T052002Z">
+        <seg>Robot mềm nhỏ với &lt;t0 /&gt; đa nhân &lt;t1 /&gt; mở đường cho việc phân phối thuốc trong cơ thể con người</seg>
       </tuv>
     </tu>
     <tu>
