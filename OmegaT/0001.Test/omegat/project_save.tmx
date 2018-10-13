@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Not everybody behaves the same way, but people are very stereotypical.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051031Z" creationid="hungv" creationdate="20181013T051031Z">
+        <seg>"Không phải ai cũng cư xử theo cùng một cách, nhưng mọi người đều rất khuôn mẫu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Situations like roundabouts are hard, because they require reasoning about how others will respond to your actions, how you will then respond to theirs, what they will do next, and so on," Barbu says.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050916Z" creationid="hungv" creationdate="20181013T050916Z">
@@ -536,8 +544,8 @@
       <tuv lang="EN-US">
         <seg>Going through intersections or roundabouts is one of the most challenging scenarios facing autonomous cars.</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T051006Z" creationid="hungv" creationdate="20181013T051006Z">
-        <seg>Đi qua nút giao thông hoặc đảo là một trong các tình huống khó khăn nhất đối mặt với xe ô tô tự trị.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051020Z" creationid="hungv" creationdate="20181013T051006Z">
+        <seg>Đi qua nút giao thông hoặc đảo là một trong các tình huống khó khăn nhất đối mặt với xe tự lái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +792,8 @@
       <tuv lang="EN-US">
         <seg>More recently, the researchers have been applying this work to robots with manipulators that face similarly daunting challenges when reaching for objects in ever-changing environments.</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181010T142118Z" creationid="hungv" creationdate="20181010T142118Z">
-        <seg>Gần đây, các nhà nghiên cứu đã áp dụng làm việc này với robot với thao tác đối mặt với những thách thức tương tự như vậy khó khăn khi tiếp cận các đối tượng trong bao giờ thay đổi môi trường.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051048Z" creationid="hungv" creationdate="20181010T142118Z">
+        <seg>Gần đây hơn, các nhà nghiên cứu đã áp dụng công việc này cho robot với những người thao túng đối mặt với những thách thức khó khăn khi tiếp cận đối tượng trong môi trường luôn thay đổi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The model recognizes that quickly and that's why it can plan efficiently," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051040Z" creationid="hungv" creationdate="20181013T051040Z">
+        <seg>Mô hình này nhận ra rằng một cách nhanh chóng và đó là lý do tại sao nó có thể lên kế hoạch hiệu quả, "Barbu nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The neural network helps the robot find the exit to the trap, identify the dead ends, and gives the robot a sense of its surroundings so it can quickly find the goal.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050747Z" creationid="hungv" creationdate="20181013T050747Z">
@@ -1206,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are people who are shy, people who are aggressive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051037Z" creationid="hungv" creationdate="20181013T051037Z">
+        <seg>Có những người nhút nhát, những người hung hăng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is no treatment other than managing each patient's symptoms.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T164927Z" creationid="hungv" creationdate="20181012T164927Z">
@@ -1294,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the focus of the Toyota-CSAIL Joint Research Center work.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051028Z" creationid="hungv" creationdate="20181013T051028Z">
+        <seg>Đây là trọng tâm của công trình Trung tâm Nghiên cứu chung Toyota-CSAIL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140213Z" creationid="hungv" creationdate="20181010T140213Z">
@@ -1322,6 +1354,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050946Z" creationid="hungv" creationdate="20181013T050946Z">
         <seg>Vấn đề này trở nên tồi tệ hơn theo cấp số nhân khi bạn phải đối mặt với nhiều xe hơn. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This work might one day let cars learn how humans behave and how to adapt to drivers in different environments, according to the researchers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051025Z" creationid="hungv" creationdate="20181013T051013Z">
+        <seg>Công trình này có thể một ngày nào đó cho phép những chiếc xe học cách con người hành xử và cách thích nghi với những người lái xe trong các môi trường khác nhau, theo các nhà nghiên cứu.</seg>
       </tuv>
     </tu>
     <tu>
