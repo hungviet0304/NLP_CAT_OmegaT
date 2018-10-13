@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"The idea behind this work is to add to the search space a machine-learning model that knows from past experience how to make planning more efficient."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050218Z" creationid="hungv" creationdate="20181013T050218Z">
+        <seg>"Ý tưởng đằng sau việc này là thêm vào không gian tìm kiếm một mô hình học máy mà biết từ kinh nghiệm quá khứ làm thế nào để lập kế hoạch hiệu quả hơn."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"The state health department has been monitoring this situation closely since early spring.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165208Z" creationid="hungv" creationdate="20181012T165208Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165454Z" creationid="hungv" creationdate="20181012T165454Z">
         <seg>"Chúng tôi có 41 vụ của trẻ em đã có một số loại bệnh tật enterovirus A71, gây ra một phổ rộng của các bệnh thần kinh."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"When humans interact with the world, we see an object we've interacted with before, or are in some location we've been to before, so we know how we're going to act," says Yen-Ling Kuo, a PhD in CSAIL and first author on the paper.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050205Z" creationid="hungv" creationdate="20181013T050205Z">
+        <seg>"Khi con người tương tác với thế giới, chúng ta thấy một vật thể chúng ta đã tương tác trước đây, hoặc ở một nơi nào đó chúng ta đã từng đến trước, vì vậy chúng ta biết chúng ta sẽ hành động như thế nào", Yen-Ling Kuo, một Tiến sĩ tại CSAIL và tác giả đầu tiên trên bài báo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A robot using the model is trained on a few ways to navigate similar environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050334Z" creationid="hungv" creationdate="20181013T050334Z">
+        <seg>Một robot sử dụng các mô hình được đào tạo về một vài cách để điều hướng tương tự như môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A team of astronomers has detected the sonic boom from an immensely powerful cosmic explosion, even though the explosion itself was totally unseen.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132735Z" creationid="hungv" creationdate="20181010T132735Z">
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
         <seg>Ngày 30 tháng 9,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;, 38 trường hợp của AFM đã được xác nhận trong 16 bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boris Katz, a principal research scientist and head of the InfoLab Group at CSAIL, is also a co-author on the paper.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050230Z" creationid="hungv" creationdate="20181013T050230Z">
+        <seg>Boris Katz, nhà nghiên cứu chính và là người đứng đầu Nhóm InfoLab tại CSAIL, cũng là đồng tác giả của bài báo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The learning process starts with a few examples.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050315Z" creationid="hungv" creationdate="20181013T050315Z">
+        <seg>Quá trình học tập bắt đầu bằng một vài ví dụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The paper, whose lead author is Casey Law, University of California at Berkeley, is being published in the &lt;t0/&gt;Astrophysical Journal Letters&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133109Z" creationid="hungv" creationdate="20181010T133109Z">
@@ -906,6 +946,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044921Z" creationid="hungv" creationdate="20181013T044921Z">
         <seg>Các nhà nghiên cứu đã phát triển một mô hình kết hợp thuật toán lập kế hoạch với mạng nơron để học cách nhận ra các cách có thể dẫn đến kết quả tốt nhất và sử dụng tri thức đó để hướng dẫn chuyển động của robot trong môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers' model, however, offers "a tradeoff between exploring the world and exploiting past knowledge," Kuo says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050309Z" creationid="hungv" creationdate="20181013T050309Z">
+        <seg>Mô hình của các nhà nghiên cứu, tuy nhiên, cung cấp "một sự cân bằng giữa khám phá thế giới và khai thác kiến ​​thức trong quá khứ", Kuo nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot then looks at the tree to find a way to reach the goal, such as a door.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050303Z" creationid="hungv" creationdate="20181013T050303Z">
+        <seg>Robot sau đó nhìn vào cái cây để tìm cách đạt được mục tiêu, chẳng hạn như cánh cửa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1146,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132127Z" creationid="hungv" creationdate="20181010T132127Z">
         <seg>Ngày hôm nay của máy tính được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trading off exploration and exploitatio&lt;t0/&gt;n</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050244Z" creationid="hungv" creationdate="20181013T050244Z">
+        <seg>Giao dịch thăm dò và khai thác&lt;t0/&gt;n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traditional motion planners explore an environment by rapidly expanding a tree of decisions that eventually blankets an entire space.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050255Z" creationid="hungv" creationdate="20181013T050255Z">
+        <seg>Các nhà lập kế hoạch chuyển động truyền thống khám phá một môi trường bằng cách nhanh chóng mở rộng một cây quyết định cuối cùng để chăn toàn bộ một không gian.</seg>
       </tuv>
     </tu>
     <tu>
