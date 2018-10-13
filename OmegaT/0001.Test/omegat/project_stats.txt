@@ -1,11 +1,11 @@
-10/13/18 12:28 PM
+10/13/18 12:38 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	     804	 7618	                      37877	                        44706	     8	
-Remaining:       	     548	 3194	                      14419	                        17086	     3	
-Unique:          	     774	 7108	                      34995	                        41343	     8	
-Unique Remaining:	     542	 3180	                      14352	                        17010	     3	
+Total:           	     805	13631	                      64588	                        76811	     9	
+Remaining:       	     549	 9207	                      41130	                        49191	     4	
+Unique:          	     775	13121	                      61706	                        73448	     9	
+Unique Remaining:	     543	 9193	                      41063	                        49115	     4	
 
 
 Individual File Statistics:
@@ -14,6 +14,7 @@ File Name                                                                       
 500_communicate.docx                                                              	           517	               504	            510	                      498	       2461	           2418	        2444	                  2404	                            10587	                                10413	                             10507	                                       10346	                              12546	                                  12342	                               12455	                                         12266	
 Illinois, Colorado, Washington report cases of polio-like illness in children.docx	            40	                 0	             40	                        0	        776	              0	         776	                     0	                             3937	                                    0	                              3937	                                           0	                               4672	                                      0	                                4672	                                             0	
 Model helps robots navigate more like humans do.docx                              	            58	                 0	             58	                        0	       1243	              0	        1243	                     0	                             6467	                                    0	                              6467	                                           0	                               7648	                                      0	                                7648	                                             0	
+new data.txt                                                                      	             1	                 1	              1	                        1	       6013	           6013	        6013	                  6013	                            26711	                                26711	                             26711	                                       26711	                              32105	                                  32105	                               32105	                                         32105	
 sourceFileForOmegaT.odt                                                           	            24	                 0	             24	                        0	        509	              0	         509	                     0	                             2903	                                    0	                              2903	                                           0	                               3388	                                      0	                                3388	                                             0	
 src.docx                                                                          	            24	                 0	              2	                        0	        509	              0	          33	                     0	                             2903	                                    0	                               197	                                           0	                               3388	                                      0	                                 228	                                             0	
 src2.docx                                                                         	            55	                 3	             55	                        3	        472	              4	         472	                     4	                             2432	                                   10	                              2432	                                          10	                               2855	                                     11	                                2855	                                            11	

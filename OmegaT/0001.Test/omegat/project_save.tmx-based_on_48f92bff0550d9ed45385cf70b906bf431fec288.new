@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"All cases are among infants and children under age six who all reportedly had symptoms of a respiratory illness in the week prior to developing symptoms of AFM," the Washington State Department of Health &lt;t0/&gt;said in a statement&lt;t1/&gt; Wednesday.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164425Z" creationid="hungv" creationdate="20181012T164425Z">
+        <seg>"Mọi trường hợp trong số các trẻ sơ sinh và trẻ em dưới 6 tuổi đã báo cáo tất cả các triệu chứng của một căn bệnh đường hô hấp trong tuần trước khi phát triển các triệu chứng của AFM," sở y tế Washington&lt;t0&gt;&lt;/t0&gt;cho biết trong một tuyên bố&lt;t1&gt;&lt;/t1&gt;thứ tư.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Both the materials and the &lt;t0/&gt;mutli&lt;t1/&gt;-leg design greatly improve the robot's hydrophobic property.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052556Z" creationid="hungv" creationdate="20181013T052556Z">
+        <seg>"Cả hai vật liệu và thiết kế &lt;t0/&gt;đa chân&lt;t1/&gt; cải thiện đáng kể tính kỵ nước của robot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"By comparing the number of 'orphaned' afterglows to those with GRBs preceding them," says Law, "we can measure that fraction much more precisely than before."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133203Z" creationid="hungv" creationdate="20181010T133203Z">
+        <seg>"Bằng cách so sánh số lượng afterglows 'mồ côi' với những người có GRBs ngay trước đó," nói pháp luật, "chúng ta có thể đo đó phần nhiều hơn chính xác hơn trước."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051157Z" creationid="hungv" creationdate="20181009T131330Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20 đến 30 watt điện, trong khi AI ngày nay dựa trên các siêu máy tính chạy bằng kilowatt hoặc megawatt điện", Sebastian nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"If you&lt;s0/&gt;look at human beings, we compute with 20 to 30 watts of power, whereas AI today is based on supercomputers which run on kilowatts or megawatts of power," Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T130753Z" creationid="hungv" creationdate="20181010T130753Z">
+        <seg>"Nếu bạn nhìn vào con người, chúng tôi tính toán với 20-30 watts của quyền lực, trong khi đó AI ngày hôm nay được dựa trên siêu máy tính chạy trên kilowatts hoặc MW điện," Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Import Source Files..." button.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051759Z" creationid="hungv" creationdate="20181013T051759Z">
+        <seg>Nút "Tệp nguồn nhập ...".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the brain, synapses are both computing and storing information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T131447Z" creationid="hungv" creationdate="20181009T131447Z">
+        <seg>"Trong não, các khớp thần kinh vừa là điện toán vừa lưu trữ thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"In the past, people have either seen the explosion and then seen the boom, or on one or two occasions have seen the boom and then looked back and recovered the explosion after the fact.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132933Z" creationid="hungv" creationdate="20181010T132933Z">
+        <seg>"Trong quá khứ, người đã hoặc là nhìn thấy sự bùng nổ và sau đó nhìn thấy sự bùng nổ, hoặc trên một hoặc hai lần đã nhìn thấy sự bùng nổ và sau đó nhìn lại và phục hồi sự bùng nổ sau khi thực tế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Just like when playing chess, these decisions branch out until [the robots] find a good way to navigate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044729Z" creationid="hungv" creationdate="20181013T044729Z">
+        <seg>"Cũng giống như khi chơi cờ vua, những quyết định này phân nhánh cho đến khi [robot] tìm ra cách tốt để điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Looking at the radio source in other old data shows that it lived in a relatively nearby galaxy, and back in the 1990s, it was as luminous as the biggest explosions known, gamma-ray bursts."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133130Z" creationid="hungv" creationdate="20181010T133130Z">
+        <seg>"Nhìn vào nguồn radio trong dữ liệu cổ khác cho thấy rằng nó sống trong một Thiên Hà tương đối gần đó, và trở lại trong thập niên 1990, nó sáng như vụ nổ lớn nhất được biết đến, gamma-ray bursts."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Most animals have a leg-length to leg-gap ratio of 2:1 to 1:1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052430Z" creationid="hungv" creationdate="20181013T052430Z">
+        <seg>"Hầu hết các loài động vật có tỷ lệ chân-khoảng cách đến khoảng cách giữa 2: 1 đến 1: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Not everybody behaves the same way, but people are very stereotypical.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051031Z" creationid="hungv" creationdate="20181013T051031Z">
+        <seg>"Không phải ai cũng cư xử theo cùng một cách, nhưng mọi người đều rất khuôn mẫu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Situations like roundabouts are hard, because they require reasoning about how others will respond to your actions, how you will then respond to theirs, what they will do next, and so on," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050916Z" creationid="hungv" creationdate="20181013T050916Z">
+        <seg>Barbu nói: "Các tình huống như bùng binh rất khó, bởi vì họ cần lý luận về cách người khác phản ứng với hành động của bạn, sau đó bạn sẽ phản ứng như thế nào, họ sẽ làm gì tiếp theo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The CDC will make the final determination on diagnoses and numbers are subject to change," the statement said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161514Z" creationid="hungv" creationdate="20181012T161514Z">
+        <seg>"CDC sẽ đưa ra quyết định cuối cùng về chẩn đoán và con số có thể thay đổi", tuyên bố nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The idea behind this work is to add to the search space a machine-learning model that knows from past experience how to make planning more efficient."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050218Z" creationid="hungv" creationdate="20181013T050218Z">
+        <seg>"Ý tưởng đằng sau việc này là thêm vào không gian tìm kiếm một mô hình học máy mà biết từ kinh nghiệm quá khứ làm thế nào để lập kế hoạch hiệu quả hơn."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The plans the robots make take into account what the other cars are going to do, as any human would," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051002Z" creationid="hungv" creationdate="20181013T051002Z">
+        <seg>"Kế hoạch các robot thực hiện đưa vào tài khoản những chiếc xe khác phải làm gì, như bất kỳ người nào," Barbu nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The rugged surface and changing texture of different tissues inside the human body make transportation challenging.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052610Z" creationid="hungv" creationdate="20181013T052610Z">
+        <seg>"Bề mặt gồ ghề và thay đổi kết cấu của các mô khác nhau bên trong cơ thể con người khiến cho việc vận chuyển trở nên khó khăn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The state health department has been monitoring this situation closely since early spring.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165208Z" creationid="hungv" creationdate="20181012T165208Z">
+        <seg>"Bộ y tế nhà nước đã theo dõi tình trạng này chặt chẽ kể từ đầu mùa xuân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The thousandth time they go through the same crowd is as complicated as the first time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044819Z" creationid="hungv" creationdate="20181013T044819Z">
+        <seg>"Nho giờ họ đi qua đám đông cùng là như phức tạp như lần đầu tiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"This is certainly the largest outbreak of enterovirus A71 we've seen in Colorado."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165404Z" creationid="hungv" creationdate="20181012T165404Z">
+        <seg>"Điều này là chắc chắn chiến enterovirus A71 chúng tôi đã nhìn thấy ở Colorado, lớn nhất."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"This is the first time anyone has been able to capture the sonic boom from an unseen GRB explosion," says Bryan Gaensler, a co-author on the paper describing the observation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132929Z" creationid="hungv" creationdate="20181010T132929Z">
+        <seg>"Đây là lần đầu tiên ai đã có thể nắm bắt âm bùng nổ từ một vụ nổ GRB unseen," ông Bryan Gaensler, đồng tác giả trên giấy mô tả các quan sát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always expected these systems to be much better than conventional computing systems in some tasks, but we were surprised how much more efficient some of these approaches were."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051249Z" creationid="hungv" creationdate="20181010T132242Z">
+        <seg>"Chúng tôi luôn luôn mong đợi các hệ thống này là tốt hơn nhiều so với hệ thống máy tính thông thường trong một số nhiệm vụ, nhưng chúng tôi đã rất ngạc nhiên làm thế nào nhiều hiệu quả hơn một số trong những cách tiếp cận."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We always knew they would be efficient, but we didn't expect them to outperform by this much." The team continues to build prototype chips and systems based on brain-inspired concepts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051259Z" creationid="hungv" creationdate="20181010T132048Z">
+        <seg>"Chúng tôi luôn luôn biết họ sẽ có hiệu quả, nhưng chúng tôi đã không mong đợi họ tốt hơn bằng cách này nhiều." Đội tuyển tiếp tục xây dựng nguyên mẫu chip và các hệ thống dựa trên các khái niệm truyền cảm hứng cho não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We are hoping to create a biodegradable robot in the next two to three &lt;t0/&gt;years&lt;t1/&gt; so it will decompose naturally after its meds delivery mission," says Dr Shen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052633Z" creationid="hungv" creationdate="20181013T052633Z">
+        <seg>"Chúng tôi hy vọng sẽ tạo ra một robot tự phân hủy trong 2-3 tới &lt;t0/&gt;năm&lt;t1/&gt; do đó, nó sẽ phân hủy tự nhiên sau nhiệm vụ phân phối meds của nó, "tiến sĩ Shen nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We compared images from old maps of the sky and found one radio source that was no longer visible today in VLASS," says Law.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133126Z" creationid="hungv" creationdate="20181010T133126Z">
+        <seg>"Chúng tôi so sánh các hình ảnh từ các bản đồ cũ của bầu trời và tìm thấy một nguồn radio đã không còn được nhìn thấy ngày hôm nay trong VLASS," nói rằng luật pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We could achieve 200 times faster performance in the phase change memory computing systems as opposed to conventional computing systems." Sebastian said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132259Z" creationid="hungv" creationdate="20181010T132259Z">
+        <seg>"Chúng tôi có thể đạt được 200 lần hiệu quả nhanh hơn trong giai đoạn thay đổi bộ nhớ máy tính hệ thống như trái ngược với hệ thống máy tính thông thường." Sebastian cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"We have 41 cases of children who have had some sort of illness of enterovirus A71, which is causing a wide spectrum of neurological illness."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165454Z" creationid="hungv" creationdate="20181012T165454Z">
+        <seg>"Chúng tôi có 41 vụ của trẻ em đã có một số loại bệnh tật enterovirus A71, gây ra một phổ rộng của các bệnh thần kinh."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"When humans interact with the world, we see an object we've interacted with before, or are in some location we've been to before, so we know how we're going to act," says Yen-Ling Kuo, a PhD in CSAIL and first author on the paper.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050205Z" creationid="hungv" creationdate="20181013T050205Z">
+        <seg>"Khi con người tương tác với thế giới, chúng ta thấy một vật thể chúng ta đã tương tác trước đây, hoặc ở một nơi nào đó chúng ta đã từng đến trước, vì vậy chúng ta biết chúng ta sẽ hành động như thế nào", Yen-Ling Kuo, một Tiến sĩ tại CSAIL và tác giả đầu tiên trên bài báo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"You eventually discover your fi&lt;t0/&gt;rst action was wrong, because later on it will lead to a likely accident.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050939Z" creationid="hungv" creationdate="20181013T050939Z">
+        <seg>"Bạn cuối cùng đã khám phá ra hành động đầu tiên là sai, bởi vì sau này nó sẽ dẫn đến một tai nạn có khả năng xảy ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(CNN)&lt;t0/&gt;The Illinois Department of Public Health is investigating nine recent cases of acute flaccid myelitis, also called AFM, according to a &lt;t1/&gt;statement Wednesday&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161247Z" creationid="hungv" creationdate="20181012T161247Z">
+        <seg>(CNN)&lt;t0&gt;&lt;/t0&gt;Sở y tế công cộng Illinois đang điều tra 9 trường hợp gần đây của chứng tủy viêm cấp tính trạng thái bình thường, còn được gọi là AFM, theo một&lt;t1&gt;&lt;/t1&gt;tuyên bố thứ tư&lt;t2&gt;&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140305Z" creationid="hungv" creationdate="20181010T140305Z">
+        <seg>(Nếu chọn &gt; View &gt; "Bao gồm các phân đoạn đầu tiên không duy nhất khi đánh dấu phân đoạn không duy nhất" được chọn, tất cả các phân đoạn không duy nhất bao gồm các đầu tiên được đánh dấu bằng cách này.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(It's a variant of a widely used motion-planning algorithm known as Rapidly-exploring Random Trees, or RRT.) The planner creates a search tree while the neural network mirrors each step and makes probabilistic predictions about where the robot should go next.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050648Z" creationid="hungv" creationdate="20181013T050648Z">
+        <seg>(Đó là một biến thể của một thuật toán chuyển động có kế hoạch sử dụng rộng rãi được gọi là nhanh chóng khám phá ngẫu nhiên hay cây gỗ, RRT.) Công cụ hoạch định tạo ra một cây tìm kiếm trong khi mạng nơ-ron gương mỗi bước và làm cho các dự đoán xác suất về robot nên đi đâu tiếp theo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051709Z" creationid="hungv" creationdate="20181013T051709Z">
+        <seg>(Định nghĩa "duy nhất" phân biệt chữ hoa chữ thường: "Chạy" và "chạy" được xử lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182438Z" creationid="hungv" creationdate="20181008T182438Z">
+        <seg>u&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051105Z" creationid="hungv" creationdate="20181010T132051Z">
+        <seg>&lt;f0&gt;Các nhà nghiên cứu của IBM đang phát triển một kiến ​​trúc máy tính mới, được trang bị tốt hơn để xử lý các tải dữ liệu tăng lên từ trí thông minh nhân tạo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;meta property="og:title" content="Two Britons believed dead in Majorca flood" /&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142436Z" creationid="hungv" creationdate="20181010T142436Z">
+        <seg>&lt;meta property="og:title" content="Hai người Anh được cho là đã chết trong trận lũ Majorca - BBC News" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;All of&lt;t3/&gt; the patients are children who have needed to be hospitalized, the department said, noting that "nearly all have fully recovered."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165140Z" creationid="hungv" creationdate="20181012T165140Z">
+        <seg>&lt;t2&gt;&lt;/t2&gt;Tất cả các&lt;t3&gt;&lt;/t3&gt;bệnh nhân là trẻ em cần được nhập viện, sở cho biết, ghi nhận rằng "gần như tất cả đã hoàn toàn hồi phục."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;title&gt;Two Britons believed dead in Majorca flood - BBC News&lt;/title&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142353Z" creationid="hungv" creationdate="20181010T142353Z">
+        <seg>&lt;title&gt; Hai người Anh được cho là đã chết trong trận lũ Majorca - BBC News &lt;/title&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>= What are you doing?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043938Z" creationid="hungv" creationdate="20181013T043938Z">
+        <seg>= Đang làm gì đó?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A car that steers well on corners</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181008T182640Z" creationid="hungv" creationdate="20181008T182640Z">
+        <seg>+ Một chiếc ôtô rẽ tốt ở các góc đường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with caterpillar-like legs capable of carrying heavy loads and adaptable to adverse environment has just been developed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052114Z" creationid="hungv" creationdate="20181013T052114Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích nghi với môi trường bất lợi vừa được phát triển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with caterpillar-like legs capable of carrying heavy loads and adaptable to adverse environment was developed from a research led by City University of Hong Kong (&lt;t0/&gt;CityU&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052209Z" creationid="hungv" creationdate="20181013T052209Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích ứng với môi trường bất lợi được phát triển từ một nghiên cứu do Đại học Thành phố Hồng Kông đứng đầu (&lt;t0/&gt;CityU&lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A novel tiny, soft robot with soft caterpillar-like legs which is adaptable to adverse environment and can carry heavy load was developed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052156Z" creationid="hungv" creationdate="20181013T052156Z">
+        <seg>Một con robot nhỏ, mềm mại với đôi chân giống như con sâu bướm có khả năng mang tải nặng và thích nghi với môi trường bất lợi vừa được phát triển.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A paper describing the model was presented at this week's IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044629Z" creationid="hungv" creationdate="20181013T044629Z">
+        <seg>Một bài báo mô tả các mô hình đã được trình bày tại tuần này của IEEE/RSJ nghị quốc tế về robot thông minh và hệ thống (IROS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A promising real-world application is helping autonomous cars navigate intersections, where they have to quickly evaluate what others will do before merging into traffic.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T045052Z" creationid="hungv" creationdate="20181013T045045Z">
+        <seg>Một ứng dụng thế giới thực đầy hứa hẹn giúp xe ô tô tự di chuyển trong các nút giao thông, nơi chúng phải nhanh chóng đánh giá người khác sẽ làm gì trước khi sáp nhập lưu thông.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A robot agent must successfully navigate around the other agents, avoid collisions, and reach a goal location, such as an exit on a roundabout.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050905Z" creationid="hungv" creationdate="20181013T050839Z">
+        <seg>Robot phải điều hướng thành công xung quanh các đại lý khác, tránh va chạm và đạt được vị trí mục tiêu, chẳng hạn như lối ra trên bùng binh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A robot that needs to navigate a room to reach a door, for instance, will create a step-by-step search tree of possible movements and then execute the best path to the door, considering various constraints.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044712Z" creationid="hungv" creationdate="20181013T044712Z">
+        <seg>Một robot cần phải điều hướng trong một phòng để đến cửa, ví dụ, sẽ tạo ra một cây tìm kiếm từng bước tốt các phong trào và sau đó thực hiện con đường tốt nhất để đến cửa, xem xét những hạn chế khác nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A robot using the model is trained on a few ways to navigate similar environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050334Z" creationid="hungv" creationdate="20181013T050334Z">
+        <seg>Một robot sử dụng các mô hình được đào tạo về một vài cách để điều hướng tương tự như môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A team of astronomers has detected the sonic boom from an immensely powerful cosmic explosion, even though the explosion itself was totally unseen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132735Z" creationid="hungv" creationdate="20181010T132735Z">
+        <seg>Một nhóm các nhà thiên văn học đã phát hiện âm bùng nổ từ một vụ nổ vũ trụ vô cùng mạnh mẽ, mặc dù vụ nổ chính nó là hoàn toàn không nhìn thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AFM is a polio-like illness that affects a person's nervous system, including the spinal cord.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161640Z" creationid="hungv" creationdate="20181012T161640Z">
+        <seg>AFM là một căn bệnh bại liệt ảnh hưởng đến hệ thần kinh của một người, trong đó có tủy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abu Sebastian, an author on the paper, explained that executing certain computational tasks in the computer's memory would increase the system's efficiency and save energy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051147Z" creationid="hungv" creationdate="20181009T130944Z">
+        <seg>Abu Sebastian, một tác giả trên giấy, giải thích rằng việc thực hiện một số nhiệm vụ tính toán nhất định trong bộ nhớ của máy tính sẽ làm tăng hiệu quả của hệ thống và tiết kiệm năng lượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding files to the project: &lt;t0/&gt;You can add source files to the project by clicking on the</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051756Z" creationid="hungv" creationdate="20181013T051756Z">
+        <seg>Thêm tệp vào dự án: &lt;t0/&gt;Bạn có thể thêm tệp nguồn vào dự án bằng cách nhấp vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of&lt;t0/&gt; the cases are in patients younger than 18 and have been clinically diagnosed by health care providers, the statement said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165749Z" creationid="hungv" creationdate="20181012T165749Z">
+        <seg>Tất cả các&lt;t0&gt;&lt;/t0&gt;những trường hợp ở những bệnh nhân dưới 18 tuổi và đã được lâm sàng chẩn đoán bằng cách chăm sóc sức khỏe, các báo cáo cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of&lt;t0/&gt; the patients are "from northern Illinois," according to the health department, but no other location information was provided.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161551Z" creationid="hungv" creationdate="20181012T161551Z">
+        <seg>Theo bộ phận y tế, tất cả&lt;t0/&gt; các bệnh nhân đến "từ miền bắc Illinois", nhưng không có thông tin vị trí khác được cung cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And from there, they got their inspiration.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052426Z" creationid="hungv" creationdate="20181013T052426Z">
+        <seg>Và từ đó, họ có cảm hứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And the robot can increase its speed by increasing the electromagnetic frequency applied.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052618Z" creationid="hungv" creationdate="20181013T052618Z">
+        <seg>Và robot có thể tăng tốc độ của nó bằng cách tăng tần số điện từ được áp dụng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another was that it was found where astronomers expected to find GRBs: in a relatively small galaxy, of a type known as "dwarf" galaxies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133144Z" creationid="hungv" creationdate="20181010T133144Z">
+        <seg>Một là rằng nó đã được tìm thấy nơi nhà thiên văn học dự kiến sẽ tìm thấy GRBs: trong một Thiên Hà tương đối nhỏ, trong một loại được biết đến như "lùn" Thiên Hà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apart from the multi-leg design, the materials also matter.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052505Z" creationid="hungv" creationdate="20181013T052448Z">
+        <seg>Ngoài thiết kế đa chân, các chất liệu cũng có vấn đề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Around the world, there has been research about developing soft milli-robots.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052229Z" creationid="hungv" creationdate="20181013T052229Z">
+        <seg>Trên thế giới, đã có nghiên cứu về phát triển robot mềm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As of September 30, &lt;t0/&gt;according to the CDC&lt;t1/&gt;, 38 cases of AFM have been confirmed in 16 states.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
+        <seg>Ngày 30 tháng 9,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;, 38 trường hợp của AFM đã được xác nhận trong 16 bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before conducting further tests in animals and eventually in humans, the research teams are further developing and refining their research in three aspects, namely finding a biodegradable material, studying new shapes, and adding extra features.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052630Z" creationid="hungv" creationdate="20181013T052630Z">
+        <seg>Trước khi tiến hành thử nghiệm thêm ở động vật và cuối cùng ở người, các nhóm nghiên cứu đang tiếp tục phát triển và tinh chỉnh nghiên cứu của họ theo ba khía cạnh, cụ thể là tìm vật liệu phân hủy sinh học, nghiên cứu các hình dạng mới và thêm các tính năng bổ sung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Besides, the rubbery piece is soft and can be cut easily to form robots of various shapes and sizes for different applications," says Professor Wang &lt;t2/&gt;Zuankai&lt;t3/&gt; at &lt;t4/&gt;CityU's&lt;t5/&gt; Department of Mechanical Engineering (MNE) who conceived this research idea and initiated the collaboration among the researchers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052600Z" creationid="hungv" creationdate="20181013T052600Z">
+        <seg>Bên cạnh đó, phần cao su mềm mại và có thể được cắt dễ dàng để tạo thành các robot có hình dạng và kích cỡ khác nhau cho các ứng dụng khác nhau, "Giáo sư Wang nói &lt;t2/&gt;Zuankai&lt;t3/&gt; tại &lt;t4/&gt;CityU's&lt;t5/&gt; Sở Cơ khí (MNE) đã hình thành ý tưởng nghiên cứu này và bắt đầu sự hợp tác giữa các nhà nghiên cứu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bio-inspired robot design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052357Z" creationid="hungv" creationdate="20181013T052357Z">
+        <seg>Thiết kế robot lấy cảm hứng từ sinh học</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blind allies on either side of the channel can get robots stuck.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050732Z" creationid="hungv" creationdate="20181013T050726Z">
+        <seg>Các điểm mù ở hai bên của kênh có thể khiến robot bị kẹt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boris Katz, a principal research scientist and head of the InfoLab Group at CSAIL, is also a co-author on the paper.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050230Z" creationid="hungv" creationdate="20181013T050230Z">
+        <seg>Boris Katz, nhà nghiên cứu chính và là người đứng đầu Nhóm InfoLab tại CSAIL, cũng là đồng tác giả của bài báo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But here we have seen the boom, and yet the preceding explosion seems to be completely missing as viewed from Earth."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133120Z" creationid="hungv" creationdate="20181010T133120Z">
+        <seg>Nhưng ở đây chúng tôi đã thấy sự bùng nổ, và được nêu ra trước vụ nổ dường như hoàn toàn mất tích khi nhìn từ trái đất."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the &lt;t0/&gt;CityU's&lt;t1/&gt; new design with multi-legs helps reduce friction significantly, so that the robot can move efficiently inside surfaces within the body lined with, or entirely immersed in, body fluids such as blood or mucus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052303Z" creationid="hungv" creationdate="20181013T052303Z">
+        <seg>Nhưng thiết kế mới của &lt;t0/&gt;CityU's&lt;t1/&gt; với nhiều chân giúp giảm đáng kể ma sát, để robot có thể di chuyển hiệu quả bên trong các bề mặt bên trong cơ thể được lót bằng, hoặc hoàn toàn đắm mình trong, chất dịch cơ thể như máu hoặc chất nhầy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But unlike chess players, [the robots] explore what the future looks like without learning much about their environment and other agents," says co-author Andrei Barbu, a researcher at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds, and Machines (CBMM) within MIT's McGovern Institute.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044755Z" creationid="hungv" creationdate="20181013T044755Z">
+        <seg>Tuy nhiên, không giống như các game thủ cờ vua, [robot] khám phá tương lai của mình như thế nào mà không cần tìm hiểu nhiều về môi trường và các tác nhân khác của họ ”, tác giả Andrei Barbu, một nhà nghiên cứu tại Phòng thí nghiệm trí tuệ và nhân tạo của MIT (CSAIL) và Trung tâm cho biết. Bộ não, tâm trí và máy móc (CBMM) trong Học viện McGovern của MIT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But, GRB jets are very narrow, and because the jets from this particular collapsing star weren't pointed at us, the GRB itself was completely undetectable.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132849Z" creationid="hungv" creationdate="20181010T132849Z">
+        <seg>Nhưng, máy bay phản lực GRB là rất hẹp, và vì máy bay phản lực từ ngôi sao sụp đổ đặc biệt không chỉ ở với chúng tôi, GRB chính nó là hoàn toàn không thể phát hiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By Debra Goldschmidt, CNN</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161058Z" creationid="hungv" creationdate="20181012T161058Z">
+        <seg>Bởi Debra Goldschmidt, CNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By applying electrical pulses, the researchers modulated the ratio of material in the crystalline and the amorphous phases so the phase change memory devices could support a continuum of electrical resistance or conductance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051234Z" creationid="hungv" creationdate="20181010T132234Z">
+        <seg>Bằng cách áp dụng các xung điện, các nhà nghiên cứu đã điều chỉnh tỷ lệ vật liệu trong tinh thể và các pha vô định hình để các thiết bị bộ nhớ thay đổi pha có thể hỗ trợ một điện trở hoặc độ dẫn điện liên tục.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135704Z" creationid="hungv" creationdate="20181010T135704Z">
+        <seg>Theo mặc định, OmegaT sử dụng tuyên truyền tự động phù hợp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bye for now!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173650Z" creationid="hungv" creationdate="20181012T173650Z">
+        <seg>tạm biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bye!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173627Z" creationid="hungv" creationdate="20181012T173627Z">
+        <seg>tạm biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City University of Hong Kong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052040Z" creationid="hungv" creationdate="20181013T052040Z">
+        <seg>Đại học Thành phố Hồng Kông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051526Z" creationid="hungv" creationdate="20181013T051526Z">
+        <seg>Nhấp vào bất kỳ tệp nào sẽ mở nó để dịch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configuration Folder menu).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T141106Z" creationid="hungv" creationdate="20181010T141106Z">
+        <seg>ư`Configuration Folder menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlled by a magnetic manipulator used in experiments, the robot can move in both a flap propulsion pattern and an inverted pendulum pattern, meaning that it can use its front feet to flap forward as well as swinging the body by standing on the left and right feet alternately to advance respectively.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052607Z" creationid="hungv" creationdate="20181013T052607Z">
+        <seg>Được điều khiển bởi một bộ điều khiển từ được sử dụng trong các thí nghiệm, robot có thể di chuyển trong cả mô hình đẩy và mô hình con lắc ngược, có nghĩa là nó có thể sử dụng chân trước để đẩy về phía trước cũng như vung cơ thể bằng cách đứng trên chân trái và phải luân phiên để tăng tương ứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit: City University of Hong Kong</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052202Z" creationid="hungv" creationdate="20181013T052202Z">
+        <seg>Nhà cung cấp hình ảnh: Đại học Thành phố Hồng Kông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052023Z" creationid="hungv" creationdate="20181013T052023Z">
+        <seg>Ngày:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dr. Rachel Herlihy, the Colorado state epidemiologist, said the best prevention is frequent handwashing and keeping kids home when they are sick.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165026Z" creationid="hungv" creationdate="20181012T165026Z">
+        <seg>Tiến sĩ Rachel Herlihy, nhà dịch tễ học bang Colorado, cho biết công tác phòng chống tốt nhất là rửa tay thường xuyên và giữ trẻ em gia đình khi họ đang bị bệnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FULL STORY</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052142Z" creationid="hungv" creationdate="20181013T052142Z">
+        <seg>Đầy đủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, in a disordered phase, these materials exhibit high resistivity, whereas in a crystalline phase they show low resistivity.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132229Z" creationid="hungv" creationdate="20181010T132229Z">
+        <seg>Ví dụ, trong một pha rối loạn, các vật liệu này thể hiện điện trở suất cao, trong khi trong pha tinh thể chúng cho thấy điện trở suất thấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, over the next 7 years, the VLASS will make three complete scans of 80 percent of the entire sky.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133212Z" creationid="hungv" creationdate="20181010T133212Z">
+        <seg>Ví dụ, trong 7 năm tiếp theo, các VLASS sẽ làm cho ba hoàn thành quét 80 phần trăm của toàn bộ bầu trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the researchers demonstrated the model in a simulation known as a "bug trap," where a 2-D robot must escape from an inner chamber through a central narrow channel and reach a location in a surrounding larger room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050718Z" creationid="hungv" creationdate="20181013T050718Z">
+        <seg>Ví dụ, các nhà nghiên cứu đã chứng minh mô hình trong một mô phỏng được gọi là "bẫy lỗi", trong đó một robot 2-D phải thoát ra khỏi buồng bên trong thông qua một kênh hẹp trung tâm và đến một vị trí trong một căn phòng lớn hơn xung quanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For years, astronomers have been hunting all over the sky for an example of this strange phenomenon, known as an "orphan afterglow." At last, now they've finally found one.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132740Z" creationid="hungv" creationdate="20181010T132740Z">
+        <seg>Trong nhiều năm qua, nhà thiên văn học có săn bắn trên bầu trời một ví dụ về hiện tượng kỳ lạ này, gọi là một "mồ côi afterglow." Cuối cùng, bây giờ họ đã cuối cùng đã tìm thấy một.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuck</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131817Z" creationid="hungv" creationdate="20181010T131817Z">
+        <seg>Error extracting MT result from MyMemory, response:null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaensler is Director of the Dunlap Institute for Astronomy &amp; Astrophysics, University of Toronto.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133103Z" creationid="hungv" creationdate="20181010T133103Z">
+        <seg>Gaensler là giám đốc Viện Dunlap Astronomy &amp; vật lý thiên văn, đại học Toronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaensler, Law and their colleagues made the discovery by comparing data from previous radio surveys of the sky with data from the Very Large Array Sky Survey (VLASS), being conducted with the Karl G. Jansky Very Large Array in New Mexico.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133123Z" creationid="hungv" creationdate="20181010T133123Z">
+        <seg>Gaensler, Pháp luật và đồng nghiệp của họ đã phát hiện ra bằng cách so sánh dữ liệu từ trước cuộc điều tra của đài phát thanh của bầu trời với dữ liệu từ các Very Large mảng Sky Survey (VLASS), được tiến hành với Karl G. Jansky Very Large mảng ở New Mexico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get CNN Health's weekly newsletter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165503Z" creationid="hungv" creationdate="20181012T165457Z">
+        <seg>Nhận bản tin CNN sức khỏe hàng tuần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Given that GRBs are pointed in random directions relative to us, the fraction we see from Earth depends on how narrow or wide the jets are.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133156Z" creationid="hungv" creationdate="20181010T133156Z">
+        <seg>Do các GRB được chỉ theo các hướng ngẫu nhiên liên quan đến chúng ta, phần chúng ta nhìn thấy từ Trái đất phụ thuộc vào độ hẹp hoặc rộng của các tia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going through intersections or roundabouts is one of the most challenging scenarios facing autonomous cars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051020Z" creationid="hungv" creationdate="20181013T051006Z">
+        <seg>Đi qua nút giao thông hoặc đảo là một trong các tình huống khó khăn nhất đối mặt với xe tự lái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Goodbye!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T173641Z" creationid="hungv" creationdate="20181012T173641Z">
+        <seg>tạm biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great to see you again.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043908Z" creationid="hungv" creationdate="20181013T043908Z">
+        <seg>Thật tuyệt khi được gặp lại bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Haven't seen you for ages.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043828Z" creationid="hungv" creationdate="20181013T043828Z">
+        <seg>Đã lâu rồi không gặp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health officials in Washington state are investigating five possible cases in patients from four different counties.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164343Z" creationid="hungv" creationdate="20181012T164343Z">
+        <seg>Các quan chức y tế ở tiểu bang Washington đang điều tra năm trường hợp có khả năng ở những bệnh nhân từ bốn quận khác nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heeey</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043924Z" creationid="hungv" creationdate="20181013T043924Z">
+        <seg>Ê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How's it going?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043704Z" creationid="hungv" creationdate="20181013T043704Z">
+        <seg>Mọi chuyện thế nào rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How's tricks?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043920Z" creationid="hungv" creationdate="20181013T043920Z">
+        <seg>Thủ thuật gì vậy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However the GRB's jets crashed into the gas that surrounded the original star, producing a huge shock wave akin to a sonic boom.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132900Z" creationid="hungv" creationdate="20181010T132900Z">
+        <seg>Tuy nhiên, máy bay phản lực của GRB đâm vào khí bao quanh sao ban đầu, sản xuất một làn sóng sốc lớn giống như một âm bùng nổ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, 11 of the Colorado cases of AFM have tested positive for EV A71, a rare type of enterovirus not usually seen in the US, rather in Asia and other parts of the world, according to Herlihy.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165350Z" creationid="hungv" creationdate="20181012T165350Z">
+        <seg>Tuy nhiên, 11 trường hợp của AFM ở Colorado đã thử nghiệm dương tính với EV A71, một loại enterovirus hiếm gặp không thường thấy ở Mỹ, thay vì ở châu Á và các nơi khác trên thế giới, theo Herlihy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can can a can.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131933Z" creationid="hungv" creationdate="20181010T131933Z">
+        <seg>Tôi có thể có thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051312Z" creationid="hungv" creationdate="20181013T051312Z">
+        <seg>Các nhà nghiên cứu của IBM đang phát triển một kiến ​​trúc máy tính mới, được trang bị tốt hơn để xử lý các tải dữ liệu tăng lên từ trí thông minh nhân tạo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140032Z" creationid="hungv" creationdate="20181010T140032Z">
+        <seg>Nếu một phân đoạn đã được dịch và có một phân đoạn giống hệt trong các văn bản khác, các phân đoạn trước đó sẽ được đưa vào dòng bằng các phân đoạn thay đổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the network doesn't have high confidence, it lets the robot explore the environment instead, like a traditional planner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050701Z" creationid="hungv" creationdate="20181013T050701Z">
+        <seg>Nếu mạng không có độ tin cậy cao, nó cho phép robot khám phá môi trường thay vào đó, giống như một người lập kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illinois, Colorado, Washington report cases of polio-like illness in children</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161402Z" creationid="hungv" creationdate="20181012T161402Z">
+        <seg>Illinois, Colorado, Washington báo cáo các trường hợp bệnh bại liệt như ở trẻ em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2017, 33 cases were reported in 16 states.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165705Z" creationid="hungv" creationdate="20181012T165705Z">
+        <seg>Trong năm 2017, 33 trường hợp đã được báo cáo ở 16 tiểu bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a new architecture, going beyond von Neumann, memory has to play a more active role in computing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051204Z" creationid="hungv" creationdate="20181009T131533Z">
+        <seg>Trong một kiến ​​trúc mới, vượt xa von Neumann, bộ nhớ phải đóng một vai trò tích cực hơn trong tính toán. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to investigating the outbreak, the state health department has issued alerts to health care providers on how to test for the viruses and enhanced guidance to child care centers on infection prevention," the department said in a statement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165308Z" creationid="hungv" creationdate="20181012T165308Z">
+        <seg>Ngoài việc điều tra dịch bệnh, cơ quan y tế tiểu bang đã đưa ra cảnh báo cho các nhà cung cấp dịch vụ chăm sóc sức khỏe về cách kiểm tra virus và hướng dẫn nâng cao cho các trung tâm chăm sóc trẻ em về phòng chống nhiễm trùng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In both simulations, the researchers' model more quickly plotted far shorter and consistent paths than a traditional planner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050815Z" creationid="hungv" creationdate="20181013T050815Z">
+        <seg>Trong cả hai mô phỏng, mô hình của các nhà nghiên cứu nhanh chóng vạch ra các đường đi ngắn hơn và nhất quán hơn so với một kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one other experiment, the researchers trained and tested the model in navigating environments with multiple moving agents, which is a useful test for autonomous cars, especially navigating intersections and roundabouts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050825Z" creationid="hungv" creationdate="20181013T050825Z">
+        <seg>Trong một thử nghiệm khác, các nhà nghiên cứu đào tạo và kiểm tra các mô hình trong điều hướng môi trường với các đại lý di chuyển nhiều, đó là một thử nghiệm hữu ích cho xe ô tô tự trị, đặc biệt là điều hướng các nút giao thông và đảo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In previous years, cases of AFM in Colorado and elsewhere have been positive for a different enterovirus, EV-D68.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165521Z" creationid="hungv" creationdate="20181012T165521Z">
+        <seg>Trong những năm trước, các trường hợp AFM ở Colorado và các nơi khác đã dương tính với một enterovirus khác, EV-D68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, the model "learns that when you're stuck in an environment, and you see a doorway, it's probably a good idea to go through the door to get out," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050616Z" creationid="hungv" creationdate="20181013T050616Z">
+        <seg>Tóm lại, mô hình "biết rằng khi bạn bị mắc kẹt trong một môi trường, và bạn nhìn thấy một cánh cửa, có lẽ là một ý tưởng tốt để đi qua cánh cửa để thoát ra ngoài", Barbu nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the process, the star collapsed into either a dense star called a magnetar, or more likely, a black hole.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132750Z" creationid="hungv" creationdate="20181010T132750Z">
+        <seg>Trong quá trình này, ngôi sao sụp đổ vào hoặc là một ngôi sao dày đặc gọi là một magnetar, hoặc nhiều khả năng, một lỗ đen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the simulation, several agents are circling an obstacle.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050831Z" creationid="hungv" creationdate="20181013T050831Z">
+        <seg>Trong mô phỏng, một số tác nhân đang vòng quanh một chướng ngại vật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In their paper, "Deep sequential models for sampling-based planning," the researchers demonstrate the advantages of their model in two settings: navigating through challenging rooms with traps and narrow passages, and navigating areas while avoiding collisions with other agents.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044943Z" creationid="hungv" creationdate="20181013T044943Z">
+        <seg>Trong bài báo của họ, "Deep sequential models for sampling-based planning,", các nhà nghiên cứu chứng minh lợi thế của mô hình của họ trong hai thiết lập: điều hướng qua các phòng thử thách với bẫy và đường hẹp, và điều hướng khu vực trong khi tránh va chạm với các tác nhân khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this simulation, the robot was trained on a few examples of how to escape different bug traps.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050738Z" creationid="hungv" creationdate="20181013T050738Z">
+        <seg>Trong mô phỏng này, robot được đào tạo về một vài ví dụ về cách thoát khỏi các bẫy lỗi khác nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051602Z" creationid="hungv" creationdate="20181013T051602Z">
+        <seg>Nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also does not include the cases in Minnesota or Illinois, as they are not confirmed.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165638Z" creationid="hungv" creationdate="20181012T165638Z">
+        <seg>Cũng không bao gồm các trường hợp trong Minnesota, Illinois, họ không được xác nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laboratory tests showed that the multi-legged robot has 40 times less friction than a limbless robot in both wet and dry environment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052445Z" creationid="hungv" creationdate="20181013T052445Z">
+        <seg>Phòng thí nghiệm thử nghiệm cho thấy rằng các robot đa chân có 40 lần ít ma sát hơn một robot limbless trong môi trường ẩm ướt và khô.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laboratory tests showed that the robot &lt;t0/&gt;was capable of carrying&lt;t1/&gt; a load 100 times heavier than itself, a strength comparable to an ant, one of the strongest Hercules in nature, or to a human being able to easily lift a 26-seated mini-bus.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052624Z" creationid="hungv" creationdate="20181013T052624Z">
+        <seg>Các thử nghiệm trong phòng thí nghiệm cho thấy rằng robot &lt;t0/&gt;có khả năng mang&lt;t1/&gt; một tải nặng gấp 100 lần bản thân nó, một sức mạnh có thể so sánh với một con kiến, một trong những Hercules mạnh nhất trong tự nhiên, hoặc với một con người có thể dễ dàng nâng một chiếc xe buýt mini 26 chỗ ngồi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last year, they ran an unsupervised machine learning algorithm on a conventional computer and a prototype computational memory platform based on phase change memory devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132253Z" creationid="hungv" creationdate="20181010T132253Z">
+        <seg>Năm ngoái, họ chạy một máy không có giám sát học thuật toán trên một máy tính thông thường và một nền tảng thử nghiệm tính toán bộ nhớ dựa trên các giai đoạn thay đổi bộ nhớ thiết bị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lastly, the dynamic and stochastic nature of neurons and synapses inspired the team to create a powerful computational substrate for spiking neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051218Z" creationid="hungv" creationdate="20181010T132217Z">
+        <seg>Cuối cùng, bản chất động và ngẫu nhiên của các tế bào thần kinh và khớp thần kinh đã truyền cảm hứng cho nhóm nghiên cứu để tạo ra một chất nền mạnh để tính toán các mạng thần kinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long time no &lt;t0/&gt;see&lt;t1/&gt; or It’s been a while</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043840Z" creationid="hungv" creationdate="20181013T043840Z">
+        <seg>Lâu rồi không &lt;t0/&gt;xem&lt;t1/&gt; hoặc Đã lâu rồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIT researchers have now devised a way to help robots navigate environments more like humans do.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044521Z" creationid="hungv" creationdate="20181013T044521Z">
+        <seg>Các nhà nghiên cứu MIT hện đã nghĩ ra một cách để giúp các robot điều hướng môi trường giống như con người.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media captionDaniel and Amy McArthur, who own Ashers Bakery in Belfast, arrive at the Supreme Court in London.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T144212Z" creationid="hungv" creationdate="20181010T144212Z">
+        <seg>Phương tiện truyền thông captionDaniel và Amy McArthur, người sở hữu Ashers Bakery tại Belfast, đến tòa án tối cao ở London.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051741Z" creationid="hungv" creationdate="20181013T051741Z">
+        <seg>Sửa đổi các quy tắc phân đoạn có thể có ảnh hưởng của việc sửa đổi số lượng phân đoạn /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More recently, the researchers have been applying this work to robots with manipulators that face similarly daunting challenges when reaching for objects in ever-changing environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051048Z" creationid="hungv" creationdate="20181010T142118Z">
+        <seg>Gần đây hơn, các nhà nghiên cứu đã áp dụng công việc này cho robot với những người thao túng đối mặt với những thách thức khó khăn khi tiếp cận đối tượng trong môi trường luôn thay đổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, the robot's pointed legs have greatly reduced their contact area and hence the friction with the surface.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052443Z" creationid="hungv" creationdate="20181013T052443Z">
+        <seg>Hơn nữa, chân nhọn của robot đã giảm đáng kể diện tích tiếp xúc của chúng và do đó ma sát với bề mặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, they only needed to train the model on a few examples of roundabouts with only a few cars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050958Z" creationid="hungv" creationdate="20181013T050958Z">
+        <seg>Hơn nữa, họ chỉ cần đào tạo mô hình trên một vài ví dụ về các bùng binh với chỉ một vài chiếc xe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving at ease in harsh environment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052603Z" creationid="hungv" creationdate="20181013T052603Z">
+        <seg>Di chuyển dễ dàng trong môi trường khắc nghiệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nice to meet you.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043957Z" creationid="hungv" creationdate="20181013T043957Z">
+        <seg>Rất vui được gặp bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note however that the numbers</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051721Z" creationid="hungv" creationdate="20181013T051721Z">
+        <seg>Tuy nhiên, lưu ý rằng các con số</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: &lt;t0/&gt;it is possible to inhibit this Project Files window displaying, by setting</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140519Z" creationid="hungv" creationdate="20181010T140519Z">
+        <seg>Chú thích: &lt;t0/&gt;có thể ngăn chặn cửa sổ Project Files này, bằng cách thiết lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051556Z" creationid="hungv" creationdate="20181013T051556Z">
+        <seg>Lưu ý: tên tệp (trong cột đầu tiên) có thể được sắp xếp theo thứ tự bảng chữ cái bằng cách nhấp vào tiêu đề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Friday, &lt;t0/&gt;the Minnesota Department of Health said&lt;t1/&gt; it was investigating six cases of AFM in children over the past few weeks but did not identify what virus or other cause may have led to the illnesses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165536Z" creationid="hungv" creationdate="20181012T165536Z">
+        <seg>Ngày thứ sáu,&lt;t0&gt;&lt;/t0&gt;cho biết sở y tế Minnesota&lt;t1&gt;&lt;/t1&gt;đã điều tra sáu trường hợp của AFM ở trẻ em trong vài tuần qua nhưng không xác định những gì virus hoặc nguyên nhân có thể dẫn đến các bệnh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Tuesday, &lt;t0/&gt;the Colorado Department of Health said &lt;t1/&gt;it has confirmed 14 cases there this year.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165037Z" creationid="hungv" creationdate="20181012T165037Z">
+        <seg>Vào thứ ba,&lt;t0/&gt;Sở Y tế Colorado cho biết&lt;t1/&gt;đã xác nhận 14 trường hợp có trong năm nay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One drawback, however, is these algorithms rarely learn: Robots can't leverage information about how they or other agents acted previously in similar environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044724Z" creationid="hungv" creationdate="20181013T044724Z">
+        <seg>Một hạn chế, tuy nhiên, là những thuật toán hiếm khi tìm hiểu: Robot không thể tận dụng thông tin về cách họ hoặc các tác nhân khác đã hành động trước đó trong môi trường tương tự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One hundred forty-nine cases were reported in 39 states in 2016 and 22 cases in 17 states in 2015.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165723Z" creationid="hungv" creationdate="20181012T165723Z">
+        <seg>149 trường hợp đã được báo cáo tại Kỳ 39 năm 2016 và 22 trường hợp trong kỳ 17 năm 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our multi-legged robot shows an impressive performance in various terrains and hence open wide applications for drug delivery inside the body," says Professor Wang.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052612Z" creationid="hungv" creationdate="20181013T052612Z">
+        <seg>Con robot đa chân của chúng tôi cho thấy một hiệu suất ấn tượng ở nhiều địa hình khác nhau và do đó mở các ứng dụng rộng rãi cho việc phân phối thuốc trong cơ thể, "Giáo sư Wang nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phase change memory is a nanoscale memory device built from compounds of Ge, Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132221Z" creationid="hungv" creationdate="20181010T132221Z">
+        <seg>Bộ nhớ thay đổi pha là một thiết bị bộ nhớ cỡ nano được chế tạo từ các hợp chất Ge, Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popular motion-planning algorithms will create a tree of possible decisions that branches out until it finds good paths for navigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044637Z" creationid="hungv" creationdate="20181013T044637Z">
+        <seg>Các thuật toán lập kế hoạch chuyển động phổ biến sẽ tạo ra một quyết định có thể có cho các nhánh cây cho đến khi nó tìm ra các đường dẫn tốt để điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results in the paper are based on the chances that a path is found after some time, total length of the path that reached a given goal, and how consistent the paths were.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050751Z" creationid="hungv" creationdate="20181013T050751Z">
+        <seg>Các kết quả trong bài báo dựa trên cơ hội mà một con đường được tìm thấy sau một thời gian, tổng chiều dài của con đường đạt tới một mục tiêu nhất định, và sự nhất quán của các con đường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results indicate that the researchers' model can capture enough information about the future behavior of the other agents (cars) to cut off the process early, while still making good decisions in navigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050950Z" creationid="hungv" creationdate="20181013T050950Z">
+        <seg>Kết quả cho thấy mô hình của các nhà nghiên cứu có thể nắm bắt đủ thông tin về hành vi tương lai của các đại lý khác (xe hơi) để cắt bỏ quá trình sớm, trong khi vẫn đưa ra quyết định tốt trong việc điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051627Z" creationid="hungv" creationdate="20181013T051627Z">
+        <seg>Nhấp chuột phải vào tên tệp sẽ mở cửa sổ bật lên cho phép mở tệp nguồn và (nếu nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robots, on the other hand, struggle with such navigational concepts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044510Z" creationid="hungv" creationdate="20181013T044510Z">
+        <seg>Robot, mặt khác, đấu tranh với các khái niệm điều hướng như vậy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sebastian and his IBM colleagues have encountered surprising results in their comparative studies on the efficiency of these proposed systems.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051244Z" creationid="hungv" creationdate="20181010T132248Z">
+        <seg>Sebastian và các đồng nghiệp của IBM đã gặp phải những kết quả đáng ngạc nhiên trong các nghiên cứu so sánh của họ về hiệu quả của các hệ thống được đề xuất này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the chapter &lt;t0/&gt;Segmentation rules &lt;t1/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051754Z" creationid="hungv" creationdate="20181013T051754Z">
+        <seg>Xem chương &lt;t0/&gt;Quy tắc phân đoạn &lt;t1/&gt;để biết thêm thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140122Z" creationid="hungv" creationdate="20181010T140112Z">
+        <seg>Phân đoạn xuất hiện nhiều hơn một lần được mô tả trong OmegaT như "phân đoạn không duy nhất".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140147Z" creationid="hungv" creationdate="20181010T140147Z">
+        <seg>Chọn View &gt; phòng không độc đáo đánh dấu phân đoạn gây ra chỉ có các trường hợp đầu tiên của một phân đoạn không duy nhất để được hiển thị trong màu đen, và thứ hai và các trường hợp tiếp theo sẽ được hiển thị bằng màu xám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate from these five cases of illness, there has been one other case of AFM in Washington this year and there were three cases identified in 2017, according to the health department.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164645Z" creationid="hungv" creationdate="20181012T164645Z">
+        <seg>Tách biệt với năm trường hợp, đã có một trong các trường hợp khác của AFM ở Washington trong năm nay và đã có ba trường hợp được xác định trong năm 2017, theo sở y tế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September 26, 2018</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052028Z" creationid="hungv" creationdate="20181013T052028Z">
+        <seg>Ngày 26 tháng 9 năm 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052131Z" creationid="hungv" creationdate="20181013T052131Z">
+        <seg>Chia sẻ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She referred to these 11 cases as an outbreak within an outbreak.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
+        <seg>Cô gọi 11 trường hợp trong một ổ dịch trong vòng một đợt bùng phát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign up here to get &lt;t0/&gt;The Results Are &lt;t1/&gt;In&lt;t2/&gt; with Dr. Sanjay Gupta&lt;t3/&gt; every Tuesday from the CNN Health team.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165516Z" creationid="hungv" creationdate="20181012T165516Z">
+        <seg>Đăng ký tại đây để có được&lt;t0&gt;&lt;/t0&gt;kết quả là&lt;t1&gt;&lt;/t1&gt;trong&lt;t2&gt;&lt;/t2&gt;với tiến sĩ Sanjay Gupta&lt;t3&gt;&lt;/t3&gt;mỗi thứ ba từ đội ngũ y tế CNN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since 2015, when Illinois began monitoring reports of AFM in the state, four confirmed cases have been identified.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161601Z" creationid="hungv" creationdate="20181012T161601Z">
+        <seg>Kể từ năm 2015, khi Illinois đã bắt đầu theo dõi báo cáo của AFM thuộc bang, 4 đã xác nhận trường hợp đã được xác định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since August 2014, when the CDC began tracking the illness more closely, the agency has reported 362 cases.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165654Z" creationid="hungv" creationdate="20181012T165646Z">
+        <seg>Kể từ tháng 8 năm 2014, khi CDC đã bắt đầu theo dõi bệnh chặt chẽ hơn, các cơ quan đã báo cáo 362 trường hợp .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Six cases of rare 'polio-like' illness diagnosed in children in Minnesota</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161622Z" creationid="hungv" creationdate="20181012T161622Z">
+        <seg>Sáu trường hợp hiếm 'bại liệt giống như bệnh được chẩn đoán ở trẻ em ở Minnesota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So we decided to create our robot using 1:1 proportion," explains Dr Shen &lt;t0/&gt;Yajing&lt;t1/&gt;, Assistant Professor at &lt;t2/&gt;CityU's&lt;t3/&gt; Department of Biomedical Engineering (BME), who led the research.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052434Z" creationid="hungv" creationdate="20181013T052434Z">
+        <seg>Vì vậy, chúng tôi quyết định tạo ra rô bốt của chúng tôi bằng tỷ lệ 1: 1, "Tiến sĩ Shen giải thích &lt;t0/&gt;Yajing&lt;t1/&gt;, Trợ lý giáo sư tại &lt;t2/&gt;CityU's&lt;t3/&gt; Bộ môn Kỹ thuật Y sinh (BME), người đứng đầu nghiên cứu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052035Z" creationid="hungv" creationdate="20181013T052035Z">
+        <seg>Nguồn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State health officials are working with the care providers to obtain the samples and information to send to the US Centers for Disease and Prevention for testing and confirmation of the diagnoses.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161454Z" creationid="hungv" creationdate="20181012T161454Z">
+        <seg>Các viên chức y tế của tiểu bang đang làm việc với các nhà cung cấp dịch vụ chăm sóc để lấy các mẫu và thông tin để gửi đến các Trung tâm Phòng bệnh và Phòng ngừa Hoa Kỳ để kiểm tra và xác nhận chẩn đoán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052056Z" creationid="hungv" creationdate="20181013T052056Z">
+        <seg>Bản tóm tắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symptoms can include sudden limb weakness, loss of muscle tone and reflexes, facial and eyelid drooping, facial weakness, difficulty moving the eyes, swallowing difficulty or slurred speech, &lt;t0/&gt;according to the CDC&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161706Z" creationid="hungv" creationdate="20181012T161706Z">
+        <seg>Triệu chứng có thể bao gồm chân tay đột ngột yếu, mất cơ bắp giai điệu và phản xạ, mặt và mí mắt drooping, mặt yếu, khó di chuyển đôi mắt, nuốt khó khăn hay nói đùa,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;children were all hospitalized after experiencing "sudden onset of paralysis of one or more limbs."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164606Z" creationid="hungv" creationdate="20181012T164606Z">
+        <seg>Tất cả&lt;t2&gt;&lt;/t2&gt;trẻ em đã được đưa vào bệnh viện sau khi "đột ngột khởi phát của tình trạng tê liệt chân tay một hoặc nhiều."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IBM team drew on three different levels of inspiration from the brain.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132201Z" creationid="hungv" creationdate="20181010T132201Z">
+        <seg>Nhóm nghiên cứu của IBM đã thu hút ba mức độ cảm hứng khác nhau từ não bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files Window displays the following</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051429Z" creationid="hungv" creationdate="20181013T051429Z">
+        <seg>Cửa sổ Project Files hiển thị như sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files window lists the project files and displays &lt;t0/&gt;other&lt;t1/&gt; project information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140510Z" creationid="hungv" creationdate="20181010T140510Z">
+        <seg>Cửa sổ Project Files liệt kê các tệp dự án và hiển thị &lt;t0/&gt;khác&lt;t1/&gt; Thông tin dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The UK's highest court ruled that Ashers bakery's refusal to make a cake with a slogan supporting same-sex marriage was not discriminatory.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142716Z" creationid="hungv" creationdate="20181010T142716Z">
+        <seg>Tòa án cao của Anh Quốc tiếp quản Ashers bakery's từ chối để thực hiện một bánh với một khẩu hiệu ủng hộ hôn nhân đồng tính đã không được phân biệt đối xử.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amazingly strong carrying capability, efficient locomotion and good obstacle-crossing ability make this milli-robot extremely suitable for applications in a harsh environment, for example delivering a drug to a designated spot through the digestive system, or carrying out medical inspection," adds Dr Shen.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052627Z" creationid="hungv" creationdate="20181013T052627Z">
+        <seg>Khả năng vận chuyển mạnh mẽ đáng kinh ngạc, khả năng vận hành hiệu quả và khả năng vượt chướng ngại vật tốt khiến robot này cực kỳ thích hợp cho các ứng dụng trong môi trường khắc nghiệt, ví dụ như đưa thuốc đến một vị trí được chỉ định thông qua hệ tiêu hóa hoặc thực hiện kiểm tra y tế. Tiến sĩ Shen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The analysis also promises a far more accurate GRB census, made possible using today's modern astronomical radio surveys that scan large portions of the sky.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133207Z" creationid="hungv" creationdate="20181010T133207Z">
+        <seg>Việc phân tích cũng hứa hẹn một điều tra GRB chính xác hơn là có thể được thực hiện bằng cách sử dụng khảo sát đài phát thanh thiên văn học hiện đại ngày nay quét phần lớn của bầu trời.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The blast generates two jets of gamma rays which travel out from the collapsing star in opposite directions at nearly the speed of light.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132815Z" creationid="hungv" creationdate="20181010T132815Z">
+        <seg>Vụ nổ tạo ra hai máy bay phản lực của tia gamma, đi du lịch từ các ngôi sao bị sụp đổ ở hướng đối diện gần như với tốc độ ánh sáng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The co-first authors of the paper are Lu &lt;t0/&gt;Haojian&lt;t1/&gt; from BME Department and Dr Zhang Mei from MNE Department of &lt;t2/&gt;CityU&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052636Z" creationid="hungv" creationdate="20181013T052636Z">
+        <seg>Các đồng tác giả đầu tiên của bài báo là Lu &lt;t0/&gt;Haojian&lt;t1/&gt; từ Vụ BME và Tiến sĩ Zhang Mei từ Bộ phận MNE của &lt;t2/&gt;CityU&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051715Z" creationid="hungv" creationdate="20181013T051715Z">
+        <seg>Sự khác biệt giữa "Số lượng phân đoạn" và "Số lượng phân khúc duy nhất" cung cấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first level exploits a memory device's state dynamics to perform computational tasks in the memory itself, similar to how the brain's memory and processing are co-located.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051211Z" creationid="hungv" creationdate="20181010T132207Z">
+        <seg>Mức đầu tiên khai thác động lực trạng thái của thiết bị bộ nhớ để thực hiện các nhiệm vụ tính toán trong chính bộ nhớ, tương tự như cách bộ nhớ và xử lý của bộ não được đặt cùng vị trí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The five justices on the Supreme Court were unanimous in their judgement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T142754Z" creationid="hungv" creationdate="20181010T142754Z">
+        <seg>5 thẩm phán tòa án tối cao đã được thống nhất trong bản án của họ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The high-profile dispute began in 2014 when the bakery refused to make a cake with the slogan "Support Gay Marriage".</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T143705Z" creationid="hungv" creationdate="20181010T143705Z">
+        <seg>Các tranh chấp cá nhân cao trào bắt đầu trong năm 2014 khi bánh đã từ chối để thực hiện một bánh với khẩu hiệu "Hỗ trợ hôn nhân đồng tính".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The learning process starts with a few examples.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050315Z" creationid="hungv" creationdate="20181013T050315Z">
+        <seg>Quá trình học tập bắt đầu bằng một vài ví dụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The model combines the exploration behavior from earlier methods with this learned information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050620Z" creationid="hungv" creationdate="20181013T050620Z">
+        <seg>Các mô hình kết hợp các hành vi thăm dò từ trước đó phương pháp này thông tin học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The model recognizes that quickly and that's why it can plan efficiently," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051040Z" creationid="hungv" creationdate="20181013T051040Z">
+        <seg>Mô hình này nhận ra rằng một cách nhanh chóng và đó là lý do tại sao nó có thể lên kế hoạch hiệu quả, "Barbu nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neural network helps the robot find the exit to the trap, identify the dead ends, and gives the robot a sense of its surroundings so it can quickly find the goal.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050747Z" creationid="hungv" creationdate="20181013T050747Z">
+        <seg>Mạng nơ-ron giúp robot tìm lối thoát ra khỏi bẫy, xác định các đầu chết, và cung cấp cho robot cảm giác về môi trường xung quanh để có thể nhanh chóng tìm thấy mục tiêu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neural network learns what makes these examples succeed by interpreting the environment around the robot, such as the shape of the walls, the actions of other &lt;t0/&gt;agents, and features of the goals.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050607Z" creationid="hungv" creationdate="20181013T050607Z">
+        <seg>Mạng nơ-ron học những gì làm cho những ví dụ thành công bằng cách giải thích môi trường xung quanh các robot, chẳng hạn như hình dạng của các bức tường, những hành động khác&lt;t0&gt;&lt;/t0&gt;đại lý, và các tính năng của các mục tiêu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other co-authors include Yang Yuanyuan from BME Department of &lt;t4/&gt;CityU&lt;t5/&gt;, and Professor Huang &lt;t6/&gt;Qiang&lt;t7/&gt; and Professor Toshio Fukuda from the Beijing Institute of Technology.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052639Z" creationid="hungv" creationdate="20181013T052639Z">
+        <seg>Đồng tác giả khác bao gồm Yang Yuanyuan từ BME trấn&lt;t4&gt;&lt;/t4&gt;CityU&lt;t5&gt;&lt;/t5&gt;, và giáo sư Huang&lt;t6&gt;&lt;/t6&gt;Khương&lt;t7&gt;&lt;/t7&gt;và giáo sư Toshio Fukuda từ viện công nghệ Bắc Kinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The paper, whose lead author is Casey Law, University of California at Berkeley, is being published in the &lt;t0/&gt;Astrophysical Journal Letters&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133109Z" creationid="hungv" creationdate="20181010T133109Z">
+        <seg>Giấy, mà tác giả là luật pháp Casey, đại học California tại Berkeley, đang được phát hành trong các&lt;t0&gt;&lt;/t0&gt;Astrophysical tạp chí thư&lt;t1&gt;&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project_stats.txt located in the &lt;t0/&gt;omegat&lt;t1/&gt; folder of your project</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051734Z" creationid="hungv" creationdate="20181013T051734Z">
+        <seg>Project_stats.txt nằm trong &lt;t0/&gt;omegat&lt;t1/&gt; thư mục dự án của bạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rare condition can be caused by a virus, a genetic disorder and environmental toxins.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T161745Z" creationid="hungv" creationdate="20181012T161745Z">
+        <seg>Với điều kiện hiếm có thể được gây ra bởi một loại virus, một rối loạn di truyền và môi trường độc tố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The research findings have been published in the latest issue of the scientific journal &lt;t0/&gt;Nature Communications&lt;t1/&gt;, titled "A Bio-inspired Multilegged Soft Millirobot that Functions in Both Dry and Wet Conditions."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052354Z" creationid="hungv" creationdate="20181013T052354Z">
+        <seg>Các kết quả nghiên cứu đã được công bố trên tạp chí khoa học mới nhất&lt;t0/&gt;Nature Communications&lt;t1/&gt;, có tiêu đề A Bio-inspired Multilegged Soft Millirobot that Functions in Both Dry and Wet Conditions."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The research team further proved that when facing an obstacle ten times higher than its leg length, the robot, with its deformable soft legs, is capable to &lt;t0/&gt;lift up&lt;t1/&gt; one end of its body to form an angle of up to 90-degree and cross the obstacle easily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052615Z" creationid="hungv" creationdate="20181013T052615Z">
+        <seg>Nhóm nghiên cứu tiếp tục chứng minh rằng khi đối mặt với một chướng ngại vật cao gấp mười lần chiều dài chân của nó, robot, với đôi chân mềm biến dạng của nó, có khả năng &lt;t0/&gt;nâng lên&lt;t1/&gt; một đầu của cơ thể của nó để tạo thành một góc lên đến 90 độ và vượt qua các chướng ngại vật một cách dễ dàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The research team has studied the leg structures of hundreds of ground animals including those with 2, 4, 8 or more legs, &lt;t0/&gt;in particular the&lt;t1/&gt; ratio between leg-length and the gap between the legs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052422Z" creationid="hungv" creationdate="20181013T052422Z">
+        <seg>Nhóm nghiên cứu đã nghiên cứu cấu trúc chân của hàng trăm động vật mặt đất bao gồm cả những con có 2, 4, 8 hoặc nhiều chân, &lt;t0/&gt;đặc biệt là&lt;t1/&gt; tỷ lệ giữa chiều dài chân và khoảng cách giữa hai chân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers are currently pursuing such applications through the Toyota-CSAIL Joint Research Center.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050147Z" creationid="hungv" creationdate="20181013T050147Z">
+        <seg>Các nhà nghiên cứu hiện đang theo đuổi các ứng dụng như vậy thông qua Trung tâm Nghiên cứu chung Toyota-CSAIL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers developed a model that combines a planning algorithm with a neural network that learns to recognize paths that could lead to the best outcome, and uses that knowledge to guide the robot's movement in an environment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044921Z" creationid="hungv" creationdate="20181013T044921Z">
+        <seg>Các nhà nghiên cứu đã phát triển một mô hình kết hợp thuật toán lập kế hoạch với mạng nơron để học cách nhận ra các cách có thể dẫn đến kết quả tốt nhất và sử dụng tri thức đó để hướng dẫn chuyển động của robot trong môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers' model, however, offers "a tradeoff between exploring the world and exploiting past knowledge," Kuo says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050309Z" creationid="hungv" creationdate="20181013T050309Z">
+        <seg>Mô hình của các nhà nghiên cứu, tuy nhiên, cung cấp "một sự cân bằng giữa khám phá thế giới và khai thác kiến ​​thức trong quá khứ", Kuo nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot also shows a remarkable loading ability.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052621Z" creationid="hungv" creationdate="20181013T052621Z">
+        <seg>Robot cũng cho thấy khả năng tải đáng kể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot is fabricated with a silicon material called polydimethylsiloxane (PDMS) embedded with magnetic particles which enables it to be remotely controlled by applying electromagnetic force.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052522Z" creationid="hungv" creationdate="20181013T052457Z">
+        <seg>Các robot được chế tạo với một chất liệu silicon được gọi là polydimethylsiloxane (PDMS) được nhúng với các hạt từ tính cho phép nó để có điều khiển từ xa bằng cách áp dụng lực điện từ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot then looks at the tree to find a way to reach the goal, such as a door.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050303Z" creationid="hungv" creationdate="20181013T050303Z">
+        <seg>Robot sau đó nhìn vào cái cây để tìm cách đạt được mục tiêu, chẳng hạn như cánh cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot's body thickness measures approximately 0.15 mm, with each conical leg measuring 0.65 mm long and the gap between the legs measuring approximately 0.6 mm, making the leg-length-to-gap ratio around 1:1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052440Z" creationid="hungv" creationdate="20181013T052440Z">
+        <seg>Độ dày cơ thể của robot đo khoảng 0,15 mm, với mỗi chân hình nón dài 0,65 mm và khoảng cách giữa hai chân đo khoảng 0,6 mm, làm cho tỷ lệ khoảng cách giữa các chân khoảng 1: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second level draws on the brain's synaptic network structures as inspiration for arrays of phase change memory (PCM) devices to accelerate training for deep neural networks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051215Z" creationid="hungv" creationdate="20181010T132213Z">
+        <seg>Cấp độ thứ hai dựa trên cấu trúc mạng khớp thần kinh của não như là nguồn cảm hứng cho các mảng thiết bị bộ nhớ thay đổi pha (PCM) để tăng tốc độ đào tạo cho các mạng thần kinh sâu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The set of &lt;t0/&gt;Unique &lt;t1/&gt;segments is computed by taking all the segments and removing &lt;t2/&gt;all</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051702Z" creationid="hungv" creationdate="20181013T051702Z">
+        <seg>Bộ &lt;t0/&gt;duy nhất &lt;t1/&gt;phân đoạn được tính bằng cách lấy tất cả các phân đoạn và xóa &lt;t2/&gt;tất cả các</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source's brightness, as well as its evolution over the decades, were clues that it originated from a GRB.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133140Z" creationid="hungv" creationdate="20181010T133140Z">
+        <seg>Các nguồn sáng, cũng như sự tiến hóa của nó trong thập kỷ qua, đã là manh mối mà nó có nguồn gốc từ một GRB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The state health department is working with the CDC to determine if these are indeed cases of AFM.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164614Z" creationid="hungv" creationdate="20181012T164614Z">
+        <seg>Sở y tế nhà nước làm việc với CDC để xác định nếu đây thực sự là trường hợp của AFM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The titanic eruption, known as a Gamma Ray Burst (GRB), was generated by the collapse of a massive star in a galaxy nearly 300 million light-years from Earth.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132745Z" creationid="hungv" creationdate="20181010T132745Z">
+        <seg>Vụ phun trào titanic, được biết đến như là một tia Gamma Burst (GRB), được tạo ra bởi sự sụp đổ của một ngôi sao lớn trong một thiên hà gần 300 triệu năm ánh sáng từ trái đất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type of viruses found in 12 of the Colorado cases, enterovirus, typically increases in summer and fall and is common, the state department of health said.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165341Z" creationid="hungv" creationdate="20181012T165315Z">
+        <seg>Các loại virus được tìm thấy trong 12 trường hợp ở Colorado, enterovirus, thường tăng trong mùa hè và mùa thu và phổ biến, tỉnh bang của y tế cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The underlying planner, called RRT*, was developed by MIT professors Sertac Karaman and Emilio Frazzoli.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050640Z" creationid="hungv" creationdate="20181013T050640Z">
+        <seg>Công cụ hoạch định tiềm ẩn, được gọi là RRT *, được phát triển bởi giáo sư MIT Sertac Karaman và Emilio Frazzoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140259Z" creationid="hungv" creationdate="20181010T140259Z">
+        <seg>Người dùng có thể xem ngay lập tức một phân đoạn có màu xám, không phải màu đen, đã được kiểm tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user interface</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051617Z" creationid="hungv" creationdate="20181013T051617Z">
+        <seg>Giao diện người dùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their designs draw on concepts from the human brain and significantly outperform conventional computers in comparative studies.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051111Z" creationid="hungv" creationdate="20181010T132053Z">
+        <seg>Thiết kế của họ dựa trên các khái niệm từ bộ não con người và làm tốt hơn đáng kể các máy tính thông thường trong các nghiên cứu so sánh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their novel motion-planning model lets robots determine how to reach a goal by exploring the environment, observing other agents, and exploiting what they've learned before in similar situations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044612Z" creationid="hungv" creationdate="20181013T044612Z">
+        <seg>Mô hình lập kế hoạch chuyển động mới của họ cho phép robot xác định cách đạt được mục tiêu bằng cách khám phá môi trường, quan sát các tác nhân khác và khai thác những gì họ đã học trước đây trong các tình huống tương tự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are dramatic and dynamic explosions and flares happening out there, but we can only find them if we can constantly patrol the sky to see what's changing."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T133350Z" creationid="hungv" creationdate="20181010T133350Z">
+        <seg>Không có vụ nổ mạnh mẽ và năng động, pháo sáng xảy ra trên mạng, nhưng chúng tôi chỉ có thể tìm thấy chúng nếu chúng tôi có thể liên tục tuần tra trên bầu trời để xem những gì đang thay đổi."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are people who are shy, people who are aggressive.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051037Z" creationid="hungv" creationdate="20181013T051037Z">
+        <seg>Có những người nhút nhát, những người hung hăng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no treatment other than managing each patient's symptoms.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T164927Z" creationid="hungv" creationdate="20181012T164927Z">
+        <seg>Không có cách điều trị nào ngoài việc kiểm soát các triệu chứng của từng bệnh nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are the files present in the /</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051457Z" creationid="hungv" creationdate="20181013T051457Z">
+        <seg>Đây là những tệp có trong /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These compounds exhibit different electrical properties depending on their atomic arrangement.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132226Z" creationid="hungv" creationdate="20181010T132226Z">
+        <seg>Các hợp chất này thể hiện các tính chất điện khác nhau tùy thuộc vào sự bố trí nguyên tử của chúng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They book that hotel.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131501Z" creationid="hungv" creationdate="20181010T131501Z">
+        <seg>Một cuốn sách mới cần phải đọc .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They can learn from the behavior of others and note any obstacles to avoid.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044418Z" creationid="hungv" creationdate="20181013T044418Z">
+        <seg>Chúng có thể học hỏi từ hành vi của người khác và chú ý tránh được mọi trở ngại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They read that book.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T131823Z" creationid="hungv" creationdate="20181010T131823Z">
+        <seg>Họ đọc cuốn sách đó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They report on their recent findings in the &lt;/f0&gt;&lt;f1&gt;Journal of Applied Physics&lt;/f1&gt;&lt;f2&gt;, from AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051124Z" creationid="hungv" creationdate="20181010T132113Z">
+        <seg>Họ báo cáo về những phát hiện gần đây của họ trong&lt;/f0&gt;&lt;f1&gt;Tạp chí Vật lý ứng dụng&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They report on their recent findings in the &lt;t0/&gt;Journal of Applied Physics&lt;t1/&gt;, from AIP Publishing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051321Z" creationid="hungv" creationdate="20181013T051321Z">
+        <seg>Họ báo cáo về những phát hiện gần đây của họ trong&lt;/f0&gt;&lt;f1&gt;Tạp chí Vật lý ứng dụng&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're always exploring, rarely observing, and never using what's happened in the past."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044839Z" creationid="hungv" creationdate="20181013T044839Z">
+        <seg>Họ luôn khám phá, hiếm khi quan sát và không bao giờ sử dụng những gì đã xảy ra trong quá khứ. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This analog storage better resembles nonbinary, biological synapses and enables more information to be stored in a single nanoscale device.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132237Z" creationid="hungv" creationdate="20181010T132237Z">
+        <seg>Lưu trữ tương tự này tốt hơn giống với các khớp thần kinh sinh học, không đồng nhất và cho phép nhiều thông tin hơn được lưu trữ trong một thiết bị nano đơn lẻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This copies the selected files to the source folder and reloads</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051802Z" creationid="hungv" creationdate="20181013T051802Z">
+        <seg>Thao tác này sẽ sao chép các tệp đã chọn vào thư mục nguồn và tải lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This does not include &lt;t2/&gt;all of&lt;t3/&gt; the 14 cases announced by Colorado, as some of those cases were confirmed after September 30.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165615Z" creationid="hungv" creationdate="20181012T165615Z">
+        <seg>Điều này không bao gồm&lt;t2&gt;&lt;/t2&gt;tất cả&lt;t3&gt;&lt;/t3&gt;14 trường hợp công bố của Colorado, như một số trong những trường hợp đã được xác nhận sau ngày 30 tháng 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140319Z" creationid="hungv" creationdate="20181010T140319Z">
+        <seg>Điều này có tác dụng làm cho tất cả các trường hợp của phân đoạn không duy nhất thay thế dịch (xem "One-to-nhiều kết hợp" dưới đây).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This heated up the gas, producing a glow that radiated radio energy in all directions.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132904Z" creationid="hungv" creationdate="20181010T132904Z">
+        <seg>Điều này nóng lên khí, sản xuất một ánh sáng chiếu vô tuyến năng lượng ở mọi hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the focus of the Toyota-CSAIL Joint Research Center work.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051028Z" creationid="hungv" creationdate="20181013T051028Z">
+        <seg>Đây là trọng tâm của công trình Trung tâm Nghiên cứu chung Toyota-CSAIL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140213Z" creationid="hungv" creationdate="20181010T140213Z">
+        <seg>Điều này rất hữu ích khi bản dịch được đang được chọn, vì chỉ có phần đầu tiên của phân đoạn giống hệt nhau có thể cần phải được kiểm tra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes planning more efficient.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050954Z" creationid="hungv" creationdate="20181013T050954Z">
+        <seg>Điều này làm cho việc lập kế hoạch hiệu quả hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T135755Z" creationid="hungv" creationdate="20181010T135755Z">
+        <seg>Điều này có nghĩa rằng ngay sau khi một phân đoạn được dịch, dịch tương tự được chèn tự động vào tất cả các phân đoạn hệt nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This mini delivery-robot could pave way for medical technology advancement such as drugs delivery in human body.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052120Z" creationid="hungv" creationdate="20181013T052120Z">
+        <seg>Robot phân phối nhỏ này có thể mở đường cho sự tiến bộ về công nghệ y tế như việc phân phối thuốc trong cơ thể con người.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This number is displayed in</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051517Z" creationid="hungv" creationdate="20181013T051517Z">
+        <seg>Số này được hiển thị trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This problem gets exponentially worse the more cars you have to contend with."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050946Z" creationid="hungv" creationdate="20181013T050946Z">
+        <seg>Vấn đề này trở nên tồi tệ hơn theo cấp số nhân khi bạn phải đối mặt với nhiều xe hơn. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This unique design was not a random choice.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052415Z" creationid="hungv" creationdate="20181013T052415Z">
+        <seg>Thiết kế độc đáo này không phải là một lựa chọn ngẫu nhiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This work might one day let cars learn how humans behave and how to adapt to drivers in different environments, according to the researchers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051025Z" creationid="hungv" creationdate="20181013T051013Z">
+        <seg>Công trình này có thể một ngày nào đó cho phép những chiếc xe học cách con người hành xử và cách thích nghi với những người lái xe trong các môi trường khác nhau, theo các nhà nghiên cứu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This, however, should generally be avoided once you have started</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051747Z" creationid="hungv" creationdate="20181013T051747Z">
+        <seg>Tuy nhiên, điều này thường nên tránh khi bạn đã bắt đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiny soft robot with &lt;t0/&gt;multilegs&lt;t1/&gt; paves way for drugs delivery in human body</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052010Z" creationid="hungv" creationdate="20181013T052002Z">
+        <seg>Robot mềm nhỏ với &lt;t0 /&gt; đa nhân &lt;t1 /&gt; mở đường cho việc phân phối thuốc trong cơ thể con người</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Today's computers are built on the von Neumann architecture, developed in the 1940s.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051335Z" creationid="hungv" creationdate="20181010T132127Z">
+        <seg>Máy tính ngày nay được xây dựng trên kiến trúc von Neumann, phát triển trong thập niên 1940.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trading off exploration and exploitatio&lt;t0/&gt;n</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050244Z" creationid="hungv" creationdate="20181013T050244Z">
+        <seg>Giao dịch thăm dò và khai thác&lt;t0/&gt;n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traditional motion planners explore an environment by rapidly expanding a tree of decisions that eventually blankets an entire space.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050255Z" creationid="hungv" creationdate="20181013T050255Z">
+        <seg>Các nhà lập kế hoạch chuyển động truyền thống khám phá một môi trường bằng cách nhanh chóng mở rộng một cây quyết định cuối cùng để chăn toàn bộ một không gian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typically, GRBs release a prodigious amount of energy, as much as the Sun would release over ten billion years.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132756Z" creationid="hungv" creationdate="20181010T132756Z">
+        <seg>Thông thường, GRBs phát hành một lượng năng lượng, phi thường càng nhiều càng tốt, mặt trời sẽ phát hành hơn mười tỷ năm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051529Z" creationid="hungv" creationdate="20181013T051529Z">
+        <seg>Nhập bất kỳ văn bản nào sẽ mở một trường Lọc nơi có thể nhập các phần của tên tệp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike the stovepipe components in conventional computers, the authors propose that brain-inspired computers could have coexisting processing and memory units.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132137Z" creationid="hungv" creationdate="20181010T132137Z">
+        <seg>Không giống như các thành phần stovepipe trong thông thường các máy tính, các tác giả đề nghị lấy cảm hứng từ bộ não máy tính có thể có coexisting xử lý và các đơn vị bộ nhớ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated 1406 GMT (2206 HKT) October 11, 2018</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165739Z" creationid="hungv" creationdate="20181012T165739Z">
+        <seg>Cập Nhật 1406 GMT (2206 HKT) tháng 11, năm 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;t0/&gt;Ctrl+L&lt;t1/&gt; to open and &lt;t2/&gt;Esc &lt;t3/&gt;to close it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051409Z" creationid="hungv" creationdate="20181013T051409Z">
+        <seg>Sử dụng &lt;t0/&gt;Ctrl + L&lt;t1/&gt; mở và &lt;t2/&gt;Esc &lt;t3/&gt;để đóng nó lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Von Neumann computing systems feature a central processer that executes logic and arithmetic, a memory unit, storage, and input and output devices.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051139Z" creationid="hungv" creationdate="20181010T132133Z">
+        <seg>Các hệ thống tính toán của Von Neumann có một bộ xử lý trung tâm thực hiện logic và số học, một đơn vị bộ nhớ, lưu trữ và các thiết bị đầu vào và đầu ra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the polio-like illness paralyzing US children?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181012T165151Z" creationid="hungv" creationdate="20181012T165151Z">
+        <seg>Bệnh bại liệt như paralyzing Mỹ trẻ em là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What makes this milli-robot stand out is its hundreds of less than 1 mm long pointed legs that looks like short tiny hair.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052410Z" creationid="hungv" creationdate="20181013T052410Z">
+        <seg>Điều khiến robot milli này nổi bật là hàng trăm chân dài chưa tới 1 mm trông giống như mái tóc ngắn bé xíu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What tiny Bhutan can teach the world about being carbon negative</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052727Z" creationid="hungv" creationdate="20181013T052727Z">
+        <seg>Những gì nhỏ Bhutan có thể dạy cho thế giới về việc là carbon phủ định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whazzup&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043854Z" creationid="hungv" creationdate="20181013T043854Z">
+        <seg>Gì vậy?&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When faced with a new trap, it recognizes features of the trap, escapes, and continues to search for its goal in the larger room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050742Z" creationid="hungv" creationdate="20181013T050742Z">
+        <seg>Khi đối mặt với một cái bẫy mới, nó nhận ra các đặc điểm của cái bẫy, trốn thoát, và tiếp tục tìm kiếm mục tiêu của nó trong căn phòng lớn hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving through a crowd to reach some end goal, humans can usually navigate the space safely without thinking too much.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044323Z" creationid="hungv" creationdate="20181013T044323Z">
+        <seg>Khi di chuyển qua đám đông để đạt được mục tiêu cuối cùng, con người thường có thể điều hướng không gian một cách an toàn mà không suy nghĩ quá nhiều.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the network makes a prediction with high confidence, based on learned information, it guides the robot on a new path.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050654Z" creationid="hungv" creationdate="20181013T050654Z">
+        <seg>Khi mạng đưa ra dự đoán có độ tin cậy cao, dựa trên thông tin đã học, nó sẽ hướng dẫn rô bốt trên một con đường mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When these jets are pointed at Earth, astronomers see these focused outpourings of energy as intense flashes of gamma-rays.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T132819Z" creationid="hungv" creationdate="20181010T132819Z">
+        <seg>Khi những máy bay phản lực phải chĩa vào trái đất, nhà thiên văn học thấy các outpourings tập trung năng lượng như các nhấp nháy dữ dội của tia gamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with multiple agents</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050819Z" creationid="hungv" creationdate="20181013T050819Z">
+        <seg>Làm việc với nhiều đại lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051552Z" creationid="hungv" creationdate="20181013T051537Z">
+        <seg>bạn có thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also add source files from Internet pages, written</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051807Z" creationid="hungv" creationdate="20181013T051807Z">
+        <seg>Bạn cũng có thể thêm các tập tin mã nguồn từ Internet trang được viết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140313Z" creationid="hungv" creationdate="20181010T140313Z">
+        <seg>Bạn có thể tắt chức năng tự động tuyên truyền với dự án &gt; Properties &gt; bỏ đánh dấu hộp "Tự động tuyên truyền của tham khảo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>also possible to change the position of a filename, by clicking on it and pressing &lt;t0/&gt;Move ...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051605Z" creationid="hungv" creationdate="20181013T051605Z">
+        <seg>cũng có thể thay đổi vị trí của tên tệp, bằng cách nhấp vào nó và nhấn &lt;t0/&gt;Di chuyển ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051719Z" creationid="hungv" creationdate="20181013T051719Z">
+        <seg>một ý tưởng gần đúng về số lần lặp lại trong văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>as being different)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051712Z" creationid="hungv" creationdate="20181013T051712Z">
+        <seg>như là khác nhau)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051521Z" creationid="hungv" creationdate="20181013T051521Z">
+        <seg>dấu ngoặc vuông, bên cạnh tiêu đề "Tệp dự án"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>buttons.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051614Z" creationid="hungv" creationdate="20181013T051614Z">
+        <seg>các nút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051737Z" creationid="hungv" creationdate="20181013T051737Z">
+        <seg>chứa thông tin phân đoạn chi tiết hơn, được chia nhỏ theo tệp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>displayed automatically when &lt;t0/&gt;OmegaT&lt;t1/&gt; loads a project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140514Z" creationid="hungv" creationdate="20181010T140514Z">
+        <seg>hiển thị tự động khi &lt;t0/&gt;OmegaT&lt;t1/&gt; tải một dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>do not indicate how relevant the repetitions are: they could mean relatively long sentences</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051724Z" creationid="hungv" creationdate="20181013T051724Z">
+        <seg>không chỉ ra mức độ liên quan của các lần lặp lại: chúng có thể có nghĩa là các câu tương đối dài</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>duplicate segments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051706Z" creationid="hungv" creationdate="20181013T051706Z">
+        <seg>phân đoạn trùng lặp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>each file contains</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051645Z" creationid="hungv" creationdate="20181013T051645Z">
+        <seg>trong mỗi tiêp chứa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exists) the target file.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051631Z" creationid="hungv" creationdate="20181013T051631Z">
+        <seg>tồn tại) tệp đích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in &lt;t0/&gt;MediaWiki&lt;t1/&gt;, by clicking on "Import from &lt;t2/&gt;MediaWiki&lt;t3/&gt;" button and providing the corresponding</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051814Z" creationid="hungv" creationdate="20181013T051814Z">
+        <seg>trong&lt;t0&gt;&lt;/t0&gt;MediaWiki&lt;t1&gt;&lt;/t1&gt;, bằng cách nhấp vào "nhập khẩu từ&lt;t2&gt;&lt;/t2&gt;MediaWiki&lt;t3&gt;&lt;/t3&gt;" nút và cung cấp tương ứng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>information:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051443Z" creationid="hungv" creationdate="20181013T051443Z">
+        <seg>thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051731Z" creationid="hungv" creationdate="20181013T051731Z">
+        <seg>từ khóa (không may mắn như vậy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>phase they show low resistivity.&lt;s8/&gt;forget&lt;s9/&gt;typing on the keyboard&lt;s10/&gt;forecast.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T120954Z" creationid="hungv" creationdate="20181009T120954Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>project_files_show_on_load&lt;t0/&gt; &lt;t1/&gt;to &lt;t2/&gt;false &lt;t3/&gt;in &lt;t4/&gt;omegat.prefs&lt;t5/&gt; file (accessible by Options / Access</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181010T140532Z" creationid="hungv" creationdate="20181010T140532Z">
+        <seg>project_files_show_on_load&lt;t0/&gt;&lt;t1/&gt;đến &lt;t2/&gt;sai &lt;t3/&gt;trong &lt;t4/&gt;omegat.prefs&lt;t5/&gt; tệp (có thể truy cập bằng Tùy chọn / Truy cập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>repeated &lt;t0/&gt;a number of&lt;t1/&gt; times (in which case you are fortunate) or it could describe a table of</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051727Z" creationid="hungv" creationdate="20181013T051727Z">
+        <seg>lặp đi lặp lại &lt;t0/&gt;một số&lt;t1/&gt; thời gian (trong trường hợp này bạn may mắn) hoặc nó có thể mô tả một bảng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>select a file with &lt;t0/&gt;Up &lt;t1/&gt;and &lt;t2/&gt;Down &lt;t3/&gt;keys, and&lt;t4/&gt; open it for translation by pressing &lt;t5/&gt;Enter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051541Z" creationid="hungv" creationdate="20181013T051541Z">
+        <seg>chọn một tệp với &lt;t0/&gt;Lên &lt;t1/&gt;và &lt;t2/&gt;Xuống &lt;t3/&gt;phím và&lt;t4/&gt; mở nó để dịch bằng cách nhấn &lt;t5/&gt;Đi vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>source folder in a format that &lt;t0/&gt;OmegaT&lt;t1/&gt; &lt;t2/&gt;is able to&lt;t3/&gt; recognize.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051514Z" creationid="hungv" creationdate="20181013T051514Z">
+        <seg>thư mục nguồn ở định dạng mà &lt;t0/&gt;OmegaT&lt;t1/&gt;&lt;t2/&gt;có khả năng để&lt;t3/&gt; nhận biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051654Z" creationid="hungv" creationdate="20181013T051654Z">
+        <seg>số lượng phân đoạn duy nhất đã được dịch được hiển thị ở dưới cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051804Z" creationid="hungv" creationdate="20181013T051804Z">
+        <seg>dự án để nhập các tệp mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>translating the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051749Z" creationid="hungv" creationdate="20181013T051749Z">
+        <seg>dịch dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>turning at the a nanoscale corner&lt;s0/&gt;Force&lt;s1/&gt;tying a scarf around one’s neckPhase change memory is memory device built from compounds of Ge,&lt;s2/&gt;foreign&lt;s3/&gt;Te and Sb sandwiched between electrodes.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181009T125136Z" creationid="hungv" creationdate="20181009T125136Z">
+        <seg>chuyển các góc Nano&lt;s0&gt;&lt;/s0&gt;lực&lt;s1&gt;&lt;/s1&gt;buộc một chiếc khăn quanh của một neckPhase thay đổi bộ nhớ là bộ nhớ thiết bị được chế tạo từ hợp chất Ge,&lt;s2&gt;&lt;/s2&gt;ngoại&lt;s3&gt;&lt;/s3&gt;Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unique segments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051743Z" creationid="hungv" creationdate="20181013T051743Z">
+        <seg>phân đoạn duy nhất.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• File entries include their names, file filter types, their encoding and the number of segments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051635Z" creationid="hungv" creationdate="20181013T051635Z">
+        <seg>• Mục nhập tệp bao gồm tên, loại bộ lọc tệp, mã hóa của chúng và số lượng phân đoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051524Z" creationid="hungv" creationdate="20181013T051524Z">
+        <seg>• danh sách tất cả các tệp có thể dịch trong dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the total number of segments, the number of unique segments in the whole project, and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051650Z" creationid="hungv" creationdate="20181013T051650Z">
+        <seg>• tổng số phân đoạn, số lượng phân đoạn duy nhất trong toàn bộ dự án và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051451Z" creationid="hungv" creationdate="20181013T051451Z">
+        <seg>• tổng số tệp có thể dịch trong dự án.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
