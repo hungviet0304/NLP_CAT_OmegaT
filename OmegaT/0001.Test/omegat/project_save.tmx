@@ -606,6 +606,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cheating doesn't do anything for me.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055037Z" creationid="hungv" creationdate="20181013T055037Z">
+        <seg>Việc gian lận chẳng có tác dụng gì với tôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cheating is not my thing.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055041Z" creationid="hungv" creationdate="20181013T055041Z">
+        <seg>Lừa dối không phải thứ mà tôi có</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cheating sucks.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055045Z" creationid="hungv" creationdate="20181013T055045Z">
+        <seg>Lừa dối thật tệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>City University of Hong Kong</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052040Z" creationid="hungv" creationdate="20181013T052040Z">
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052607Z" creationid="hungv" creationdate="20181013T052607Z">
         <seg>Được điều khiển bởi một bộ điều khiển từ được sử dụng trong các thí nghiệm, robot có thể di chuyển trong cả mô hình đẩy và mô hình con lắc ngược, có nghĩa là nó có thể sử dụng chân trước để đẩy về phía trước cũng như vung cơ thể bằng cách đứng trên chân trái và phải luân phiên để tăng tương ứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Count me out.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055104Z" creationid="hungv" creationdate="20181013T055104Z">
+        <seg>Cho tôi rút / Đừng tính tôi vào</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +870,134 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I could really do without it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055115Z" creationid="hungv" creationdate="20181013T055115Z">
+        <seg>Tôi có thể làm nếu không có nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't appreciate that.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055053Z" creationid="hungv" creationdate="20181013T055053Z">
+        <seg>Tôi không đánh giá cao điều đó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't believe it!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055109Z" creationid="hungv" creationdate="20181013T055109Z">
+        <seg> Tôi không tin điều đó!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I never listen to cheating.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055049Z" creationid="hungv" creationdate="20181013T055049Z">
+        <seg>Tôi không bao giờ muốn nghe một lời nói dối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wouldn't mind a...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055129Z" creationid="hungv" creationdate="20181013T055129Z">
+        <seg>Tôi sẽ không ngại...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd love to, but...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055106Z" creationid="hungv" creationdate="20181013T055106Z">
+        <seg>7. Tôi rất thích, nhưng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd rather not (if you don't mind).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055105Z" creationid="hungv" creationdate="20181013T055105Z">
+        <seg>Tôi không muốn (nếu bạn không giận)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd really like / I'd love a day off.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055116Z" creationid="hungv" creationdate="20181013T055116Z">
+        <seg> Tôi thực sự muốn có một ngày nghỉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm fed up with it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055114Z" creationid="hungv" creationdate="20181013T055114Z">
+        <seg>Tôi chán ngấy với nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not a big fan of cheating.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055047Z" creationid="hungv" creationdate="20181013T055047Z">
+        <seg>Tôi không phải là fan của sự lừa dối</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not crazy about it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055052Z" creationid="hungv" creationdate="20181013T055052Z">
+        <seg>Tôi không thích nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not fond of it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055051Z" creationid="hungv" creationdate="20181013T055051Z">
+        <seg>Tôi không thích nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not into cheating.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055044Z" creationid="hungv" creationdate="20181013T055044Z">
+        <seg>Tôi không thích gian lận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm sick and tired of...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055113Z" creationid="hungv" creationdate="20181013T055113Z">
+        <seg>7. Tôi phát bệnh vì...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've had all I can take of...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055112Z" creationid="hungv" creationdate="20181013T055112Z">
+        <seg>5. Tôi chịu hết nối rồi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've had it up to here with...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055112Z" creationid="hungv" creationdate="20181013T055112Z">
+        <seg>4. Tôi chịu hết nối rồi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IBM researchers are developing a new computer architecture, better equipped to handle increased data loads from artificial intelligence.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051312Z" creationid="hungv" creationdate="20181013T051312Z">
@@ -882,6 +1042,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051204Z" creationid="hungv" creationdate="20181009T131533Z">
         <seg>Trong một kiến ​​trúc mới, vượt xa von Neumann, bộ nhớ phải đóng một vai trò tích cực hơn trong tính toán. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a word, no.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055053Z" creationid="hungv" creationdate="20181013T055053Z">
+        <seg> Một từ thôi, không</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is it possible?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055115Z" creationid="hungv" creationdate="20181013T055115Z">
+        <seg> Nó có thể ư?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051602Z" creationid="hungv" creationdate="20181013T051602Z">
@@ -970,6 +1146,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165638Z" creationid="hungv" creationdate="20181012T165638Z">
         <seg>Cũng không bao gồm các trường hợp trong Minnesota, Illinois, họ không được xác nhận.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It really gets on my nerves.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055113Z" creationid="hungv" creationdate="20181013T055113Z">
+        <seg>Nó thật sự làm tôi bực mình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's driving me up the wall.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055111Z" creationid="hungv" creationdate="20181013T055111Z">
+        <seg>Điều đó làm tôi rất khó chịu và bực tức</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1270,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No chance.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055107Z" creationid="hungv" creationdate="20181013T055107Z">
+        <seg>Không có khả năng xảy ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No way!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055108Z" creationid="hungv" creationdate="20181013T055108Z">
+        <seg> Không đời nào!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not likely.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055054Z" creationid="hungv" creationdate="20181013T055054Z">
+        <seg>Không bao giờ! Không đời nào!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not on your life.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055054Z" creationid="hungv" creationdate="20181013T055054Z">
+        <seg>Đương nhiên là không!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note however that the numbers</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051721Z" creationid="hungv" creationdate="20181013T051721Z">
@@ -1098,6 +1322,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051556Z" creationid="hungv" creationdate="20181013T051556Z">
         <seg>Lưu ý: tên tệp (trong cột đầu tiên) có thể được sắp xếp theo thứ tự bảng chữ cái bằng cách nhấp vào tiêu đề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nuh&lt;t0/&gt; ahh / Hell no!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055107Z" creationid="hungv" creationdate="20181013T055107Z">
+        <seg>Không nhé!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1370,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052612Z" creationid="hungv" creationdate="20181013T052612Z">
         <seg>Con robot đa chân của chúng tôi cho thấy một hiệu suất ấn tượng ở nhiều địa hình khác nhau và do đó mở các ứng dụng rộng rãi cho việc phân phối thuốc trong cơ thể, "Giáo sư Wang nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over my dead body.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055055Z" creationid="hungv" creationdate="20181013T055055Z">
+        <seg>Không đời nào! (Bước qua xác tôi đã)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1562,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161706Z" creationid="hungv" creationdate="20181012T161706Z">
         <seg>Triệu chứng có thể bao gồm chân tay đột ngột yếu, mất cơ bắp giai điệu và phản xạ, mặt và mí mắt drooping, mặt yếu, khó di chuyển đôi mắt, nuốt khó khăn hay nói đùa,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's not for me.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055053Z" creationid="hungv" creationdate="20181013T055053Z">
+        <seg>Nó không dành cho tôi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What a pain!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055110Z" creationid="hungv" creationdate="20181013T055110Z">
+        <seg>Thật đau xót!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is the polio-like illness paralyzing US children?</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165151Z" creationid="hungv" creationdate="20181012T165151Z">
@@ -2050,6 +2306,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140313Z" creationid="hungv" creationdate="20181010T140313Z">
         <seg>Bạn có thể tắt chức năng tự động tuyên truyền với dự án &gt; Properties &gt; bỏ đánh dấu hộp "Tự động tuyên truyền của tham khảo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can keep cheating.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055050Z" creationid="hungv" creationdate="20181013T055050Z">
+        <seg> Bạn cứ nói dối đi</seg>
       </tuv>
     </tu>
     <tu>
