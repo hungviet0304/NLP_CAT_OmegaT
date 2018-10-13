@@ -1534,6 +1534,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tiny soft robot with &lt;t0/&gt;multilegs&lt;t1/&gt; paves way for drugs delivery in human body</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052002Z" creationid="hungv" creationdate="20181013T052002Z">
+        <seg>
+Robot mềm nhỏ với &lt;t0 /&gt; đa nhân &lt;t1 /&gt; mở đường cho việc phân phối thuốc trong cơ thể con người</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Today's computers are built on the von Neumann architecture, developed in the 1940s.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051335Z" creationid="hungv" creationdate="20181010T132127Z">
