@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Do / Would) you happen to know...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055329Z" creationid="hungv" creationdate="20181013T055329Z">
+        <seg>7. Bạn có tình cờ biết rằng...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140305Z" creationid="hungv" creationdate="20181010T140305Z">
@@ -266,6 +274,38 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051709Z" creationid="hungv" creationdate="20181013T051709Z">
         <seg>(Định nghĩa "duy nhất" phân biệt chữ hoa chữ thường: "Chạy" và "chạy" được xử lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(What do think about) that?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055314Z" creationid="hungv" creationdate="20181013T055314Z">
+        <seg>Bạn nghĩ sao về điều đó?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>.How do you see the situation?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055324Z" creationid="hungv" creationdate="20181013T055324Z">
+        <seg>Bạn thấy tình huống này như thế nào?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/ That's bologna!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055243Z" creationid="hungv" creationdate="20181013T055243Z">
+        <seg>Nhảm! Vô lý! / Bạn đang nói bậy nói bạ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/ What a bunch of &lt;t0/&gt;bologna&lt;t1/&gt;!</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055242Z" creationid="hungv" creationdate="20181013T055242Z">
+        <seg>Nhảm! Vô lý! / Bạn đang nói bậy nói bạ</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +446,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About -&lt;t0/&gt;ish&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055354Z" creationid="hungv" creationdate="20181013T055354Z">
+        <seg>Cỡ  giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abu Sebastian, an author on the paper, explained that executing certain computational tasks in the computer's memory would increase the system's efficiency and save energy.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051147Z" creationid="hungv" creationdate="20181009T130944Z">
         <seg>Abu Sebastian, một tác giả trên giấy, giải thích rằng việc thực hiện một số nhiệm vụ tính toán nhất định trong bộ nhớ của máy tính sẽ làm tăng hiệu quả của hệ thống và tiết kiệm năng lượng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actually, I&lt;t0/&gt; don't think...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055233Z" creationid="hungv" creationdate="20181013T055233Z">
+        <seg>Thực sự, tôi không nghĩ rằng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actually, I&lt;t0/&gt; think you'll find that...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055221Z" creationid="hungv" creationdate="20181013T055221Z">
+        <seg>5. Thực ra, tôi nghĩ bạn sẽ thấy rằng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +498,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161551Z" creationid="hungv" creationdate="20181012T161551Z">
         <seg>Theo bộ phận y tế, tất cả&lt;t0/&gt; các bệnh nhân đến "từ miền bắc Illinois", nhưng không có thông tin vị trí khác được cung cấp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alright?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055339Z" creationid="hungv" creationdate="20181013T055339Z">
+        <seg>Ổn chứ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you aware of&lt;t0/&gt;.....?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055322Z" creationid="hungv" creationdate="20181013T055318Z">
+        <seg>Bạn có biết về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Around about  o'clock.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055354Z" creationid="hungv" creationdate="20181013T055354Z">
+        <seg> Khoảng khoảng  giờ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Around the world, there has been research about developing soft milli-robots.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052229Z" creationid="hungv" creationdate="20181013T052229Z">
@@ -478,10 +566,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As far as I'm concerned...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055257Z" creationid="hungv" creationdate="20181013T055257Z">
+        <seg>7. Theo những gì tôi biết...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As of September 30, &lt;t0/&gt;according to the CDC&lt;t1/&gt;, 38 cases of AFM have been confirmed in 16 states.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
         <seg>Ngày 30 tháng 9,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;, 38 trường hợp của AFM đã được xác nhận trong 16 bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At a guess, I'd say she's</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055352Z" creationid="hungv" creationdate="20181013T055352Z">
+        <seg>Theo phán đoán, tôi sẽ nói cô ấy  tuổi</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +702,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can I speak to Rob, please?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055358Z" creationid="hungv" creationdate="20181013T055358Z">
+        <seg>Làm ơn, tôi có thể nói chuyện với Rob không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can I take a message?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055206Z" creationid="hungv" creationdate="20181013T055206Z">
+        <seg>Tôi có thể để lại lời nhắn cho ông ấy được không ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can you tell me...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055325Z" creationid="hungv" creationdate="20181013T055325Z">
+        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carpeted in forest, Bhutan absorbs more CO2 than it emits.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T054734Z" creationid="hungv" creationdate="20181013T054734Z">
         <seg>Trải thảm trong rừng, Bhutan hấp thu nhiều CO2 hơn phát thải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chances are she's</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055352Z" creationid="hungv" creationdate="20181013T055352Z">
+        <seg>Cũng cỡ  tuổi</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +798,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could I ask who’s calling, please?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055208Z" creationid="hungv" creationdate="20181013T055208Z">
+        <seg>Tôi có thể hỏi ai đang gọi đó không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could anyone tell me...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055329Z" creationid="hungv" creationdate="20181013T055329Z">
+        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could you please take a message? Please tell her/him that…</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055209Z" creationid="hungv" creationdate="20181013T055209Z">
+        <seg>Bạn có thể nhắn dùm tôi không? Hãy nói với cô ấy/ anh ấy rằng?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could you tell me...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055325Z" creationid="hungv" creationdate="20181013T055325Z">
+        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Count me out.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055104Z" creationid="hungv" creationdate="20181013T055104Z">
@@ -678,10 +846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D'you&lt;t0/&gt; know...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055326Z" creationid="hungv" creationdate="20181013T055326Z">
+        <seg>4. Bạn có biết...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date:</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052023Z" creationid="hungv" creationdate="20181013T052023Z">
         <seg>Ngày:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did you get my message?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055358Z" creationid="hungv" creationdate="20181013T055358Z">
+        <seg>Bạn có nhận được tin nhắn không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +882,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052142Z" creationid="hungv" creationdate="20181013T052142Z">
         <seg>Đầy đủ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fancy seeing a film?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055343Z" creationid="hungv" creationdate="20181013T055343Z">
+        <seg>Bạn có phải là người cuồng phim không?</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you got any idea...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055327Z" creationid="hungv" creationdate="20181013T055327Z">
+        <seg>5. Bạn có ý tưởng nào cho...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Haven't seen you for ages.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T043828Z" creationid="hungv" creationdate="20181013T043828Z">
@@ -822,10 +1022,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here's hoping we have a sunny day.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055248Z" creationid="hungv" creationdate="20181013T055248Z">
+        <seg>Hy vọng chúng ta sẽ có một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hi Simon, it's Anna.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055357Z" creationid="hungv" creationdate="20181013T055357Z">
+        <seg>Chào Simon, đây là Anna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hi, Jenny.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055359Z" creationid="hungv" creationdate="20181013T055359Z">
+        <seg>Chào Simon, đây là Anna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hopefully, it'll be sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055247Z" creationid="hungv" creationdate="20181013T055247Z">
+        <seg>Hy vọng ngày mai sẽ là một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How &lt;t0/&gt;d'you&lt;t1/&gt; feel (about...)?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055311Z" creationid="hungv" creationdate="20181013T055311Z">
+        <seg>3. Bạn cảm thấy như thế nào về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How about going to the cinema?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055342Z" creationid="hungv" creationdate="20181013T055342Z">
+        <seg>Thế xem phim thì sao?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How about you?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055344Z" creationid="hungv" creationdate="20181013T055344Z">
+        <seg> Bạn khỏe không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How are things?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055334Z" creationid="hungv" creationdate="20181013T055334Z">
+        <seg>Mọi thứ ổn chứ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How are you getting on?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055336Z" creationid="hungv" creationdate="20181013T055336Z">
+        <seg>Dạo này công việc sao rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How are you?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055333Z" creationid="hungv" creationdate="20181013T055333Z">
+        <seg> Bạn khỏe không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do you feel about seeing a film?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055342Z" creationid="hungv" creationdate="20181013T055342Z">
+        <seg>Bạn thấy sao nếu chúng ta đi xem phim?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How have you been keeping?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055339Z" creationid="hungv" creationdate="20181013T055339Z">
+        <seg> Dạo này bạn thế nào?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How have you been?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055337Z" creationid="hungv" creationdate="20181013T055337Z">
+        <seg>Dạo này thế nào? / Hồi này sao rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How's it going?</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T043704Z" creationid="hungv" creationdate="20181013T043704Z">
         <seg>Mọi chuyện thế nào rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How's things?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055334Z" creationid="hungv" creationdate="20181013T055334Z">
+        <seg>Mọi thứ ổn chứ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I could (really) do with a...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055145Z" creationid="hungv" creationdate="20181013T055145Z">
+        <seg>Tôi thật sự thích làm gì đó với một...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I could really do without it.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055115Z" creationid="hungv" creationdate="20181013T055115Z">
@@ -894,6 +1214,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't suppose you (would) know...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055330Z" creationid="hungv" creationdate="20181013T055330Z">
+        <seg>8. Tôi không nghĩ bạn sẽ biết....?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't think you're right about...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055229Z" creationid="hungv" creationdate="20181013T055229Z">
+        <seg>Tôi không nghĩ bạn đã đúng về...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I hope everything's okay?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055338Z" creationid="hungv" creationdate="20181013T055338Z">
+        <seg>Tôi hy vọng mọi chuyện sẽ ổn?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I hope it's sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055246Z" creationid="hungv" creationdate="20181013T055246Z">
+        <seg> Tôi hy vọng ngày mai sẽ là một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I never listen to cheating.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055049Z" creationid="hungv" creationdate="20181013T055049Z">
@@ -902,10 +1254,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I reckon...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055252Z" creationid="hungv" creationdate="20181013T055252Z">
+        <seg>1. Tôi đoán/ cho là...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wonder if someone could tell me...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055331Z" creationid="hungv" creationdate="20181013T055331Z">
+        <seg>9. Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wonder if you could + tell me/explain/provide information on...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055332Z" creationid="hungv" creationdate="20181013T055332Z">
+        <seg>11. Tôi tự hỏi bạn có thể nói/ giải thích/ cung cấp thông tin về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wonder if you could tell me...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055331Z" creationid="hungv" creationdate="20181013T055331Z">
+        <seg>9. Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I wouldn't mind a...</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055129Z" creationid="hungv" creationdate="20181013T055129Z">
         <seg>Tôi sẽ không ngại...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd like to know...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055326Z" creationid="hungv" creationdate="20181013T055326Z">
+        <seg>3. Tôi muốn biết...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd like to see a film.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055343Z" creationid="hungv" creationdate="20181013T055343Z">
+        <seg>Chúng tôi có thể xem phim suốt luôn</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,10 +1334,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'd say she's</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055351Z" creationid="hungv" creationdate="20181013T055351Z">
+        <seg>Tôi sẽ đoán cô ấy  tuổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd say...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055254Z" creationid="hungv" creationdate="20181013T055254Z">
+        <seg>2. Tôi muốn nói là...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll call you later.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055355Z" creationid="hungv" creationdate="20181013T055355Z">
+        <seg> Gọi lại cho bạn sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm (really) counting on it being sunny.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055251Z" creationid="hungv" creationdate="20181013T055251Z">
+        <seg> Tôi (thực sự) tin tưởng vào việc trời sẽ nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm afraid that's not quite right.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055220Z" creationid="hungv" creationdate="20181013T055220Z">
+        <seg>Tôi e rằng nó chưa đúng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm afraid you're mistaken.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055222Z" creationid="hungv" creationdate="20181013T055222Z">
+        <seg>Tôi e rằng bạn đã mắc lỗi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm fed up with it.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055114Z" creationid="hungv" creationdate="20181013T055114Z">
         <seg>Tôi chán ngấy với nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm hoping it'll be sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055246Z" creationid="hungv" creationdate="20181013T055246Z">
+        <seg>Tôi đang hy vọng ngày mai sẽ là một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm keeping my fingers crossed for...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055250Z" creationid="hungv" creationdate="20181013T055250Z">
+        <seg>9. Tôi hy vọng ... sẽ suôn sẻ theo ý muốn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,10 +1438,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm returning your call.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055402Z" creationid="hungv" creationdate="20181013T055402Z">
+        <seg> Tôi sẽ gọi lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm sick and tired of...</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055113Z" creationid="hungv" creationdate="20181013T055113Z">
         <seg>7. Tôi phát bệnh vì...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm utterly convinced that...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055304Z" creationid="hungv" creationdate="20181013T055304Z">
+        <seg>9. Tôi hoàn toàn bị thuyết phục rằng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I had to take a guess, I'd say she's</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055350Z" creationid="hungv" creationdate="20181013T055350Z">
+        <seg>Nếu bảo đoán, tôi sẽ nói cô ấy  tuổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140032Z" creationid="hungv" creationdate="20181010T140032Z">
@@ -1014,10 +1502,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If only it would be sunny.../ I wish it would be sunny</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055250Z" creationid="hungv" creationdate="20181013T055250Z">
+        <seg>8. Tôi hy vọng ngày mai sẽ là một ngày nắng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the network doesn't have high confidence, it lets the robot explore the environment instead, like a traditional planner.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050701Z" creationid="hungv" creationdate="20181013T050701Z">
         <seg>Nếu mạng không có độ tin cậy cao, nó cho phép robot khám phá môi trường thay vào đó, giống như một người lập kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If we're lucky, it'll be sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055249Z" creationid="hungv" creationdate="20181013T055249Z">
+        <seg>Nếu chúng ta may mắn, mai sẽ là một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you ask me...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055256Z" creationid="hungv" creationdate="20181013T055256Z">
+        <seg>5. Nếu bạn hỏi tôi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you check your facts, you'll find...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055245Z" creationid="hungv" creationdate="20181013T055245Z">
+        <seg>13. Nếu bạn kiểm tra lại thực tế bạn sẽ thấy ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don't mind me saying...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055301Z" creationid="hungv" creationdate="20181013T055258Z">
+        <seg>Tôi hoàn toàn bị thuyết phục rằng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1594,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050815Z" creationid="hungv" creationdate="20181013T050815Z">
         <seg>Trong cả hai mô phỏng, mô hình của các nhà nghiên cứu nhanh chóng vạch ra các đường đi ngắn hơn và nhất quán hơn so với một kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In my experience…</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055305Z" creationid="hungv" creationdate="20181013T055305Z">
+        <seg>Theo kinh nghiệm của tôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In my humble opinion...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055304Z" creationid="hungv" creationdate="20181013T055304Z">
+        <seg>10. Trong suy nghĩ nhỏ bé của tôi thì...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,10 +1702,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It would be nice to see a film.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055349Z" creationid="hungv" creationdate="20181013T055349Z">
+        <seg> Sẽ rất tuyệt khi đi xem một bộ phim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's driving me up the wall.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055111Z" creationid="hungv" creationdate="20181013T055111Z">
         <seg>Điều đó làm tôi rất khó chịu và bực tức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’d like to point out that…</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055306Z" creationid="hungv" creationdate="20181013T055306Z">
+        <seg>Tôi muốn chỉ ra rằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’d say that…</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055306Z" creationid="hungv" creationdate="20181013T055306Z">
+        <seg>Tôi muốn nói rằng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sorry, she/he’s not here today.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055204Z" creationid="hungv" creationdate="20181013T055204Z">
+        <seg>Tôi rất tiếc, cô/anh ấy không ở đây Tôi có thể ghi lại lời nhắn giúp bạn không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knowing (the English), he likes football.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055350Z" creationid="hungv" creationdate="20181013T055350Z">
+        <seg> Hiện ra ngay trong đầu tôi lúc đó là ý nghĩ cô ấy  tuổi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1778,38 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051218Z" creationid="hungv" creationdate="20181010T132217Z">
         <seg>Cuối cùng, bản chất động và ngẫu nhiên của các tế bào thần kinh và khớp thần kinh đã truyền cảm hứng cho nhóm nghiên cứu để tạo ra một chất nền mạnh để tính toán các mạng thần kinh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave a message after the beep.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055400Z" creationid="hungv" creationdate="20181013T055400Z">
+        <seg>Để lại tin nhắn sau tiếng bíp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave a message.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055356Z" creationid="hungv" creationdate="20181013T055356Z">
+        <seg>Để lại tin nhắn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's go to the cinema.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055341Z" creationid="hungv" creationdate="20181013T055341Z">
+        <seg> Tại sao chúng ta lại không đi xem phim nhỉ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's hope &lt;t0/&gt;it's&lt;t1/&gt; sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055248Z" creationid="hungv" creationdate="20181013T055248Z">
+        <seg>Hãy hy vọng ngày mai sẽ là một ngày nắng</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My take on it is...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055256Z" creationid="hungv" creationdate="20181013T055256Z">
+        <seg>4. Điều tôi tìm ra đó là...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nice to meet you.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T043957Z" creationid="hungv" creationdate="20181013T043957Z">
@@ -1282,6 +1906,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055108Z" creationid="hungv" creationdate="20181013T055108Z">
         <seg> Không đời nào!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, that's all wrong.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055235Z" creationid="hungv" creationdate="20181013T055235Z">
+        <seg> Không, điều đó sai hoàn toàn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, you've got it wrong.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055234Z" creationid="hungv" creationdate="20181013T055234Z">
+        <seg>Không, bạn hiểu sai rồi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off the top of my head, I think she's</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055350Z" creationid="hungv" creationdate="20181013T055350Z">
+        <seg> Hiện ra ngay trong đầu tôi lúc đó là ý nghĩ cô ấy  tuổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Friday, &lt;t0/&gt;the Minnesota Department of Health said&lt;t1/&gt; it was investigating six cases of AFM in children over the past few weeks but did not identify what virus or other cause may have led to the illnesses.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165536Z" creationid="hungv" creationdate="20181012T165536Z">
@@ -1382,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Personally, I think...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055255Z" creationid="hungv" creationdate="20181013T055255Z">
+        <seg>3. Cá nhân tôi cho rằng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phase change memory is a nanoscale memory device built from compounds of Ge, Te and Sb sandwiched between electrodes.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132221Z" creationid="hungv" creationdate="20181010T132221Z">
@@ -1394,6 +2050,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044637Z" creationid="hungv" creationdate="20181013T044637Z">
         <seg>Các thuật toán lập kế hoạch chuyển động phổ biến sẽ tạo ra một quyết định có thể có cho các nhánh cây cho đến khi nó tìm ra các đường dẫn tốt để điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Probably about</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055353Z" creationid="hungv" creationdate="20181013T055353Z">
+        <seg>Có lẽ khoảng </seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,6 +2106,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051754Z" creationid="hungv" creationdate="20181013T051754Z">
         <seg>Xem chương &lt;t0/&gt;Quy tắc phân đoạn &lt;t1/&gt;để biết thêm thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seeing a film's a good idea.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055348Z" creationid="hungv" creationdate="20181013T055348Z">
+        <seg>Xem phim cũng là ý hay đấy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speaking for myself…</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055305Z" creationid="hungv" creationdate="20181013T055305Z">
+        <seg>Theo riêng tôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>State health officials are working with the care providers to obtain the samples and information to send to the US Centers for Disease and Prevention for testing and confirmation of the diagnoses.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161454Z" creationid="hungv" creationdate="20181012T161454Z">
@@ -1562,6 +2242,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161706Z" creationid="hungv" creationdate="20181012T161706Z">
         <seg>Triệu chứng có thể bao gồm chân tay đột ngột yếu, mất cơ bắp giai điệu và phản xạ, mặt và mí mắt drooping, mặt yếu, khó di chuyển đôi mắt, nuốt khó khăn hay nói đùa,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks for getting back to me.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055400Z" creationid="hungv" creationdate="20181013T055400Z">
+        <seg>Cảm ơn vì đã gọi lại với tôi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The way I see it...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055257Z" creationid="hungv" creationdate="20181013T055257Z">
+        <seg>6. Cách tôi nhìn vấn đề là...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their designs draw on concepts from the human brain and significantly outperform conventional computers in comparative studies.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051111Z" creationid="hungv" creationdate="20181010T132053Z">
@@ -2206,10 +2902,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We could always see a film.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055346Z" creationid="hungv" creationdate="20181013T055346Z">
+        <seg>Chúng tôi có thể xem phim suốt luôn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're talking maybe late twenties.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055353Z" creationid="hungv" creationdate="20181013T055353Z">
+        <seg>Chúng ta đang nói có thể là cuối những năm </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What &lt;t0/&gt;d'you&lt;t1/&gt; reckon (about...)?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055311Z" creationid="hungv" creationdate="20181013T055311Z">
+        <seg>3. Bạn cảm thấy như thế nào về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What a pain!</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T055110Z" creationid="hungv" creationdate="20181013T055110Z">
         <seg>Thật đau xót!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are your views on...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055314Z" creationid="hungv" creationdate="20181013T055314Z">
+        <seg>7. Quan điểm của bạn về...là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you think about...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055310Z" creationid="hungv" creationdate="20181013T055310Z">
+        <seg>1. Bạn nghĩ gì về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you think of...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055310Z" creationid="hungv" creationdate="20181013T055310Z">
+        <seg>1. Bạn nghĩ gì về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you think?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055341Z" creationid="hungv" creationdate="20181013T055341Z">
+        <seg>Bạn nghĩ gì về?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What have you been (getting) up to?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055338Z" creationid="hungv" creationdate="20181013T055338Z">
+        <seg>Dạo này cậu làm gì?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,6 +2998,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What would you say to... / if we...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055317Z" creationid="hungv" creationdate="20181013T055316Z">
+        <seg>10. Bạn có biết về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's your number?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055401Z" creationid="hungv" creationdate="20181013T055401Z">
+        <seg>Số điện thoại của bạn là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's your opinion of...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055312Z" creationid="hungv" creationdate="20181013T055312Z">
+        <seg>5. Bạn có ý kiến gì về...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What’s your view?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055318Z" creationid="hungv" creationdate="20181013T055318Z">
+        <seg>Ý kiến của bạn như nào về?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whazzup&lt;t0/&gt;?</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T043854Z" creationid="hungv" creationdate="20181013T043854Z">
@@ -2250,6 +3042,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050742Z" creationid="hungv" creationdate="20181013T050742Z">
         <seg>Khi đối mặt với một cái bẫy mới, nó nhận ra các đặc điểm của cái bẫy, trốn thoát, và tiếp tục tìm kiếm mục tiêu của nó trong căn phòng lớn hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When is a good time to call?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055209Z" creationid="hungv" creationdate="20181013T055209Z">
+        <seg>Khi nào có thể gọi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,10 +3078,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where are you?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055359Z" creationid="hungv" creationdate="20181013T055359Z">
+        <seg> Bạn khỏe không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where did you hear that?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055244Z" creationid="hungv" creationdate="20181013T055244Z">
+        <seg>Bạn nghe được điều đó ở đâu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where do you stand (on...)?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055316Z" creationid="hungv" creationdate="20181013T055316Z">
+        <seg>8. Ý kiến của bạn về... là?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why don't we go to the cinema?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055340Z" creationid="hungv" creationdate="20181013T055340Z">
+        <seg> Tại sao chúng ta lại không đi xem phim nhỉ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why not go and see a film?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055346Z" creationid="hungv" creationdate="20181013T055346Z">
+        <seg>Tại sao không đi và xem phim?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With any luck, it'll be sunny tomorrow.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055249Z" creationid="hungv" creationdate="20181013T055249Z">
+        <seg>May mắn thì mai sẽ là một ngày nắng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Working with multiple agents</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050819Z" creationid="hungv" creationdate="20181013T050819Z">
         <seg>Làm việc với nhiều đại lý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you mind + verb + &lt;t0/&gt;ing&lt;t1/&gt;...?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055332Z" creationid="hungv" creationdate="20181013T055332Z">
+        <seg>12. Bạn có phiền khi...?</seg>
       </tuv>
     </tu>
     <tu>
