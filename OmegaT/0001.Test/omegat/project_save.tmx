@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>= What are you doing?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043938Z" creationid="hungv" creationdate="20181013T043938Z">
+        <seg>= Đang làm gì đó?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A car that steers well on corners</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181008T182640Z" creationid="hungv" creationdate="20181008T182640Z">
@@ -398,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great to see you again.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043908Z" creationid="hungv" creationdate="20181013T043908Z">
+        <seg>Thật tuyệt khi được gặp lại bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Haven't seen you for ages.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043828Z" creationid="hungv" creationdate="20181013T043828Z">
+        <seg>Đã lâu rồi không gặp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Health officials in Washington state are investigating five possible cases in patients from four different counties.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T164343Z" creationid="hungv" creationdate="20181012T164343Z">
@@ -406,10 +430,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heeey</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043924Z" creationid="hungv" creationdate="20181013T043924Z">
+        <seg>Ê</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How's it going?</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T043704Z" creationid="hungv" creationdate="20181013T043704Z">
         <seg>Mọi chuyện thế nào rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How's tricks?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043920Z" creationid="hungv" creationdate="20181013T043920Z">
+        <seg>Thủ thuật gì vậy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Long time no &lt;t0/&gt;see&lt;t1/&gt; or It’s been a while</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043840Z" creationid="hungv" creationdate="20181013T043840Z">
+        <seg>Lâu rồi không &lt;t0/&gt;xem&lt;t1/&gt; hoặc Đã lâu rồi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Media captionDaniel and Amy McArthur, who own Ashers Bakery in Belfast, arrive at the Supreme Court in London.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T144212Z" creationid="hungv" creationdate="20181010T144212Z">
@@ -530,6 +578,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T142118Z" creationid="hungv" creationdate="20181010T142118Z">
         <seg>Gần đây, các nhà nghiên cứu đã áp dụng làm việc này với robot với thao tác đối mặt với những thách thức tương tự như vậy khó khăn khi tiếp cận các đối tượng trong bao giờ thay đổi môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nice to meet you.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043957Z" creationid="hungv" creationdate="20181013T043957Z">
+        <seg>Rất vui được gặp bạn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +1002,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165151Z" creationid="hungv" creationdate="20181012T165151Z">
         <seg>Bệnh bại liệt như paralyzing Mỹ trẻ em là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whazzup&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T043854Z" creationid="hungv" creationdate="20181013T043854Z">
+        <seg>Gì vậy?&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
