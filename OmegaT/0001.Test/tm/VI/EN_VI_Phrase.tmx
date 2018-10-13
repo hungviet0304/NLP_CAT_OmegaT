@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="Translatum TMX Maker"
+    creationtoolversion="1.0"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="EN-US"
+    srclang="EN-US"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>EN</seg></tuv>
+<tuv xml:lang="VI"><seg>VI</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>observing a match</seg></tuv>
+<tuv xml:lang="VI"><seg>quan sát một trận đấu</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>offering someone a meal</seg></tuv>
+<tuv xml:lang="VI"><seg>cung cấp cho ai đó một bữa ăn</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>opening a drawer</seg></tuv>
+<tuv xml:lang="VI"><seg>mở một ngăn kéo</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>operating heavy machinery</seg></tuv>
+<tuv xml:lang="VI"><seg>vận hành máy móc nặng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>ordering some food from a menu</seg></tuv>
+<tuv xml:lang="VI"><seg>đặt hàng một số thực phẩm từ thực đơn</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>organizing some paper</seg></tuv>
+<tuv xml:lang="VI"><seg>Sắp xếp một số giấy tờ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>packing away some poles</seg></tuv>
+<tuv xml:lang="VI"><seg>đóng gói một số cột</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>packing for a trip</seg></tuv>
+<tuv xml:lang="VI"><seg>đóng gói cho một chuyến đi</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>painting a picture</seg></tuv>
+<tuv xml:lang="VI"><seg>vẽ một bức tranh</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>parking one’s bike in a rack</seg></tuv>
+<tuv xml:lang="VI"><seg>đỗ xe đạp của ai vào giá để xe</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>passing a box to another</seg></tuv>
+<tuv xml:lang="VI"><seg>Chuyển một chiếc hộp cho ai đó</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>paying for the item</seg></tuv>
+<tuv xml:lang="VI"><seg>trả tiền cho các sản phẩm</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pedaling down the street</seg></tuv>
+<tuv xml:lang="VI"><seg>đạp xe xuống đường phố</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>photographing the scenery</seg></tuv>
+<tuv xml:lang="VI"><seg>chụp ảnh phong cảnh</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>picking up pastries from the trays</seg></tuv>
+<tuv xml:lang="VI"><seg>chọn bánh ngọt từ các khay</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>picking vegetables in a field</seg></tuv>
+<tuv xml:lang="VI"><seg>chọn rau trong một khu vực</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pilling some books on the shelves</seg></tuv>
+<tuv xml:lang="VI"><seg>chồng một số cuốn sách lên kệ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>piloting a boat out to sea</seg></tuv>
+<tuv xml:lang="VI"><seg>dẫn tàu ra biển</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>placing a coin in the slot</seg></tuv>
+<tuv xml:lang="VI"><seg>đặt một đồng xu vào khe</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>planting a garden in front of the store</seg></tuv>
+<tuv xml:lang="VI"><seg>trồng một khu vườn ở phía trước cửa hàng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>playing a musical instrument</seg></tuv>
+<tuv xml:lang="VI"><seg>chơi một nhạc cụ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>plugging in a machine</seg></tuv>
+<tuv xml:lang="VI"><seg>cắm điện vào máy tính</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pointing a finger to the monitor</seg></tuv>
+<tuv xml:lang="VI"><seg>chỉ một ngón tay lên màn hình</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>polishing a window</seg></tuv>
+<tuv xml:lang="VI"><seg>đánh bóng cửa sổ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>posing for a picture</seg></tuv>
+<tuv xml:lang="VI"><seg>sắp đặt tư thế cho một bức ảnh</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>posting a notice on the window</seg></tuv>
+<tuv xml:lang="VI"><seg>đăng một thông báo trên cửa sổ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pouring drinks into glasses</seg></tuv>
+<tuv xml:lang="VI"><seg>rót đồ uống vào ly</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>preparing food in two pans</seg></tuv>
+<tuv xml:lang="VI"><seg>chuẩn bị thức ăn trong hai chảo</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pulling a cart</seg></tuv>
+<tuv xml:lang="VI"><seg>kéo một giỏ hàng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>purchasing loaves of the bread</seg></tuv>
+<tuv xml:lang="VI"><seg>mua ổ bánh mì</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>pushing a cart through the line</seg></tuv>
+<tuv xml:lang="VI"><seg>đẩy một chiếc xe qua các hàng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>putting a key into a lock</seg></tuv>
+<tuv xml:lang="VI"><seg>đặt một chìa khóa vào ổ khóa</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>putting down one’s pen</seg></tuv>
+<tuv xml:lang="VI"><seg>đặt bút của ai xuống</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>putting on sweaters</seg></tuv>
+<tuv xml:lang="VI"><seg>mặc áo len</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>putting up a poster</seg></tuv>
+<tuv xml:lang="VI"><seg>dán 1 tấm áp phích</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>racing down the street</seg></tuv>
+<tuv xml:lang="VI"><seg>phóng xe xuống đường</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>raising sales</seg></tuv>
+<tuv xml:lang="VI"><seg>nâng cao doanh số bán hàng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>raking the leaves</seg></tuv>
+<tuv xml:lang="VI"><seg>cào lá</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>reaching across the table</seg></tuv>
+<tuv xml:lang="VI"><seg>di qua cái bàn</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>reaching for an item</seg></tuv>
+<tuv xml:lang="VI"><seg>với tay lấy 1 đồ vật( hàng hoá)</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>reading a sign</seg></tuv>
+<tuv xml:lang="VI"><seg>đọc 1 dấu hiệu</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>rearranging the furniture</seg></tuv>
+<tuv xml:lang="VI"><seg>sắp xếp đồ đạc</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>reattaching the wheel to the cart</seg></tuv>
+<tuv xml:lang="VI"><seg>gắn bánh xe cho xe kéo</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>relaxing outdoors</seg></tuv>
+<tuv xml:lang="VI"><seg>thư giãn ngoài trời</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>removing one’s coat</seg></tuv>
+<tuv xml:lang="VI"><seg>cởi áo khoác</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>repairing fishing equipment</seg></tuv>
+<tuv xml:lang="VI"><seg>sửa chữa dụng cụ câu cá</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>resting on the grass</seg></tuv>
+<tuv xml:lang="VI"><seg>nghỉ ngơi trên bãi cỏ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>restocking the shelves</seg></tuv>
+<tuv xml:lang="VI"><seg>thêm đồ vào giá sách</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>riding bicycles</seg></tuv>
+<tuv xml:lang="VI"><seg>đạp xe</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>rinsing off the counter</seg></tuv>
+<tuv xml:lang="VI"><seg>rửa cái kệ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>rolling up one’s sleeve</seg></tuv>
+<tuv xml:lang="VI"><seg>cuộn tay áo,</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>rowing a boat</seg></tuv>
+<tuv xml:lang="VI"><seg>chèo thuyền</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>running ahead of the man</seg></tuv>
+<tuv xml:lang="VI"><seg>chạy trước mặt người đàn ông</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>running out to board the bus</seg></tuv>
+<tuv xml:lang="VI"><seg>chạy ra để lên xe bus</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sanding the floor</seg></tuv>
+<tuv xml:lang="VI"><seg>ngồi trên sàn nhà</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>selling a pattern</seg></tuv>
+<tuv xml:lang="VI"><seg>bán mẫu, hoa văn</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>serving beverages</seg></tuv>
+<tuv xml:lang="VI"><seg>phục vụ đồ uống</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>setting the table</seg></tuv>
+<tuv xml:lang="VI"><seg>xếp chỗ xếp bàn</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sewing a dress</seg></tuv>
+<tuv xml:lang="VI"><seg>sửa quần áo</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>shaking hands</seg></tuv>
+<tuv xml:lang="VI"><seg>bắt tay</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>shelving merchandise</seg></tuv>
+<tuv xml:lang="VI"><seg>xếp hàng hoá</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>shielding one’s eyes with one’s hand</seg></tuv>
+<tuv xml:lang="VI"><seg>lấy tay che mắt</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>shoveling snow</seg></tuv>
+<tuv xml:lang="VI"><seg>xúc dọn tuyết</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>signing some forms</seg></tuv>
+<tuv xml:lang="VI"><seg>kí theo mẫu</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sipping some water</seg></tuv>
+<tuv xml:lang="VI"><seg>uống từng ngụm nước</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sitting across from each other</seg></tuv>
+<tuv xml:lang="VI"><seg>ngồi gần nhau</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sitting by a plant</seg></tuv>
+<tuv xml:lang="VI"><seg>ngồi cạnh một cái cây</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sitting in a circle</seg></tuv>
+<tuv xml:lang="VI"><seg>ngồi thành vòng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>slicing pieces of cake</seg></tuv>
+<tuv xml:lang="VI"><seg>cắt lát bánh</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sliding down a hill</seg></tuv>
+<tuv xml:lang="VI"><seg>trượt xuống đồi</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>smiling at a friend</seg></tuv>
+<tuv xml:lang="VI"><seg>cười với bạn bè</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sorting envelopes</seg></tuv>
+<tuv xml:lang="VI"><seg>xếp thư</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>speaking into a microphone</seg></tuv>
+<tuv xml:lang="VI"><seg>nói bằng micro</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>stacking books</seg></tuv>
+<tuv xml:lang="VI"><seg>xếp 1 chồng sách</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>stacking up some bricks</seg></tuv>
+<tuv xml:lang="VI"><seg>xếp gạch</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>standing at the sink</seg></tuv>
+<tuv xml:lang="VI"><seg>đứng ở bồn rửa chén</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>standing up straight</seg></tuv>
+<tuv xml:lang="VI"><seg>đứng thẳng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>staring at a screen</seg></tuv>
+<tuv xml:lang="VI"><seg>nhìn chăm chăm vào màn hình</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>staring into the distance</seg></tuv>
+<tuv xml:lang="VI"><seg>nhìn chăm chăm vào khoảng không</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>stepping into the building</seg></tuv>
+<tuv xml:lang="VI"><seg>leo bậc thang lên nhà</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>stretching the hose</seg></tuv>
+<tuv xml:lang="VI"><seg>kéo căng ống (vòi)</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>strolling along the path</seg></tuv>
+<tuv xml:lang="VI"><seg>đi dạo trên đường</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>stuffing some clothes into a bag</seg></tuv>
+<tuv xml:lang="VI"><seg>nhét quần áo vào trong túi</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>sweeping the room</seg></tuv>
+<tuv xml:lang="VI"><seg>quét dọn phòng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>swimming in the lake</seg></tuv>
+<tuv xml:lang="VI"><seg>bơi trong hồ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>taking a dish out of the oven</seg></tuv>
+<tuv xml:lang="VI"><seg>lấy một cái đĩa ra khỏi lò nướng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>taking the nap on the bench</seg></tuv>
+<tuv xml:lang="VI"><seg>có một giấc ngủ ngắn trên ghế dài</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>taking on the telephone</seg></tuv>
+<tuv xml:lang="VI"><seg>nhận cuộc gọi</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>tasting the soup</seg></tuv>
+<tuv xml:lang="VI"><seg>nếm món canh</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>tidying up one’desk</seg></tuv>
+<tuv xml:lang="VI"><seg>dọn bàn của ai đó</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>transporting some building materials</seg></tuv>
+<tuv xml:lang="VI"><seg>vận chuyển một số vật liệu xây dựng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>trying on a sweater</seg></tuv>
+<tuv xml:lang="VI"><seg>thử một cái áo len</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>turning at the corner</seg></tuv>
+<tuv xml:lang="VI"><seg>cua xe</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>turning the pages of a book</seg></tuv>
+<tuv xml:lang="VI"><seg>lật các trang của một cuốn sách</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>tying a scarf around one’s neck</seg></tuv>
+<tuv xml:lang="VI"><seg>buộc một chiếc khăn quanh cổ ai đó</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>tying up the ropes</seg></tuv>
+<tuv xml:lang="VI"><seg>buộc chặt những sợi dây thừng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>typing on the keyboard</seg></tuv>
+<tuv xml:lang="VI"><seg>đánh máy</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>unfolding a map</seg></tuv>
+<tuv xml:lang="VI"><seg>mở bản đồ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>using a bank machine</seg></tuv>
+<tuv xml:lang="VI"><seg>sử dụng máy rút tiền</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>vacuuming the floor</seg></tuv>
+<tuv xml:lang="VI"><seg>hút bụi sàn nhà</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>waiting at the counter</seg></tuv>
+<tuv xml:lang="VI"><seg>chờ ở quầy tính tiền</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>waiting to board the vehicle</seg></tuv>
+<tuv xml:lang="VI"><seg>chờ để bước lên xe</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>walking along the dock</seg></tuv>
+<tuv xml:lang="VI"><seg>đi bộ dọc cảng</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>washing the dish</seg></tuv>
+<tuv xml:lang="VI"><seg>rửa đĩa</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>watching a program on television</seg></tuv>
+<tuv xml:lang="VI"><seg>xem một chương trình ti vi</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>watering a plant</seg></tuv>
+<tuv xml:lang="VI"><seg>tưới cây</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>waving flags from a window</seg></tuv>
+<tuv xml:lang="VI"><seg>những lá cờ bay trong gió từ cửa sổ</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>wearing a helmet</seg></tuv>
+<tuv xml:lang="VI"><seg>đang có một cái mũ bảo hiểm trên đầu</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>weighing one’s luggage</seg></tuv>
+<tuv xml:lang="VI"><seg>cân hành lí của ai đó</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>wheeling some carts out of the building</seg></tuv>
+<tuv xml:lang="VI"><seg>đẩy xe ra khỏi tòa nhà</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>wiping off the kitchen counter</seg></tuv>
+<tuv xml:lang="VI"><seg>lau chùi kệ bếp</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>working on a rooftop</seg></tuv>
+<tuv xml:lang="VI"><seg>làm việc trên mái nhà</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>writing on a piece of paper</seg></tuv>
+<tuv xml:lang="VI"><seg>viết lên trên một mảnh giấy</seg></tuv>
+</tu>
+
+<tu creationdate="20189281T84018Z" creationid="HungViet">
+<prop type="Txt::Note"></prop>
+<tuv xml:lang="EN-US"><seg>writing some directions</seg></tuv>
+<tuv xml:lang="VI"><seg>viết một số hướng dẫn</seg></tuv>
+</tu>
+
+</body>
+</tmx>
