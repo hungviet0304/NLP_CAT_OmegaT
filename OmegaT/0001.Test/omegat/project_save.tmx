@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Situations like roundabouts are hard, because they require reasoning about how others will respond to your actions, how you will then respond to theirs, what they will do next, and so on," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050916Z" creationid="hungv" creationdate="20181013T050916Z">
+        <seg>Barbu nói: "Các tình huống như bùng binh rất khó, bởi vì họ cần lý luận về cách người khác phản ứng với hành động của bạn, sau đó bạn sẽ phản ứng như thế nào, họ sẽ làm gì tiếp theo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"The CDC will make the final determination on diagnoses and numbers are subject to change," the statement said.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161514Z" creationid="hungv" creationdate="20181012T161514Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050218Z" creationid="hungv" creationdate="20181013T050218Z">
         <seg>"Ý tưởng đằng sau việc này là thêm vào không gian tìm kiếm một mô hình học máy mà biết từ kinh nghiệm quá khứ làm thế nào để lập kế hoạch hiệu quả hơn."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The plans the robots make take into account what the other cars are going to do, as any human would," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051002Z" creationid="hungv" creationdate="20181013T051002Z">
+        <seg>"Kế hoạch các robot thực hiện đưa vào tài khoản những chiếc xe khác phải làm gì, như bất kỳ người nào," Barbu nói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050205Z" creationid="hungv" creationdate="20181013T050205Z">
         <seg>"Khi con người tương tác với thế giới, chúng ta thấy một vật thể chúng ta đã tương tác trước đây, hoặc ở một nơi nào đó chúng ta đã từng đến trước, vì vậy chúng ta biết chúng ta sẽ hành động như thế nào", Yen-Ling Kuo, một Tiến sĩ tại CSAIL và tác giả đầu tiên trên bài báo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"You eventually discover your fi&lt;t0/&gt;rst action was wrong, because later on it will lead to a likely accident.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050939Z" creationid="hungv" creationdate="20181013T050939Z">
+        <seg>"Bạn cuối cùng đã khám phá ra hành động đầu tiên là sai, bởi vì sau này nó sẽ dẫn đến một tai nạn có khả năng xảy ra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A robot agent must successfully navigate around the other agents, avoid collisions, and reach a goal location, such as an exit on a roundabout.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050905Z" creationid="hungv" creationdate="20181013T050839Z">
+        <seg>Robot phải điều hướng thành công xung quanh các đại lý khác, tránh va chạm và đạt được vị trí mục tiêu, chẳng hạn như lối ra trên bùng binh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A robot that needs to navigate a room to reach a door, for instance, will create a step-by-step search tree of possible movements and then execute the best path to the door, considering various constraints.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044712Z" creationid="hungv" creationdate="20181013T044712Z">
@@ -330,6 +362,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
         <seg>Ngày 30 tháng 9,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;, 38 trường hợp của AFM đã được xác nhận trong 16 bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blind allies on either side of the channel can get robots stuck.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050732Z" creationid="hungv" creationdate="20181013T050726Z">
+        <seg>Các điểm mù ở hai bên của kênh có thể khiến robot bị kẹt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the researchers demonstrated the model in a simulation known as a "bug trap," where a 2-D robot must escape from an inner chamber through a central narrow channel and reach a location in a surrounding larger room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050718Z" creationid="hungv" creationdate="20181013T050718Z">
+        <seg>Ví dụ, các nhà nghiên cứu đã chứng minh mô hình trong một mô phỏng được gọi là "bẫy lỗi", trong đó một robot 2-D phải thoát ra khỏi buồng bên trong thông qua một kênh hẹp trung tâm và đến một vị trí trong một căn phòng lớn hơn xung quanh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For years, astronomers have been hunting all over the sky for an example of this strange phenomenon, known as an "orphan afterglow." At last, now they've finally found one.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132740Z" creationid="hungv" creationdate="20181010T132740Z">
@@ -482,6 +530,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133156Z" creationid="hungv" creationdate="20181010T133156Z">
         <seg>Do các GRB được chỉ theo các hướng ngẫu nhiên liên quan đến chúng ta, phần chúng ta nhìn thấy từ Trái đất phụ thuộc vào độ hẹp hoặc rộng của các tia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Going through intersections or roundabouts is one of the most challenging scenarios facing autonomous cars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051006Z" creationid="hungv" creationdate="20181013T051006Z">
+        <seg>Đi qua nút giao thông hoặc đảo là một trong các tình huống khó khăn nhất đối mặt với xe ô tô tự trị.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In both simulations, the researchers' model more quickly plotted far shorter and consistent paths than a traditional planner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050815Z" creationid="hungv" creationdate="20181013T050815Z">
+        <seg>Trong cả hai mô phỏng, mô hình của các nhà nghiên cứu nhanh chóng vạch ra các đường đi ngắn hơn và nhất quán hơn so với một kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In one other experiment, the researchers trained and tested the model in navigating environments with multiple moving agents, which is a useful test for autonomous cars, especially navigating intersections and roundabouts.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050825Z" creationid="hungv" creationdate="20181013T050825Z">
+        <seg>Trong một thử nghiệm khác, các nhà nghiên cứu đào tạo và kiểm tra các mô hình trong điều hướng môi trường với các đại lý di chuyển nhiều, đó là một thử nghiệm hữu ích cho xe ô tô tự trị, đặc biệt là điều hướng các nút giao thông và đảo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In previous years, cases of AFM in Colorado and elsewhere have been positive for a different enterovirus, EV-D68.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165521Z" creationid="hungv" creationdate="20181012T165521Z">
@@ -638,10 +710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the simulation, several agents are circling an obstacle.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050831Z" creationid="hungv" creationdate="20181013T050831Z">
+        <seg>Trong mô phỏng, một số tác nhân đang vòng quanh một chướng ngại vật.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In their paper, "Deep sequential models for sampling-based planning," the researchers demonstrate the advantages of their model in two settings: navigating through challenging rooms with traps and narrow passages, and navigating areas while avoiding collisions with other agents.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044943Z" creationid="hungv" creationdate="20181013T044943Z">
         <seg>Trong bài báo của họ, "Deep sequential models for sampling-based planning,", các nhà nghiên cứu chứng minh lợi thế của mô hình của họ trong hai thiết lập: điều hướng qua các phòng thử thách với bẫy và đường hẹp, và điều hướng khu vực trong khi tránh va chạm với các tác nhân khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this simulation, the robot was trained on a few examples of how to escape different bug traps.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050738Z" creationid="hungv" creationdate="20181013T050738Z">
+        <seg>Trong mô phỏng này, robot được đào tạo về một vài ví dụ về cách thoát khỏi các bẫy lỗi khác nhau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +786,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T142118Z" creationid="hungv" creationdate="20181010T142118Z">
         <seg>Gần đây, các nhà nghiên cứu đã áp dụng làm việc này với robot với thao tác đối mặt với những thách thức tương tự như vậy khó khăn khi tiếp cận các đối tượng trong bao giờ thay đổi môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moreover, they only needed to train the model on a few examples of roundabouts with only a few cars.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050958Z" creationid="hungv" creationdate="20181013T050958Z">
+        <seg>Hơn nữa, họ chỉ cần đào tạo mô hình trên một vài ví dụ về các bùng binh với chỉ một vài chiếc xe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +858,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044637Z" creationid="hungv" creationdate="20181013T044637Z">
         <seg>Các thuật toán lập kế hoạch chuyển động phổ biến sẽ tạo ra một quyết định có thể có cho các nhánh cây cho đến khi nó tìm ra các đường dẫn tốt để điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results in the paper are based on the chances that a path is found after some time, total length of the path that reached a given goal, and how consistent the paths were.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050751Z" creationid="hungv" creationdate="20181013T050751Z">
+        <seg>Các kết quả trong bài báo dựa trên cơ hội mà một con đường được tìm thấy sau một thời gian, tổng chiều dài của con đường đạt tới một mục tiêu nhất định, và sự nhất quán của các con đường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results indicate that the researchers' model can capture enough information about the future behavior of the other agents (cars) to cut off the process early, while still making good decisions in navigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050950Z" creationid="hungv" creationdate="20181013T050950Z">
+        <seg>Kết quả cho thấy mô hình của các nhà nghiên cứu có thể nắm bắt đủ thông tin về hành vi tương lai của các đại lý khác (xe hơi) để cắt bỏ quá trình sớm, trong khi vẫn đưa ra quyết định tốt trong việc điều hướng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +1058,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050620Z" creationid="hungv" creationdate="20181013T050620Z">
         <seg>Các mô hình kết hợp các hành vi thăm dò từ trước đó phương pháp này thông tin học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neural network helps the robot find the exit to the trap, identify the dead ends, and gives the robot a sense of its surroundings so it can quickly find the goal.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050747Z" creationid="hungv" creationdate="20181013T050747Z">
+        <seg>Mạng nơ-ron giúp robot tìm lối thoát ra khỏi bẫy, xác định các đầu chết, và cung cấp cho robot cảm giác về môi trường xung quanh để có thể nhanh chóng tìm thấy mục tiêu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,10 +1302,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes planning more efficient.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050954Z" creationid="hungv" creationdate="20181013T050954Z">
+        <seg>Điều này làm cho việc lập kế hoạch hiệu quả hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T135755Z" creationid="hungv" creationdate="20181010T135755Z">
         <seg>Điều này có nghĩa rằng ngay sau khi một phân đoạn được dịch, dịch tương tự được chèn tự động vào tất cả các phân đoạn hệt nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This problem gets exponentially worse the more cars you have to contend with."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050946Z" creationid="hungv" creationdate="20181013T050946Z">
+        <seg>Vấn đề này trở nên tồi tệ hơn theo cấp số nhân khi bạn phải đối mặt với nhiều xe hơn. "</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When faced with a new trap, it recognizes features of the trap, escapes, and continues to search for its goal in the larger room.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050742Z" creationid="hungv" creationdate="20181013T050742Z">
+        <seg>Khi đối mặt với một cái bẫy mới, nó nhận ra các đặc điểm của cái bẫy, trốn thoát, và tiếp tục tìm kiếm mục tiêu của nó trong căn phòng lớn hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When moving through a crowd to reach some end goal, humans can usually navigate the space safely without thinking too much.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044323Z" creationid="hungv" creationdate="20181013T044323Z">
@@ -1282,6 +1426,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132819Z" creationid="hungv" creationdate="20181010T132819Z">
         <seg>Khi những máy bay phản lực phải chĩa vào trái đất, nhà thiên văn học thấy các outpourings tập trung năng lượng như các nhấp nháy dữ dội của tia gamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with multiple agents</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050819Z" creationid="hungv" creationdate="20181013T050819Z">
+        <seg>Làm việc với nhiều đại lý</seg>
       </tuv>
     </tu>
     <tu>
