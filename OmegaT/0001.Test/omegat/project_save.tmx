@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carpeted in forest, Bhutan absorbs more CO2 than it emits.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T054734Z" creationid="hungv" creationdate="20181013T054734Z">
+        <seg>Trải thảm trong rừng, Bhutan hấp thu nhiều CO2 hơn phát thải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>City University of Hong Kong</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T052040Z" creationid="hungv" creationdate="20181013T052040Z">
@@ -2261,5 +2269,16 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">500_communicate.docx</prop>
+      <prop type="prev"></prop>
+      <prop type="next">Hey man.</prop>
+      <tuv lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T054757Z" creationid="hungv" creationdate="20181013T054757Z">
+        <seg>Tiếng Anh</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
