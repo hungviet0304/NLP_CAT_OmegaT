@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(It's a variant of a widely used motion-planning algorithm known as Rapidly-exploring Random Trees, or RRT.) The planner creates a search tree while the neural network mirrors each step and makes probabilistic predictions about where the robot should go next.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050648Z" creationid="hungv" creationdate="20181013T050648Z">
+        <seg>(Đó là một biến thể của một thuật toán chuyển động có kế hoạch sử dụng rộng rãi được gọi là nhanh chóng khám phá ngẫu nhiên hay cây gỗ, RRT.) Công cụ hoạch định tạo ra một cây tìm kiếm trong khi mạng nơ-ron gương mỗi bước và làm cho các dự đoán xác suất về robot nên đi đâu tiếp theo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f13&gt;&lt;f15&gt;require the mediation of Open Office Writer.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181008T182438Z" creationid="hungv" creationdate="20181008T182438Z">
@@ -566,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the network doesn't have high confidence, it lets the robot explore the environment instead, like a traditional planner.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050701Z" creationid="hungv" creationdate="20181013T050701Z">
+        <seg>Nếu mạng không có độ tin cậy cao, nó cho phép robot khám phá môi trường thay vào đó, giống như một người lập kế hoạch truyền thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illinois, Colorado, Washington report cases of polio-like illness in children</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161402Z" creationid="hungv" creationdate="20181012T161402Z">
@@ -602,6 +618,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165521Z" creationid="hungv" creationdate="20181012T165521Z">
         <seg>Trong những năm trước, các trường hợp AFM ở Colorado và các nơi khác đã dương tính với một enterovirus khác, EV-D68.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In short, the model "learns that when you're stuck in an environment, and you see a doorway, it's probably a good idea to go through the door to get out," Barbu says.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050616Z" creationid="hungv" creationdate="20181013T050616Z">
+        <seg>Tóm lại, mô hình "biết rằng khi bạn bị mắc kẹt trong một môi trường, và bạn nhìn thấy một cánh cửa, có lẽ là một ý tưởng tốt để đi qua cánh cửa để thoát ra ngoài", Barbu nói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +942,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The model combines the exploration behavior from earlier methods with this learned information.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050620Z" creationid="hungv" creationdate="20181013T050620Z">
+        <seg>Các mô hình kết hợp các hành vi thăm dò từ trước đó phương pháp này thông tin học.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The neural network learns what makes these examples succeed by interpreting the environment around the robot, such as the shape of the walls, the actions of other &lt;t0/&gt;agents, and features of the goals.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050607Z" creationid="hungv" creationdate="20181013T050607Z">
+        <seg>Mạng nơ-ron học những gì làm cho những ví dụ thành công bằng cách giải thích môi trường xung quanh các robot, chẳng hạn như hình dạng của các bức tường, những hành động khác&lt;t0&gt;&lt;/t0&gt;đại lý, và các tính năng của các mục tiêu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The paper, whose lead author is Casey Law, University of California at Berkeley, is being published in the &lt;t0/&gt;Astrophysical Journal Letters&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133109Z" creationid="hungv" creationdate="20181010T133109Z">
@@ -1002,6 +1042,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165341Z" creationid="hungv" creationdate="20181012T165315Z">
         <seg>Các loại virus được tìm thấy trong 12 trường hợp ở Colorado, enterovirus, thường tăng trong mùa hè và mùa thu và phổ biến, tỉnh bang của y tế cho biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The underlying planner, called RRT*, was developed by MIT professors Sertac Karaman and Emilio Frazzoli.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050640Z" creationid="hungv" creationdate="20181013T050640Z">
+        <seg>Công cụ hoạch định tiềm ẩn, được gọi là RRT *, được phát triển bởi giáo sư MIT Sertac Karaman và Emilio Frazzoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1266,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044323Z" creationid="hungv" creationdate="20181013T044323Z">
         <seg>Khi di chuyển qua đám đông để đạt được mục tiêu cuối cùng, con người thường có thể điều hướng không gian một cách an toàn mà không suy nghĩ quá nhiều.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the network makes a prediction with high confidence, based on learned information, it guides the robot on a new path.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T050654Z" creationid="hungv" creationdate="20181013T050654Z">
+        <seg>Khi mạng đưa ra dự đoán có độ tin cậy cao, dựa trên thông tin đã học, nó sẽ hướng dẫn rô bốt trên một con đường mới.</seg>
       </tuv>
     </tu>
     <tu>
