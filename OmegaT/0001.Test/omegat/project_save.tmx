@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Just like when playing chess, these decisions branch out until [the robots] find a good way to navigate.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044729Z" creationid="hungv" creationdate="20181013T044729Z">
+        <seg>"Cũng giống như khi chơi cờ vua, những quyết định này phân nhánh cho đến khi [robot] tìm ra cách tốt để điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Looking at the radio source in other old data shows that it lived in a relatively nearby galaxy, and back in the 1990s, it was as luminous as the biggest explosions known, gamma-ray bursts."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133130Z" creationid="hungv" creationdate="20181010T133130Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165208Z" creationid="hungv" creationdate="20181012T165208Z">
         <seg>"Bộ y tế nhà nước đã theo dõi tình trạng này chặt chẽ kể từ đầu mùa xuân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The thousandth time they go through the same crowd is as complicated as the first time.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044819Z" creationid="hungv" creationdate="20181013T044819Z">
+        <seg>"Nho giờ họ đi qua đám đông cùng là như phức tạp như lần đầu tiên.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A paper describing the model was presented at this week's IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044629Z" creationid="hungv" creationdate="20181013T044629Z">
+        <seg>Một bài báo mô tả các mô hình đã được trình bày tại tuần này của IEEE/RSJ nghị quốc tế về robot thông minh và hệ thống (IROS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A robot that needs to navigate a room to reach a door, for instance, will create a step-by-step search tree of possible movements and then execute the best path to the door, considering various constraints.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044712Z" creationid="hungv" creationdate="20181013T044712Z">
+        <seg>Một robot cần phải điều hướng trong một phòng để đến cửa, ví dụ, sẽ tạo ra một cây tìm kiếm từng bước tốt các phong trào và sau đó thực hiện con đường tốt nhất để đến cửa, xem xét những hạn chế khác nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A team of astronomers has detected the sonic boom from an immensely powerful cosmic explosion, even though the explosion itself was totally unseen.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132735Z" creationid="hungv" creationdate="20181010T132735Z">
@@ -266,6 +298,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133120Z" creationid="hungv" creationdate="20181010T133120Z">
         <seg>Nhưng ở đây chúng tôi đã thấy sự bùng nổ, và được nêu ra trước vụ nổ dường như hoàn toàn mất tích khi nhìn từ trái đất."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But unlike chess players, [the robots] explore what the future looks like without learning much about their environment and other agents," says co-author Andrei Barbu, a researcher at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds, and Machines (CBMM) within MIT's McGovern Institute.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044755Z" creationid="hungv" creationdate="20181013T044755Z">
+        <seg>Tuy nhiên, không giống như các game thủ cờ vua, [robot] khám phá tương lai của mình như thế nào mà không cần tìm hiểu nhiều về môi trường và các tác nhân khác của họ ”, tác giả Andrei Barbu, một nhà nghiên cứu tại Phòng thí nghiệm trí tuệ và nhân tạo của MIT (CSAIL) và Trung tâm cho biết. Bộ não, tâm trí và máy móc (CBMM) trong Học viện McGovern của MIT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One drawback, however, is these algorithms rarely learn: Robots can't leverage information about how they or other agents acted previously in similar environments.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044724Z" creationid="hungv" creationdate="20181013T044724Z">
+        <seg>Một hạn chế, tuy nhiên, là những thuật toán hiếm khi tìm hiểu: Robot không thể tận dụng thông tin về cách họ hoặc các tác nhân khác đã hành động trước đó trong môi trường tương tự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One hundred forty-nine cases were reported in 39 states in 2016 and 22 cases in 17 states in 2015.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165723Z" creationid="hungv" creationdate="20181012T165723Z">
@@ -634,6 +682,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132221Z" creationid="hungv" creationdate="20181010T132221Z">
         <seg>Bộ nhớ thay đổi pha là một thiết bị bộ nhớ cỡ nano được chế tạo từ các hợp chất Ge, Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popular motion-planning algorithms will create a tree of possible decisions that branches out until it finds good paths for navigation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044637Z" creationid="hungv" creationdate="20181013T044637Z">
+        <seg>Các thuật toán lập kế hoạch chuyển động phổ biến sẽ tạo ra một quyết định có thể có cho các nhánh cây cho đến khi nó tìm ra các đường dẫn tốt để điều hướng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their novel motion-planning model lets robots determine how to reach a goal by exploring the environment, observing other agents, and exploiting what they've learned before in similar situations.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044612Z" creationid="hungv" creationdate="20181013T044612Z">
+        <seg>Mô hình lập kế hoạch chuyển động mới của họ cho phép robot xác định cách đạt được mục tiêu bằng cách khám phá môi trường, quan sát các tác nhân khác và khai thác những gì họ đã học trước đây trong các tình huống tương tự.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are dramatic and dynamic explosions and flares happening out there, but we can only find them if we can constantly patrol the sky to see what's changing."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133350Z" creationid="hungv" creationdate="20181010T133350Z">
@@ -930,6 +994,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132113Z" creationid="hungv" creationdate="20181010T132113Z">
         <seg>Họ báo cáo về những phát hiện tại của họ trong&lt;f1&gt;Tạp chí áp dụng vật lý&lt;/f1&gt;&lt;f2&gt;, từ AIP Publishing.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're always exploring, rarely observing, and never using what's happened in the past."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044839Z" creationid="hungv" creationdate="20181013T044839Z">
+        <seg>Họ luôn khám phá, hiếm khi quan sát và không bao giờ sử dụng những gì đã xảy ra trong quá khứ. "</seg>
       </tuv>
     </tu>
     <tu>
