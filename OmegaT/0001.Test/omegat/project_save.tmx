@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051526Z" creationid="hungv" creationdate="20181013T051526Z">
+        <seg>Nhấp vào bất kỳ tệp nào sẽ mở nó để dịch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T141106Z" creationid="hungv" creationdate="20181010T141106Z">
@@ -750,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051602Z" creationid="hungv" creationdate="20181013T051602Z">
+        <seg>Nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also does not include the cases in Minnesota or Illinois, as they are not confirmed.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165638Z" creationid="hungv" creationdate="20181012T165638Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051556Z" creationid="hungv" creationdate="20181013T051556Z">
+        <seg>Lưu ý: tên tệp (trong cột đầu tiên) có thể được sắp xếp theo thứ tự bảng chữ cái bằng cách nhấp vào tiêu đề.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Friday, &lt;t0/&gt;the Minnesota Department of Health said&lt;t1/&gt; it was investigating six cases of AFM in children over the past few weeks but did not identify what virus or other cause may have led to the illnesses.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165536Z" creationid="hungv" creationdate="20181012T165536Z">
@@ -890,6 +914,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050950Z" creationid="hungv" creationdate="20181013T050950Z">
         <seg>Kết quả cho thấy mô hình của các nhà nghiên cứu có thể nắm bắt đủ thông tin về hành vi tương lai của các đại lý khác (xe hơi) để cắt bỏ quá trình sớm, trong khi vẫn đưa ra quyết định tốt trong việc điều hướng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051627Z" creationid="hungv" creationdate="20181013T051627Z">
+        <seg>Nhấp chuột phải vào tên tệp sẽ mở cửa sổ bật lên cho phép mở tệp nguồn và (nếu nó</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1034,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132201Z" creationid="hungv" creationdate="20181010T132201Z">
         <seg>Nhóm nghiên cứu của IBM đã thu hút ba mức độ cảm hứng khác nhau từ não bộ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files Window displays the following</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051429Z" creationid="hungv" creationdate="20181013T051429Z">
+        <seg>Cửa sổ Project Files hiển thị như sau</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The user interface</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051617Z" creationid="hungv" creationdate="20181013T051617Z">
+        <seg>Giao diện người dùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their designs draw on concepts from the human brain and significantly outperform conventional computers in comparative studies.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051111Z" creationid="hungv" creationdate="20181010T132053Z">
@@ -1242,6 +1290,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T164927Z" creationid="hungv" creationdate="20181012T164927Z">
         <seg>Không có cách điều trị nào ngoài việc kiểm soát các triệu chứng của từng bệnh nhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are the files present in the /</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051457Z" creationid="hungv" creationdate="20181013T051457Z">
+        <seg>Đây là những tệp có trong /</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This number is displayed in</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051517Z" creationid="hungv" creationdate="20181013T051517Z">
+        <seg>Số này được hiển thị trong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This problem gets exponentially worse the more cars you have to contend with."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050946Z" creationid="hungv" creationdate="20181013T050946Z">
@@ -1414,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051529Z" creationid="hungv" creationdate="20181013T051529Z">
+        <seg>Nhập bất kỳ văn bản nào sẽ mở một trường Lọc nơi có thể nhập các phần của tên tệp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike the stovepipe components in conventional computers, the authors propose that brain-inspired computers could have coexisting processing and memory units.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132137Z" creationid="hungv" creationdate="20181010T132137Z">
@@ -1426,6 +1498,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165739Z" creationid="hungv" creationdate="20181012T165739Z">
         <seg>Cập Nhật 1406 GMT (2206 HKT) tháng 11, năm 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;t0/&gt;Ctrl+L&lt;t1/&gt; to open and &lt;t2/&gt;Esc &lt;t3/&gt;to close it.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051409Z" creationid="hungv" creationdate="20181013T051409Z">
+        <seg>Sử dụng &lt;t0/&gt;Ctrl + L&lt;t1/&gt; mở và &lt;t2/&gt;Esc &lt;t3/&gt;để đóng nó lại.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051552Z" creationid="hungv" creationdate="20181013T051537Z">
+        <seg>bạn có thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140313Z" creationid="hungv" creationdate="20181010T140313Z">
@@ -1502,10 +1590,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>also possible to change the position of a filename, by clicking on it and pressing &lt;t0/&gt;Move ...</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051605Z" creationid="hungv" creationdate="20181013T051605Z">
+        <seg>cũng có thể thay đổi vị trí của tên tệp, bằng cách nhấp vào nó và nhấn &lt;t0/&gt;Di chuyển ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051521Z" creationid="hungv" creationdate="20181013T051521Z">
+        <seg>dấu ngoặc vuông, bên cạnh tiêu đề "Tệp dự án"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>buttons.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051614Z" creationid="hungv" creationdate="20181013T051614Z">
+        <seg>các nút.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>displayed automatically when &lt;t0/&gt;OmegaT&lt;t1/&gt; loads a project.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T140514Z" creationid="hungv" creationdate="20181010T140514Z">
         <seg>hiển thị tự động khi &lt;t0/&gt;OmegaT&lt;t1/&gt; tải một dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>each file contains</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051645Z" creationid="hungv" creationdate="20181013T051645Z">
+        <seg>trong mỗi tiêp chứa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exists) the target file.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051631Z" creationid="hungv" creationdate="20181013T051631Z">
+        <seg>tồn tại) tệp đích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>information:</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051443Z" creationid="hungv" creationdate="20181013T051443Z">
+        <seg>thông tin</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,10 +1662,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>select a file with &lt;t0/&gt;Up &lt;t1/&gt;and &lt;t2/&gt;Down &lt;t3/&gt;keys, and&lt;t4/&gt; open it for translation by pressing &lt;t5/&gt;Enter</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051541Z" creationid="hungv" creationdate="20181013T051541Z">
+        <seg>chọn một tệp với &lt;t0/&gt;Lên &lt;t1/&gt;và &lt;t2/&gt;Xuống &lt;t3/&gt;phím và&lt;t4/&gt; mở nó để dịch bằng cách nhấn &lt;t5/&gt;Đi vào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>source folder in a format that &lt;t0/&gt;OmegaT&lt;t1/&gt; &lt;t2/&gt;is able to&lt;t3/&gt; recognize.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051514Z" creationid="hungv" creationdate="20181013T051514Z">
+        <seg>thư mục nguồn ở định dạng mà &lt;t0/&gt;OmegaT&lt;t1/&gt;&lt;t2/&gt;có khả năng để&lt;t3/&gt; nhận biết.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051654Z" creationid="hungv" creationdate="20181013T051654Z">
+        <seg>số lượng phân đoạn duy nhất đã được dịch được hiển thị ở dưới cùng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>turning at the a nanoscale corner&lt;s0/&gt;Force&lt;s1/&gt;tying a scarf around one’s neckPhase change memory is memory device built from compounds of Ge,&lt;s2/&gt;foreign&lt;s3/&gt;Te and Sb sandwiched between electrodes.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181009T125136Z" creationid="hungv" creationdate="20181009T125136Z">
         <seg>chuyển các góc Nano&lt;s0&gt;&lt;/s0&gt;lực&lt;s1&gt;&lt;/s1&gt;buộc một chiếc khăn quanh của một neckPhase thay đổi bộ nhớ là bộ nhớ thiết bị được chế tạo từ hợp chất Ge,&lt;s2&gt;&lt;/s2&gt;ngoại&lt;s3&gt;&lt;/s3&gt;Te và Sb kẹp giữa các điện cực.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• File entries include their names, file filter types, their encoding and the number of segments</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051635Z" creationid="hungv" creationdate="20181013T051635Z">
+        <seg>• Mục nhập tệp bao gồm tên, loại bộ lọc tệp, mã hóa của chúng và số lượng phân đoạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051524Z" creationid="hungv" creationdate="20181013T051524Z">
+        <seg>• danh sách tất cả các tệp có thể dịch trong dự án.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the total number of segments, the number of unique segments in the whole project, and</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051650Z" creationid="hungv" creationdate="20181013T051650Z">
+        <seg>• tổng số phân đoạn, số lượng phân đoạn duy nhất trong toàn bộ dự án và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>• the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T051451Z" creationid="hungv" creationdate="20181013T051451Z">
+        <seg>• tổng số tệp có thể dịch trong dự án.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
