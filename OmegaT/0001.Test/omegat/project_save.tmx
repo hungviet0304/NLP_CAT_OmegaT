@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Both the materials and the &lt;t0/&gt;mutli&lt;t1/&gt;-leg design greatly improve the robot's hydrophobic property.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052556Z" creationid="hungv" creationdate="20181013T052556Z">
+        <seg>"Cả hai vật liệu và thiết kế &lt;t0/&gt;đa chân&lt;t1/&gt; cải thiện đáng kể tính kỵ nước của robot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"By comparing the number of 'orphaned' afterglows to those with GRBs preceding them," says Law, "we can measure that fraction much more precisely than before."</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133203Z" creationid="hungv" creationdate="20181010T133203Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Most animals have a leg-length to leg-gap ratio of 2:1 to 1:1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052430Z" creationid="hungv" creationdate="20181013T052430Z">
+        <seg>"Hầu hết các loài động vật có tỷ lệ chân-khoảng cách đến khoảng cách giữa 2: 1 đến 1: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Not everybody behaves the same way, but people are very stereotypical.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051031Z" creationid="hungv" creationdate="20181013T051031Z">
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051002Z" creationid="hungv" creationdate="20181013T051002Z">
         <seg>"Kế hoạch các robot thực hiện đưa vào tài khoản những chiếc xe khác phải làm gì, như bất kỳ người nào," Barbu nói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"The rugged surface and changing texture of different tissues inside the human body make transportation challenging.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052610Z" creationid="hungv" creationdate="20181013T052610Z">
+        <seg>"Bề mặt gồ ghề và thay đổi kết cấu của các mô khác nhau bên trong cơ thể con người khiến cho việc vận chuyển trở nên khó khăn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +430,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And from there, they got their inspiration.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052426Z" creationid="hungv" creationdate="20181013T052426Z">
+        <seg>Và từ đó, họ có cảm hứng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Another was that it was found where astronomers expected to find GRBs: in a relatively small galaxy, of a type known as "dwarf" galaxies.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T133144Z" creationid="hungv" creationdate="20181010T133144Z">
         <seg>Một là rằng nó đã được tìm thấy nơi nhà thiên văn học dự kiến sẽ tìm thấy GRBs: trong một Thiên Hà tương đối nhỏ, trong một loại được biết đến như "lùn" Thiên Hà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apart from the multi-leg design, the materials also matter.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052505Z" creationid="hungv" creationdate="20181013T052448Z">
+        <seg>Ngoài thiết kế đa chân, các chất liệu cũng có vấn đề.</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +466,22 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165601Z" creationid="hungv" creationdate="20181012T165601Z">
         <seg>Ngày 30 tháng 9,&lt;t0&gt;&lt;/t0&gt;theo CDC&lt;t1&gt;&lt;/t1&gt;, 38 trường hợp của AFM đã được xác nhận trong 16 bang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Besides, the rubbery piece is soft and can be cut easily to form robots of various shapes and sizes for different applications," says Professor Wang &lt;t2/&gt;Zuankai&lt;t3/&gt; at &lt;t4/&gt;CityU's&lt;t5/&gt; Department of Mechanical Engineering (MNE) who conceived this research idea and initiated the collaboration among the researchers.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052600Z" creationid="hungv" creationdate="20181013T052600Z">
+        <seg>Bên cạnh đó, phần cao su mềm mại và có thể được cắt dễ dàng để tạo thành các robot có hình dạng và kích cỡ khác nhau cho các ứng dụng khác nhau, "Giáo sư Wang nói &lt;t2/&gt;Zuankai&lt;t3/&gt; tại &lt;t4/&gt;CityU's&lt;t5/&gt; Sở Cơ khí (MNE) đã hình thành ý tưởng nghiên cứu này và bắt đầu sự hợp tác giữa các nhà nghiên cứu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bio-inspired robot design</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052357Z" creationid="hungv" creationdate="20181013T052357Z">
+        <seg>Thiết kế robot lấy cảm hứng từ sinh học</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +594,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T141106Z" creationid="hungv" creationdate="20181010T141106Z">
         <seg>ư`Configuration Folder menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlled by a magnetic manipulator used in experiments, the robot can move in both a flap propulsion pattern and an inverted pendulum pattern, meaning that it can use its front feet to flap forward as well as swinging the body by standing on the left and right feet alternately to advance respectively.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052607Z" creationid="hungv" creationdate="20181013T052607Z">
+        <seg>Được điều khiển bởi một bộ điều khiển từ được sử dụng trong các thí nghiệm, robot có thể di chuyển trong cả mô hình đẩy và mô hình con lắc ngược, có nghĩa là nó có thể sử dụng chân trước để đẩy về phía trước cũng như vung cơ thể bằng cách đứng trên chân trái và phải luân phiên để tăng tương ứng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Laboratory tests showed that the multi-legged robot has 40 times less friction than a limbless robot in both wet and dry environment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052445Z" creationid="hungv" creationdate="20181013T052445Z">
+        <seg>Phòng thí nghiệm thử nghiệm cho thấy rằng các robot đa chân có 40 lần ít ma sát hơn một robot limbless trong môi trường ẩm ướt và khô.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last year, they ran an unsupervised machine learning algorithm on a conventional computer and a prototype computational memory platform based on phase change memory devices.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T132253Z" creationid="hungv" creationdate="20181010T132253Z">
@@ -926,10 +998,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moreover, the robot's pointed legs have greatly reduced their contact area and hence the friction with the surface.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052443Z" creationid="hungv" creationdate="20181013T052443Z">
+        <seg>Hơn nữa, chân nhọn của robot đã giảm đáng kể diện tích tiếp xúc của chúng và do đó ma sát với bề mặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moreover, they only needed to train the model on a few examples of roundabouts with only a few cars.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050958Z" creationid="hungv" creationdate="20181013T050958Z">
         <seg>Hơn nữa, họ chỉ cần đào tạo mô hình trên một vài ví dụ về các bùng binh với chỉ một vài chiếc xe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving at ease in harsh environment</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052603Z" creationid="hungv" creationdate="20181013T052603Z">
+        <seg>Di chuyển dễ dàng trong môi trường khắc nghiệt</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1082,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165723Z" creationid="hungv" creationdate="20181012T165723Z">
         <seg>149 trường hợp đã được báo cáo tại Kỳ 39 năm 2016 và 22 trường hợp trong kỳ 17 năm 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our multi-legged robot shows an impressive performance in various terrains and hence open wide applications for drug delivery inside the body," says Professor Wang.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052612Z" creationid="hungv" creationdate="20181013T052612Z">
+        <seg>Con robot đa chân của chúng tôi cho thấy một hiệu suất ấn tượng ở nhiều địa hình khác nhau và do đó mở các ứng dụng rộng rãi cho việc phân phối thuốc trong cơ thể, "Giáo sư Wang nói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1234,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161622Z" creationid="hungv" creationdate="20181012T161622Z">
         <seg>Sáu trường hợp hiếm 'bại liệt giống như bệnh được chẩn đoán ở trẻ em ở Minnesota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So we decided to create our robot using 1:1 proportion," explains Dr Shen &lt;t0/&gt;Yajing&lt;t1/&gt;, Assistant Professor at &lt;t2/&gt;CityU's&lt;t3/&gt; Department of Biomedical Engineering (BME), who led the research.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052434Z" creationid="hungv" creationdate="20181013T052434Z">
+        <seg>Vì vậy, chúng tôi quyết định tạo ra rô bốt của chúng tôi bằng tỷ lệ 1: 1, "Tiến sĩ Shen giải thích &lt;t0/&gt;Yajing&lt;t1/&gt;, Trợ lý giáo sư tại &lt;t2/&gt;CityU's&lt;t3/&gt; Bộ môn Kỹ thuật Y sinh (BME), người đứng đầu nghiên cứu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1430,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The research findings have been published in the latest issue of the scientific journal &lt;t0/&gt;Nature Communications&lt;t1/&gt;, titled "A Bio-inspired Multilegged Soft Millirobot that Functions in Both Dry and Wet Conditions."</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052354Z" creationid="hungv" creationdate="20181013T052354Z">
+        <seg>Các kết quả nghiên cứu đã được công bố trên tạp chí khoa học mới nhất&lt;t0/&gt;Nature Communications&lt;t1/&gt;, có tiêu đề A Bio-inspired Multilegged Soft Millirobot that Functions in Both Dry and Wet Conditions."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The research team further proved that when facing an obstacle ten times higher than its leg length, the robot, with its deformable soft legs, is capable to &lt;t0/&gt;lift up&lt;t1/&gt; one end of its body to form an angle of up to 90-degree and cross the obstacle easily.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052615Z" creationid="hungv" creationdate="20181013T052615Z">
+        <seg>Nhóm nghiên cứu tiếp tục chứng minh rằng khi đối mặt với một chướng ngại vật cao gấp mười lần chiều dài chân của nó, robot, với đôi chân mềm biến dạng của nó, có khả năng &lt;t0/&gt;nâng lên&lt;t1/&gt; một đầu của cơ thể của nó để tạo thành một góc lên đến 90 độ và vượt qua các chướng ngại vật một cách dễ dàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The research team has studied the leg structures of hundreds of ground animals including those with 2, 4, 8 or more legs, &lt;t0/&gt;in particular the&lt;t1/&gt; ratio between leg-length and the gap between the legs.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052422Z" creationid="hungv" creationdate="20181013T052422Z">
+        <seg>Nhóm nghiên cứu đã nghiên cứu cấu trúc chân của hàng trăm động vật mặt đất bao gồm cả những con có 2, 4, 8 hoặc nhiều chân, &lt;t0/&gt;đặc biệt là&lt;t1/&gt; tỷ lệ giữa chiều dài chân và khoảng cách giữa hai chân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The researchers are currently pursuing such applications through the Toyota-CSAIL Joint Research Center.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050147Z" creationid="hungv" creationdate="20181013T050147Z">
@@ -1350,10 +1478,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The robot is fabricated with a silicon material called polydimethylsiloxane (PDMS) embedded with magnetic particles which enables it to be remotely controlled by applying electromagnetic force.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052522Z" creationid="hungv" creationdate="20181013T052457Z">
+        <seg>Các robot được chế tạo với một chất liệu silicon được gọi là polydimethylsiloxane (PDMS) được nhúng với các hạt từ tính cho phép nó để có điều khiển từ xa bằng cách áp dụng lực điện từ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The robot then looks at the tree to find a way to reach the goal, such as a door.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T050303Z" creationid="hungv" creationdate="20181013T050303Z">
         <seg>Robot sau đó nhìn vào cái cây để tìm cách đạt được mục tiêu, chẳng hạn như cánh cửa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The robot's body thickness measures approximately 0.15 mm, with each conical leg measuring 0.65 mm long and the gap between the legs measuring approximately 0.6 mm, making the leg-length-to-gap ratio around 1:1.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052440Z" creationid="hungv" creationdate="20181013T052440Z">
+        <seg>Độ dày cơ thể của robot đo khoảng 0,15 mm, với mỗi chân hình nón dài 0,65 mm và khoảng cách giữa hai chân đo khoảng 0,6 mm, làm cho tỷ lệ khoảng cách giữa các chân khoảng 1: 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This unique design was not a random choice.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052415Z" creationid="hungv" creationdate="20181013T052415Z">
+        <seg>Thiết kế độc đáo này không phải là một lựa chọn ngẫu nhiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This work might one day let cars learn how humans behave and how to adapt to drivers in different environments, according to the researchers.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T051025Z" creationid="hungv" creationdate="20181013T051013Z">
@@ -1730,6 +1882,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165151Z" creationid="hungv" creationdate="20181012T165151Z">
         <seg>Bệnh bại liệt như paralyzing Mỹ trẻ em là gì?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What makes this milli-robot stand out is its hundreds of less than 1 mm long pointed legs that looks like short tiny hair.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T052410Z" creationid="hungv" creationdate="20181013T052410Z">
+        <seg>Điều khiến robot milli này nổi bật là hàng trăm chân dài chưa tới 1 mm trông giống như mái tóc ngắn bé xíu.</seg>
       </tuv>
     </tu>
     <tu>
