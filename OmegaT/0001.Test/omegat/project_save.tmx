@@ -3661,7 +3661,7 @@
       </tuv>
     </tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>﻿English</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3669,7 +3669,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's probably going to rain tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3677,7 +3677,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's a (good) chance it'll rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3685,7 +3685,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>In all probability, it'll rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3693,7 +3693,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>The odds are it'll rain tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3701,7 +3701,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wouldn't be surprised if it rained</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3709,7 +3709,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's a fifty-fifty chance of rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3717,7 +3717,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's quite likely it'll rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3725,7 +3725,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It may / might / could rain tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3733,7 +3733,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Maybe it'll rain tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3741,7 +3741,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's (just) a chance it'll rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3749,7 +3749,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What is the purpose of your trip?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3757,7 +3757,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Did you pack this bag yourself?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3765,7 +3765,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Please do not leave any bags unattended</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3773,7 +3773,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Do you have anything to declare?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3781,7 +3781,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Flight BA is now boarding</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3789,7 +3789,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Flight UA has been cancelled</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3797,7 +3797,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Flight SA has been delayed</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3805,7 +3805,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Would passenger Jo Page please come to</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3813,7 +3813,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>This is the final call for flight BAto</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3821,7 +3821,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>please make your way to Gate</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3829,7 +3829,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Excuse me, where is the American Airlines check-in desk?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3837,7 +3837,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Will my luggage go straight through, or do I need to pick it up in [Chicago]?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3845,7 +3845,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How much is the fee?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3853,7 +3853,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Please mark this bag as ‘fragile’</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3861,7 +3861,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Don't forget to do it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3869,7 +3869,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Remember to do it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3877,7 +3877,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You will remember to do it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3885,7 +3885,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You won't forget to do it, will you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3893,7 +3893,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Can / Could I remind you to?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3901,7 +3901,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd like to remind you about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3909,7 +3909,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You haven't forgotten about __, have you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3917,7 +3917,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I hope you haven't forgotten to</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3925,7 +3925,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Sorry to be a bore but do you remember to</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3933,7 +3933,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>May I remind you / all passengers that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3941,7 +3941,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Is that rain?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3949,7 +3949,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's only a shower</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3957,7 +3957,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's pouring</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3965,7 +3965,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's bucketing down</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3973,7 +3973,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>We'd better run for it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3981,7 +3981,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's been raining all day</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3989,7 +3989,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm soaked to the skin</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -3997,7 +3997,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm drenched</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4005,7 +4005,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Looks like rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4013,7 +4013,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>We could do with some rain</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4021,7 +4021,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's freezing outside!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4029,7 +4029,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's kinda chilly Wrap up warm</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4037,7 +4037,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's cold</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4045,7 +4045,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's like the Arctic out there</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4053,7 +4053,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's chilly Take a sweater</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4061,7 +4061,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You can see your breath</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4069,7 +4069,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's below zero</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4077,7 +4077,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It must be minus five or more</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4085,7 +4085,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's pretty frosty today</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4093,7 +4093,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I've gotta scrape the windsheild, it's that cold</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4101,7 +4101,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm a hairdresser</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4109,7 +4109,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm in hairdressing</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4117,7 +4117,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I work as a hairdresser</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4125,7 +4125,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm a professional hairdresser</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4133,7 +4133,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm a hair stylist</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4141,7 +4141,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm in the hairdressing business</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4149,7 +4149,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I cut hair (for a living)</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4157,7 +4157,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I work for a hairdresser</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4165,7 +4165,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>My day job is hairdressing</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4173,7 +4173,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I earn my living as a hairdresser</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4181,7 +4181,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm really into it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4189,7 +4189,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm stoked on it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4197,7 +4197,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm fond of it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4205,7 +4205,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It appeals to me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4213,7 +4213,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It goes down well (with people)</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4221,7 +4221,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I like it / I'm partial to it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4229,7 +4229,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm crazy about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4237,7 +4237,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm mad about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4245,7 +4245,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm attached to it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4253,7 +4253,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm passionate about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4261,7 +4261,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm addicted to it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4269,7 +4269,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I've grown to like it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4277,7 +4277,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I don't really like cheating</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4285,7 +4285,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheating is not very me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4293,7 +4293,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheating is not my style</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4301,7 +4301,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheating doesn't do anything for me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4309,7 +4309,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheating is not my thing</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4317,7 +4317,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm not into cheating</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4325,7 +4325,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheating sucks</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4333,7 +4333,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm not a big fan of cheating</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4341,7 +4341,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I never listen to cheating</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4349,7 +4349,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You can keep cheating</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4357,7 +4357,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm not fond of it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4365,7 +4365,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm not crazy about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4373,7 +4373,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I don't appreciate that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4381,7 +4381,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That's not for me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4389,7 +4389,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> In a word, no</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4397,7 +4397,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Not on your life</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4405,7 +4405,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Not likely</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4413,7 +4413,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Over my dead body</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4421,7 +4421,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Count me out</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4429,7 +4429,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd rather not (if you don't mind)</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4437,7 +4437,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd love to, but</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4445,7 +4445,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>No chance</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4453,7 +4453,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Nuh ahh / Hell no!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4461,7 +4461,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>No way!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4469,7 +4469,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I don't believe it!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4477,7 +4477,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What a pain!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4485,7 +4485,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's driving me up the wall</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4493,7 +4493,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I've had it up to here with</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4501,7 +4501,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I've had all I can take of</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4509,7 +4509,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It really gets on my nerves</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4517,7 +4517,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm sick and tired of</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4525,7 +4525,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm fed up with it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4533,7 +4533,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I could really do without it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4541,7 +4541,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Is it possible?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4549,7 +4549,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'd really like / I'd love a day off</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4557,7 +4557,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wouldn't mind a</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4565,7 +4565,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I could (really) do with a</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4573,7 +4573,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I could use a</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4581,7 +4581,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What I'd really like / love is a</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4589,7 +4589,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>All (that) we need is a day off</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4597,7 +4597,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Ideally, what I'd like is a day off</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4605,7 +4605,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>A (bunch of red roses) would be (much) appreciated</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4613,7 +4613,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>A _____ would go down well</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4621,7 +4621,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm dying for / longing for</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4629,7 +4629,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm fine thank you</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4637,7 +4637,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I feel great / marvellous / fine</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4645,7 +4645,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Couldn't be better</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4653,7 +4653,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Fit as a fiddle</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4661,7 +4661,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Very well, thanks</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4669,7 +4669,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Okay</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4677,7 +4677,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Alright</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4685,7 +4685,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Not bad</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4693,7 +4693,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Much better</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4701,7 +4701,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>All the better for seeing you</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4709,7 +4709,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I reckon you should stop now</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4717,7 +4717,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Why don't you stop now?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4725,7 +4725,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How about stopping now?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4733,7 +4733,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If I were you, I'd stop now</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4741,7 +4741,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I suggest you stop now</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4749,7 +4749,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You'd (really) better stop right now</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4757,7 +4757,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I would strongly advise you to stop</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4765,7 +4765,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>My advice would be to stop now</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4773,7 +4773,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It might be a good idea to stop</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4781,7 +4781,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Can you give me a hand with this?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4789,7 +4789,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you help me for a second?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4797,7 +4797,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Can I ask a favour?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4805,7 +4805,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wonder if you could help me with this?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4813,7 +4813,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I could do with some help, please</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4821,7 +4821,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can't manage Can you help?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4829,7 +4829,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Give me a hand with this, will you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4837,7 +4837,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Lend me a hand with this, will you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4845,7 +4845,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you spare a moment?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4853,7 +4853,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I need some help, please</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4861,7 +4861,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Would you mind helping me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4869,7 +4869,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you help me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4877,7 +4877,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you help me out?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4885,7 +4885,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you do me a favor?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4893,7 +4893,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you give me a hand?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4901,7 +4901,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Would you mind showing me ____?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4909,7 +4909,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Do you know anything about ____?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4917,7 +4917,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Do you have any free time on/at ____(day, date, time)?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4925,7 +4925,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I am having a problem with ____ Do you think you can help me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4933,7 +4933,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I heard that you have a lot of experience with ____, and I could really use your help</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4941,7 +4941,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Would you mind showing me ____?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4949,7 +4949,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> He knows all about photography</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4957,7 +4957,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He's a camera expert</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4965,7 +4965,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He's an expert on digital cameras</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4973,7 +4973,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's nothing he doesn't know about X</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4981,7 +4981,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He knows photography inside out</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4989,7 +4989,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You wouldn't believe what he knows about X</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -4997,7 +4997,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He's a walking encyclopaedia of X</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5005,7 +5005,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Photography's his subject</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5013,7 +5013,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He knows it from A - Z</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5021,7 +5021,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>He's an authority on digital cameras</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5029,7 +5029,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Phew!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5037,7 +5037,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Thank God (for that)!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5045,7 +5045,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What a relief!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5053,7 +5053,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm so relieved to hear that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5061,7 +5061,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You had me worried (there / for a moment)</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5069,7 +5069,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That's a weight off my mind</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5077,7 +5077,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You've no idea what a relief it is to hear</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5085,7 +5085,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That's one less thing to worry about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5093,7 +5093,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What a stroke of luck!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5101,7 +5101,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>(Oh well) All's well that ends well!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5109,7 +5109,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm (so) worried about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5117,7 +5117,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm afraid</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5125,7 +5125,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can't help thinking</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5133,7 +5133,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can't stop thinking about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5141,7 +5141,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I've been worried sick about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5149,7 +5149,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's been keeping me awake at night</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5157,7 +5157,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm scared stiff / to death that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5165,7 +5165,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm really nervous</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5173,7 +5173,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I've got butterflies in my stomach</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5181,7 +5181,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm absolutely dreading</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5189,7 +5189,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Suck it up</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5197,7 +5197,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Cheer up</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5205,7 +5205,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Forget it / Forget about it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5213,7 +5213,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Never mind</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5221,7 +5221,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>No harm done</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5229,7 +5229,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Don't panic / No worries</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5237,7 +5237,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Everything will be ok</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5245,7 +5245,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> How boring / tedious / dull !</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5253,7 +5253,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What a bore!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5261,7 +5261,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It bores me to tears</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5269,7 +5269,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It leaves me cold</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5277,7 +5277,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It does nothing for me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5285,7 +5285,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's as dull as ditch-water</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5293,7 +5293,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can't see what all the fuss is about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5301,7 +5301,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's as interesting as watching paint dry</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5309,7 +5309,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm afraid I don't share your enthusiasm</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5317,7 +5317,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can't say that I find it interesting</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5325,7 +5325,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Good for you!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5333,7 +5333,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s really nice</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5341,7 +5341,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Great!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5349,7 +5349,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s the best ever</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5357,7 +5357,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You did that very well</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5365,7 +5365,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s great!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5373,7 +5373,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You’ve got it made</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5381,7 +5381,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Way to go!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5389,7 +5389,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Terrific!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5397,7 +5397,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s the way to do it!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5405,7 +5405,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s not bad!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5413,7 +5413,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s quite an improvement</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5421,7 +5421,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Couldn’t have done it better myself</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5429,7 +5429,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Good thinking</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5437,7 +5437,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Marvelous</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5445,7 +5445,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You really are going to town</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5453,7 +5453,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You’re doing fine</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5461,7 +5461,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Keep up the good work</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5469,7 +5469,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You’re really improving</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5477,7 +5477,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s it!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5485,7 +5485,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You’re on the right track now!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5493,7 +5493,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>That’s better</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5501,7 +5501,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Cheer up!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5509,7 +5509,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Smile!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5517,7 +5517,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's not the end of the world</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5525,7 +5525,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Worse things happen at sea</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5533,7 +5533,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Look on the bright side</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5541,7 +5541,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Every cloud (has a silver lining)</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5549,7 +5549,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Practice makes perfect</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5557,7 +5557,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There are plenty more fish in the sea</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5565,7 +5565,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Lighten up!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5573,7 +5573,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's no use crying over spilt milk</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5581,7 +5581,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Chin up!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5589,7 +5589,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's a breeze</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5597,7 +5597,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Easy peasy</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5605,7 +5605,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's a cinch</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5613,7 +5613,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>There's nothing to it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5621,7 +5621,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Anyone can do it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5629,7 +5629,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's child's play</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5637,7 +5637,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's a walk in the park</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5645,7 +5645,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's not rocket science</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5653,7 +5653,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's easy as pie / easy as a,b,c It's a piece of cake!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5661,7 +5661,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I can do it with my eyes shut</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5669,7 +5669,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's not so easy</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5677,7 +5677,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's a bit tricky</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5685,7 +5685,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's not the easiest ___ in the world</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5693,7 +5693,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It's quite tough at times</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5701,7 +5701,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's (quite/ a bit) hard going/ It's kinda tough</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5709,7 +5709,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's nearly impossible</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5717,7 +5717,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>The course is really demanding / The course is quite demanding</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5725,7 +5725,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>The course can be gruelling at times</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5733,7 +5733,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's not a walk in the park</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5741,7 +5741,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> It's a bear / It's a real bear</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5749,7 +5749,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Yes, that's right / Yeah, that's right</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5757,7 +5757,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You're quite right</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5765,7 +5765,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Yes, that's correct</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5773,7 +5773,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Right on! / That's right on</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5781,7 +5781,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You're dead right</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5789,7 +5789,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Absolutely</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5797,7 +5797,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>You've hit the nail on the head</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5805,7 +5805,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> You could say so</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5813,7 +5813,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'm afraid so / I'm afraid not</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5821,7 +5821,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>(I'm) sorry to say so</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5829,7 +5829,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm afraid that's not quite right</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5837,7 +5837,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Actually, I think you'll find that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5845,7 +5845,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm afraid you're mistaken</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5853,7 +5853,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I don't think you're right about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5861,7 +5861,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Actually, I don't think</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5869,7 +5869,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>No, you've got it wrong</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5877,7 +5877,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>No, that's all wrong</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5885,7 +5885,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Bologna! / What a bunch of bologna! / That's bologna!</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5893,7 +5893,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Where did you hear that?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5901,7 +5901,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If you check your facts, you'll find</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5909,7 +5909,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I hope it's sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5917,7 +5917,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm hoping it'll be sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5925,7 +5925,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Hopefully, it'll be sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5933,7 +5933,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Let's hope it's sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5941,7 +5941,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Here's hoping we have a sunny day</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5949,7 +5949,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If we're lucky, it'll be sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5957,7 +5957,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>With any luck, it'll be sunny tomorrow</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5965,7 +5965,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> If only it would be sunny/ I wish it would be sunny</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5973,7 +5973,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm keeping my fingers crossed for</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5981,7 +5981,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm (really) counting on it being sunny</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5989,7 +5989,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I reckon</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -5997,7 +5997,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd say</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6005,7 +6005,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Personally, I think</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6013,7 +6013,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> My take on it is</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6021,7 +6021,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If you ask me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6029,7 +6029,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>The way I see it</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6037,7 +6037,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>As far as I'm concerned</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6045,7 +6045,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If you don't mind me saying</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6053,7 +6053,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm utterly convinced that</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6061,7 +6061,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>In my humble opinion</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6069,7 +6069,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>In my experience…</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6077,7 +6077,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Speaking for myself…</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6085,7 +6085,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I’d say that…</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6093,7 +6093,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I’d like to point out that…</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6101,7 +6101,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> What do you think of?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6109,7 +6109,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What do you think about?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6117,7 +6117,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How d'you feel (about)?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6125,7 +6125,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What d'you reckon (about)?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6133,7 +6133,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What's your opinion of?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6141,7 +6141,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>(What do think about) that?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6149,7 +6149,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What are your views on?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6157,7 +6157,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Where do you stand (on)?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6165,7 +6165,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What would you say to / if we?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6173,7 +6173,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Are you aware of?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6181,7 +6181,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What’s your view?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6189,7 +6189,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How do you see the situation?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6197,7 +6197,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Can you tell me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6205,7 +6205,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you tell me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6213,7 +6213,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd like to know</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6221,7 +6221,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>D'you know</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6229,7 +6229,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Have you got any idea?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6237,7 +6237,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could anyone tell me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6245,7 +6245,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>(Do / Would) you happen to know?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6253,7 +6253,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I don't suppose you (would) know?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6261,7 +6261,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wonder if you could tell me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6269,7 +6269,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wonder if someone could tell me?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6277,7 +6277,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I wonder if you could + tell me/explain/provide information on</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6285,7 +6285,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Would you mind + verb + ing?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6293,7 +6293,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> How are you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6301,7 +6301,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How are things?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6309,7 +6309,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How's things?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6317,7 +6317,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How's it going?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6325,7 +6325,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How are you getting on?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6333,7 +6333,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How have you been?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6341,7 +6341,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What have you been (getting) up to?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6349,7 +6349,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I hope everything's okay?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6357,7 +6357,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Alright?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6365,7 +6365,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How have you been keeping?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6373,7 +6373,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Why don't we go to the cinema?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6381,7 +6381,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Let's go to the cinema What do you think?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6389,7 +6389,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How about going to the cinema?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6397,7 +6397,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>How do you feel about seeing a film?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6405,7 +6405,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Fancy seeing a film?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6413,7 +6413,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd like to see a film How about you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6421,7 +6421,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>We could always see a film</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6429,7 +6429,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Why not go and see a film?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6437,7 +6437,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Seeing a film's a good idea</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6445,7 +6445,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>It would be nice to see a film</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6453,7 +6453,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> Off the top of my head, I think she's</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6461,7 +6461,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Knowing (the English), he likes football</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6469,7 +6469,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>If I had to take a guess, I'd say she's</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6477,7 +6477,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'd say she's</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6485,7 +6485,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Chances are she's</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6493,7 +6493,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>At a guess, I'd say she's</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6501,7 +6501,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Probably about</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6509,7 +6509,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>We're talking maybe late twenties</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6517,7 +6517,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>About -ish</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6525,7 +6525,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Around about  o'clock</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6533,7 +6533,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg> I'll call you later</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6541,7 +6541,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Leave a message</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6549,7 +6549,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Hi Simon, it's Anna</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6557,7 +6557,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Did you get my message?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6565,7 +6565,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Can I speak to Rob, please?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6573,7 +6573,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Hi, Jenny Where are you?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6581,7 +6581,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Thanks for getting back to me</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6589,7 +6589,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Leave a message after the beep</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6597,7 +6597,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>What's your number?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6605,7 +6605,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I'm returning your call</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6613,7 +6613,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>I’m sorry, she/he’s not here today Can I take a message?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6621,7 +6621,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could I ask who’s calling, please?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6629,7 +6629,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>Could you please take a message? Please tell her/him that…</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
@@ -6637,7 +6637,7 @@
 	  </tuv>
 	</tu>
 	<tu>
-	  <tuv lang=EN-US>
+	  <tuv lang="EN-US">
 		<seg>When is a good time to call?</seg>
 	  </tuv>
 	  <tuv lang="VI" changeid="hungv" changedate="20181012T165429Z" creationid="hungv" creationdate="20181012T165429Z">
