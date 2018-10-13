@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>"Most animals have a leg-length to leg-gap ratio of 2:1 to 1:1.</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T052430Z" creationid="hungv" creationdate="20181013T052430Z">
-        <seg>"Hầu hết các loài động vật có tỷ lệ chân-khoảng cách đến khoảng cách giữa 2: 1 đến 1: 1.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T052430Z">
+        <seg>"Hầu hết các loài động vật có tỷ lệ chân-khoảng cách đến khoảng cách giữa 2: 1 đến 1: </seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>(Do / Would) you happen to know...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055329Z" creationid="hungv" creationdate="20181013T055329Z">
-        <seg>7. Bạn có tình cờ biết rằng...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055525Z" creationid="hungv" creationdate="20181013T055329Z">
+        <seg>Bạn có tình cờ biết rằng...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="EN-US">
         <seg>Actually, I&lt;t0/&gt; think you'll find that...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055221Z" creationid="hungv" creationdate="20181013T055221Z">
-        <seg>5. Thực ra, tôi nghĩ bạn sẽ thấy rằng...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055511Z" creationid="hungv" creationdate="20181013T055221Z">
+        <seg>Thực ra, tôi nghĩ bạn sẽ thấy rằng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>As far as I'm concerned...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055257Z" creationid="hungv" creationdate="20181013T055257Z">
-        <seg>7. Theo những gì tôi biết...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055525Z" creationid="hungv" creationdate="20181013T055257Z">
+        <seg>Theo những gì tôi biết...</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>Can you tell me...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055325Z" creationid="hungv" creationdate="20181013T055325Z">
-        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055325Z">
+        <seg> Bạn có thể nói cho tôi biết...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN-US">
         <seg>Could anyone tell me...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055329Z" creationid="hungv" creationdate="20181013T055329Z">
-        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055329Z">
+        <seg> Bạn có thể nói cho tôi biết...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +824,8 @@
       <tuv lang="EN-US">
         <seg>Could you tell me...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055325Z" creationid="hungv" creationdate="20181013T055325Z">
-        <seg>1. Bạn có thể nói cho tôi biết...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055325Z">
+        <seg> Bạn có thể nói cho tôi biết...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="EN-US">
         <seg>D'you&lt;t0/&gt; know...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055326Z" creationid="hungv" creationdate="20181013T055326Z">
-        <seg>4. Bạn có biết...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055504Z" creationid="hungv" creationdate="20181013T055326Z">
+        <seg>Bạn có biết...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>Have you got any idea...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055327Z" creationid="hungv" creationdate="20181013T055327Z">
-        <seg>5. Bạn có ý tưởng nào cho...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055511Z" creationid="hungv" creationdate="20181013T055327Z">
+        <seg>Bạn có ý tưởng nào cho...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,8 +1056,8 @@
       <tuv lang="EN-US">
         <seg>How &lt;t0/&gt;d'you&lt;t1/&gt; feel (about...)?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055311Z" creationid="hungv" creationdate="20181013T055311Z">
-        <seg>3. Bạn cảm thấy như thế nào về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055447Z" creationid="hungv" creationdate="20181013T055311Z">
+        <seg>Bạn cảm thấy như thế nào về...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,8 +1216,8 @@
       <tuv lang="EN-US">
         <seg>I don't suppose you (would) know...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055330Z" creationid="hungv" creationdate="20181013T055330Z">
-        <seg>8. Tôi không nghĩ bạn sẽ biết....?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055531Z" creationid="hungv" creationdate="20181013T055330Z">
+        <seg>Tôi không nghĩ bạn sẽ biết....?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,32 +1256,32 @@
       <tuv lang="EN-US">
         <seg>I reckon...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055252Z" creationid="hungv" creationdate="20181013T055252Z">
-        <seg>1. Tôi đoán/ cho là...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055252Z">
+        <seg> Tôi đoán/ cho là...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I wonder if someone could tell me...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055331Z" creationid="hungv" creationdate="20181013T055331Z">
-        <seg>9. Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055536Z" creationid="hungv" creationdate="20181013T055331Z">
+        <seg>Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I wonder if you could + tell me/explain/provide information on...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055332Z" creationid="hungv" creationdate="20181013T055332Z">
-        <seg>11. Tôi tự hỏi bạn có thể nói/ giải thích/ cung cấp thông tin về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055427Z" creationid="hungv" creationdate="20181013T055332Z">
+        <seg>1Tôi tự hỏi bạn có thể nói/ giải thích/ cung cấp thông tin về...?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I wonder if you could tell me...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055331Z" creationid="hungv" creationdate="20181013T055331Z">
-        <seg>9. Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055536Z" creationid="hungv" creationdate="20181013T055331Z">
+        <seg>Tôi tự hỏi rằng nếu bạn có thể nói cho tôi...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>I'd like to know...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055326Z" creationid="hungv" creationdate="20181013T055326Z">
-        <seg>3. Tôi muốn biết...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055447Z" creationid="hungv" creationdate="20181013T055326Z">
+        <seg>Tôi muốn biết...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1312,8 @@
       <tuv lang="EN-US">
         <seg>I'd love to, but...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055106Z" creationid="hungv" creationdate="20181013T055106Z">
-        <seg>7. Tôi rất thích, nhưng...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055525Z" creationid="hungv" creationdate="20181013T055106Z">
+        <seg>Tôi rất thích, nhưng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN-US">
         <seg>I'd say...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055254Z" creationid="hungv" creationdate="20181013T055254Z">
-        <seg>2. Tôi muốn nói là...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055441Z" creationid="hungv" creationdate="20181013T055254Z">
+        <seg>Tôi muốn nói là...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="EN-US">
         <seg>I'm keeping my fingers crossed for...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055250Z" creationid="hungv" creationdate="20181013T055250Z">
-        <seg>9. Tôi hy vọng ... sẽ suôn sẻ theo ý muốn.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055536Z" creationid="hungv" creationdate="20181013T055250Z">
+        <seg>Tôi hy vọng ... sẽ suôn sẻ theo ý muốn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,32 +1448,32 @@
       <tuv lang="EN-US">
         <seg>I'm sick and tired of...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055113Z" creationid="hungv" creationdate="20181013T055113Z">
-        <seg>7. Tôi phát bệnh vì...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055525Z" creationid="hungv" creationdate="20181013T055113Z">
+        <seg>Tôi phát bệnh vì...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I'm utterly convinced that...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055304Z" creationid="hungv" creationdate="20181013T055304Z">
-        <seg>9. Tôi hoàn toàn bị thuyết phục rằng...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055536Z" creationid="hungv" creationdate="20181013T055304Z">
+        <seg>Tôi hoàn toàn bị thuyết phục rằng...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I've had all I can take of...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055112Z" creationid="hungv" creationdate="20181013T055112Z">
-        <seg>5. Tôi chịu hết nối rồi...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055511Z" creationid="hungv" creationdate="20181013T055112Z">
+        <seg>Tôi chịu hết nối rồi...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I've had it up to here with...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055112Z" creationid="hungv" creationdate="20181013T055112Z">
-        <seg>4. Tôi chịu hết nối rồi...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055504Z" creationid="hungv" creationdate="20181013T055112Z">
+        <seg>Tôi chịu hết nối rồi...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="EN-US">
         <seg>If only it would be sunny.../ I wish it would be sunny</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055250Z" creationid="hungv" creationdate="20181013T055250Z">
-        <seg>8. Tôi hy vọng ngày mai sẽ là một ngày nắng.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055531Z" creationid="hungv" creationdate="20181013T055250Z">
+        <seg>Tôi hy vọng ngày mai sẽ là một ngày nắng.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,16 +1528,16 @@
       <tuv lang="EN-US">
         <seg>If you ask me...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055256Z" creationid="hungv" creationdate="20181013T055256Z">
-        <seg>5. Nếu bạn hỏi tôi...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055511Z" creationid="hungv" creationdate="20181013T055256Z">
+        <seg>Nếu bạn hỏi tôi...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you check your facts, you'll find...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055245Z" creationid="hungv" creationdate="20181013T055245Z">
-        <seg>13. Nếu bạn kiểm tra lại thực tế bạn sẽ thấy ...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055447Z" creationid="hungv" creationdate="20181013T055245Z">
+        <seg>1Nếu bạn kiểm tra lại thực tế bạn sẽ thấy ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1608,8 @@
       <tuv lang="EN-US">
         <seg>In my humble opinion...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055304Z" creationid="hungv" creationdate="20181013T055304Z">
-        <seg>10. Trong suy nghĩ nhỏ bé của tôi thì...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055544Z" creationid="hungv" creationdate="20181013T055304Z">
+        <seg>Trong suy nghĩ nhỏ bé của tôi thì...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1880,8 @@
       <tuv lang="EN-US">
         <seg>My take on it is...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055256Z" creationid="hungv" creationdate="20181013T055256Z">
-        <seg>4. Điều tôi tìm ra đó là...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055504Z" creationid="hungv" creationdate="20181013T055256Z">
+        <seg>Điều tôi tìm ra đó là...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="EN-US">
         <seg>Personally, I think...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055255Z" creationid="hungv" creationdate="20181013T055255Z">
-        <seg>3. Cá nhân tôi cho rằng...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055447Z" creationid="hungv" creationdate="20181013T055255Z">
+        <seg>Cá nhân tôi cho rằng...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,8 +2512,8 @@
       <tuv lang="EN-US">
         <seg>The robot's body thickness measures approximately 0.15 mm, with each conical leg measuring 0.65 mm long and the gap between the legs measuring approximately 0.6 mm, making the leg-length-to-gap ratio around 1:1.</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T052440Z" creationid="hungv" creationdate="20181013T052440Z">
-        <seg>Độ dày cơ thể của robot đo khoảng 0,15 mm, với mỗi chân hình nón dài 0,65 mm và khoảng cách giữa hai chân đo khoảng 0,6 mm, làm cho tỷ lệ khoảng cách giữa các chân khoảng 1: 1.</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T052440Z">
+        <seg>Độ dày cơ thể của robot đo khoảng 0,15 mm, với mỗi chân hình nón dài 0,65 mm và khoảng cách giữa hai chân đo khoảng 0,6 mm, làm cho tỷ lệ khoảng cách giữa các chân khoảng 1: </seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2592,8 @@
       <tuv lang="EN-US">
         <seg>The way I see it...</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055257Z" creationid="hungv" creationdate="20181013T055257Z">
-        <seg>6. Cách tôi nhìn vấn đề là...</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055520Z" creationid="hungv" creationdate="20181013T055257Z">
+        <seg>Cách tôi nhìn vấn đề là...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2920,8 +2920,8 @@
       <tuv lang="EN-US">
         <seg>What &lt;t0/&gt;d'you&lt;t1/&gt; reckon (about...)?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055311Z" creationid="hungv" creationdate="20181013T055311Z">
-        <seg>3. Bạn cảm thấy như thế nào về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055447Z" creationid="hungv" creationdate="20181013T055311Z">
+        <seg>Bạn cảm thấy như thế nào về...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,24 +2936,24 @@
       <tuv lang="EN-US">
         <seg>What are your views on...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055314Z" creationid="hungv" creationdate="20181013T055314Z">
-        <seg>7. Quan điểm của bạn về...là gì?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055525Z" creationid="hungv" creationdate="20181013T055314Z">
+        <seg>Quan điểm của bạn về...là gì?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>What do you think about...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055310Z" creationid="hungv" creationdate="20181013T055310Z">
-        <seg>1. Bạn nghĩ gì về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055310Z">
+        <seg> Bạn nghĩ gì về...?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>What do you think of...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055310Z" creationid="hungv" creationdate="20181013T055310Z">
-        <seg>1. Bạn nghĩ gì về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055601Z" creationid="hungv" creationdate="20181013T055310Z">
+        <seg> Bạn nghĩ gì về...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,8 +3000,8 @@
       <tuv lang="EN-US">
         <seg>What would you say to... / if we...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055317Z" creationid="hungv" creationdate="20181013T055316Z">
-        <seg>10. Bạn có biết về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055544Z" creationid="hungv" creationdate="20181013T055316Z">
+        <seg>Bạn có biết về...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,8 +3016,8 @@
       <tuv lang="EN-US">
         <seg>What's your opinion of...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055312Z" creationid="hungv" creationdate="20181013T055312Z">
-        <seg>5. Bạn có ý kiến gì về...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055511Z" creationid="hungv" creationdate="20181013T055312Z">
+        <seg>Bạn có ý kiến gì về...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3096,8 +3096,8 @@
       <tuv lang="EN-US">
         <seg>Where do you stand (on...)?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055316Z" creationid="hungv" creationdate="20181013T055316Z">
-        <seg>8. Ý kiến của bạn về... là?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055531Z" creationid="hungv" creationdate="20181013T055316Z">
+        <seg>Ý kiến của bạn về... là?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,8 +3136,8 @@
       <tuv lang="EN-US">
         <seg>Would you mind + verb + &lt;t0/&gt;ing&lt;t1/&gt;...?</seg>
       </tuv>
-      <tuv lang="VI" changeid="hungv" changedate="20181013T055332Z" creationid="hungv" creationdate="20181013T055332Z">
-        <seg>12. Bạn có phiền khi...?</seg>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T055441Z" creationid="hungv" creationdate="20181013T055332Z">
+        <seg>1Bạn có phiền khi...?</seg>
       </tuv>
     </tu>
     <tu>
