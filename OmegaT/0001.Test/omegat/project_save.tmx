@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In their paper, "Deep sequential models for sampling-based planning," the researchers demonstrate the advantages of their model in two settings: navigating through challenging rooms with traps and narrow passages, and navigating areas while avoiding collisions with other agents.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044943Z" creationid="hungv" creationdate="20181013T044943Z">
+        <seg>Trong bài báo của họ, "Deep sequential models for sampling-based planning,", các nhà nghiên cứu chứng minh lợi thế của mô hình của họ trong hai thiết lập: điều hướng qua các phòng thử thách với bẫy và đường hẹp, và điều hướng khu vực trong khi tránh va chạm với các tác nhân khác.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also does not include the cases in Minnesota or Illinois, as they are not confirmed.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T165638Z" creationid="hungv" creationdate="20181012T165638Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181012T161745Z" creationid="hungv" creationdate="20181012T161745Z">
         <seg>Với điều kiện hiếm có thể được gây ra bởi một loại virus, một rối loạn di truyền và môi trường độc tố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The researchers developed a model that combines a planning algorithm with a neural network that learns to recognize paths that could lead to the best outcome, and uses that knowledge to guide the robot's movement in an environment.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T044921Z" creationid="hungv" creationdate="20181013T044921Z">
+        <seg>Các nhà nghiên cứu đã phát triển một mô hình kết hợp thuật toán lập kế hoạch với mạng nơron để học cách nhận ra các cách có thể dẫn đến kết quả tốt nhất và sử dụng tri thức đó để hướng dẫn chuyển động của robot trong môi trường.</seg>
       </tuv>
     </tu>
     <tu>
