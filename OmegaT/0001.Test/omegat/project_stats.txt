@@ -1,16 +1,17 @@
-10/12/18 11:58 PM
+10/13/18 12:37 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	     287	 5157	                      27290	                        32160	     7	
-Remaining:       	     195	 3325	                      17291	                        20421	     5	
-Unique:          	     264	 4664	                      24488	                        28888	     7	
-Unique Remaining:	     194	 3308	                      17195	                        20309	     5	
+Total:           	     804	 7618	                      37877	                        44706	     8	
+Remaining:       	     709	 5781	                      27856	                        32943	     6	
+Unique:          	     774	 7108	                      34995	                        41343	     8	
+Unique Remaining:	     701	 5747	                      27680	                        32740	     6	
 
 
 Individual File Statistics:
 
 File Name                                                                         	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+500_communicate.docx                                                              	           517	               514	            510	                      507	       2461	           2456	        2444	                  2439	                            10587	                                10565	                             10507	                                       10485	                              12546	                                  12522	                               12455	                                         12431	
 Illinois, Colorado, Washington report cases of polio-like illness in children.docx	            40	                 0	             40	                        0	        776	              0	         776	                     0	                             3937	                                    0	                              3937	                                           0	                               4672	                                      0	                                4672	                                             0	
 Model helps robots navigate more like humans do.docx                              	            58	                57	             58	                       57	       1243	           1218	        1243	                  1218	                             6467	                                 6307	                              6467	                                        6307	                               7648	                                   7464	                                7648	                                          7464	
 sourceFileForOmegaT.odt                                                           	            24	                 0	             24	                        0	        509	              0	         509	                     0	                             2903	                                    0	                              2903	                                           0	                               3388	                                      0	                                3388	                                             0	
