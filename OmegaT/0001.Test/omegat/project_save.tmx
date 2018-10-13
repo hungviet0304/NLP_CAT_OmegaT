@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A promising real-world application is helping autonomous cars navigate intersections, where they have to quickly evaluate what others will do before merging into traffic.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T045052Z" creationid="hungv" creationdate="20181013T045045Z">
+        <seg>Một ứng dụng thế giới thực đầy hứa hẹn giúp xe ô tô tự di chuyển trong các nút giao thông, nơi chúng phải nhanh chóng đánh giá người khác sẽ làm gì trước khi sáp nhập lưu thông.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A robot that needs to navigate a room to reach a door, for instance, will create a step-by-step search tree of possible movements and then execute the best path to the door, considering various constraints.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T044712Z" creationid="hungv" creationdate="20181013T044712Z">
