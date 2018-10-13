@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How’s it going?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T054820Z" creationid="hungv" creationdate="20181013T054820Z">
+        <seg>Mọi chuyện thế nào rồi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can can a can.</seg>
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181010T131933Z" creationid="hungv" creationdate="20181010T131933Z">
@@ -2278,6 +2286,29 @@
       </tuv>
       <tuv lang="VI" changeid="hungv" changedate="20181013T054757Z" creationid="hungv" creationdate="20181013T054757Z">
         <seg>Tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">500_communicate.docx</prop>
+      <prop type="prev">English</prop>
+      <prop type="next">How’s it going?</prop>
+      <tuv lang="EN-US">
+        <seg>Hey man.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T054806Z" creationid="hungv" creationdate="20181013T054806Z">
+        <seg>Chào anh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">500_communicate.docx</prop>
+      <prop type="prev">How’s it going?</prop>
+      <prop type="next">What’s &lt;t0/&gt;up?,&lt;t1/&gt; What’s new?, or What’s going on?</prop>
+      <tuv lang="EN-US">
+        <seg>or How are you doing?</seg>
+      </tuv>
+      <tuv lang="VI" changeid="hungv" changedate="20181013T054833Z" creationid="hungv" creationdate="20181013T054833Z">
+        <seg>
+Mọi chuyện thế nào rồi?</seg>
       </tuv>
     </tu>
   </body>
